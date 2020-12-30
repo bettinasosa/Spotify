@@ -7,10 +7,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client_id = 'b9bca1427f084b93be082e6755acbeab'
-client_secret = '2398177c2eae4536976c36e94ad1fb00'
-
-
 app = Flask(__name__)
 app.config['SECRET_KEY'] = os.urandom(64)
 app.config['SESSION_TYPE'] = 'filesystem'
