@@ -99,7 +99,8 @@ class SpotifyAPI(object):
     def search(self, query, search_type='artist'):  # type
         headers = self.get_resource_header()
         endpoint = "https://api.spotify.com/v1/search"
-        data = urlencode({"q": query, "type": search_type.lower()})
+        data = urlencode(
+            {"q": query, "type": search_type.lower(), "market": 'GB', "limit": 1})
         lookup_url = f"{endpoint}?{data}"
         r = requests.get(lookup_url, headers=headers)
         if r.status_code not in range(200, 299):
