@@ -30,7 +30,7 @@ for playlist in playList:
     for i, item in enumerate(response['items']):
         trackLists.append(
             dict(track=item['track']))
-    pprint(trackLists)
+    # pprint(trackLists)
 for song in trackLists:
     tracks = song['track']['name']
     track_id = song['track']['id']
@@ -41,22 +41,27 @@ for song in trackLists:
 tracks_with_features = []
 for i in trackList:
     track_id = i['id']
-    sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
-    features = sp.audio_features(track_id)
-    f = features[0]
-    tracks_with_features.append(dict(
-        name=i['name'],
-        id=i['id'],
-        danceability=f['danceability'],
-        energy=f['energy'],
-        loudness=f['loudness'],
-        speechiness=f['speechiness'],
-        acousticness=f['acousticness'],
-        tempo=f['tempo'],
-        liveness=f['liveness'],
-        valence=f['valence']
-    ))
-# print(tracks_with_features[0])
+    if track_id != None:
+        # print(track_id)
+        sp = spotipy.Spotify(
+            client_credentials_manager=client_credentials_manager)
+        features = sp.audio_features(track_id)
+        f = features[0]
+        tracks_with_features.append(dict(
+            name=i['name'],
+            id=i['id'],
+            danceability=f['danceability'],
+            energy=f['energy'],
+            loudness=f['loudness'],
+            speechiness=f['speechiness'],
+            acousticness=f['acousticness'],
+            tempo=f['tempo'],
+            liveness=f['liveness'],
+            valence=f['valence']
+        ))
+        # print(tracks_with_features[0])
+    else:
+        pass
 
 csv_columns = ['name', 'id', 'danceability',
                'energy', 'loudness', 'speechiness', 'acousticness', 'tempo', 'liveness', 'valence']
