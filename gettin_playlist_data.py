@@ -34,13 +34,3 @@ for i in response['items']:
     trackList.append(
         dict(name=tracks, id=track_id))
     print(trackList)
-
-""" for item in response:
-        print(item)
-        for t, track in enumerate(item['track']):
-            trackList.append(
-                dict(name=item['name'], id=item['id']))
-
-        pprint(trackList)
-    offset = offset + len(response['items'])
- """
