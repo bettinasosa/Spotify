@@ -22,16 +22,25 @@ for playlist in playList:
     pl_id = playlist['id']
     offset = 0
     trackList = []
-    while True:
-        response = sp.playlist_items(pl_id,
-                                     offset=offset,
-                                     fields='items.track.id,items.track.name,total',
-                                     additional_types=['track'])
+    response = sp.playlist_items(pl_id,
+                                 offset=offset,
+                                 fields='items.track.id,items.track.name',
+                                 additional_types=['track'])
 
-        for i, item in enumerate(response['items']):
+trackList = []
+for i in response['items']:
+    tracks = i['track']['name']
+    track_id = i['track']['id']
+    trackList.append(
+        dict(name=tracks, id=track_id))
+    print(trackList)
+
+""" for item in response:
+        print(item)
+        for t, track in enumerate(item['track']):
             trackList.append(
-                dict(track=item['track']))
-        print(trackList[0])
+                dict(name=item['name'], id=item['id']))
 
-    # pprint(trackList)
+        pprint(trackList)
     offset = offset + len(response['items'])
+ """
