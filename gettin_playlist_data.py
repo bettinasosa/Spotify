@@ -2,6 +2,7 @@ from pprint import pprint
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 import spotipy
 from dotenv import load_dotenv
+import csv
 
 load_dotenv()
 
@@ -33,4 +34,36 @@ for i in response['items']:
     track_id = i['track']['id']
     trackList.append(
         dict(name=tracks, id=track_id))
-    print(trackList)
+    # print(trackList)
+
+tracks_with_features = []
+for i in trackList:
+    track_id = i['id']
+    sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+    features = sp.audio_features(track_id)
+    f = features[0]
+    tracks_with_features.append(dict(
+        name=i['name'],
+        id=i['id'],
+        danceability=f['danceability'],
+        energy=f['energy'],
+        loudness=f['loudness'],
+        speechiness=f['speechiness'],
+        acousticness=f['acousticness'],
+        tempo=f['tempo'],
+        liveness=f['liveness'],
+        valence=f['valence']
+    ))
+print(tracks_with_features[0])
+
+csv_columns = ['name', 'id', 'danceability',
+               'energy', 'loudness', 'speechiness', 'acousticness', 'tempo', 'liveness', 'valence']
+csv_file = "emotion_data.csv"
+try:
+    with open(csv_file, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+        writer.writeheader()
+        for data in tracks_with_features:
+            writer.writerow(data)
+except IOError:
+    print("I/O error")
