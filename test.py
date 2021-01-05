@@ -9,9 +9,6 @@ client_credentials_manager = SpotifyClientCredentials()
 
 scope = 'playlist-read-private'
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-search_str = 'Muse'
-result = sp.search(search_str)
-pprint(result)
 
 results = sp.current_user_playlists(limit=50)
 playList = []
@@ -34,10 +31,7 @@ for playlist in playList:
         for i, item in enumerate(response['items']):
             trackList.append(
                 dict(track=item['track']))
-        print(trackList)
-
-        if len(response['items']) == 0:
-            break
+        print(trackList[0])
 
     # pprint(trackList)
     offset = offset + len(response['items'])
