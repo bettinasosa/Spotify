@@ -50,6 +50,8 @@ for i in trackList:
         tracks_with_features.append(dict(
             name=i['name'],
             id=i['id'],
+            key=f['key'],
+            length=f['duration_ms'],
             danceability=f['danceability'],
             energy=f['energy'],
             loudness=f['loudness'],
