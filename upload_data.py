@@ -10,8 +10,8 @@ import spotipy
 import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 from dotenv import load_dotenv
-import schedule
 from datetime import datetime
+from ml import *
 
 load_dotenv()
 
@@ -19,10 +19,10 @@ client_credentials_manager = SpotifyClientCredentials()
 
 scope = 'user-top-read'
 
-client = MongoClient(
+""" client = MongoClient(
     "mongodb+srv://gorgodar:gorgodar@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true&w=majority")
 db = client.Spotify
-
+ """
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 sp_range = ['short_term']
 results = sp.current_user_top_tracks(time_range=sp_range, limit=20)
@@ -41,6 +41,7 @@ for i in trackList:
         client_credentials_manager=client_credentials_manager)
     features = sp.audio_features(track_id)
     f = features[0]
+    m = predict_mood(track_id)
     tracks_with_features.append(dict(
         name=i['name'],
         artist=i['artist'],
@@ -53,8 +54,9 @@ for i in trackList:
         tempo=f['tempo'],
         liveness=f['liveness'],
         valence=f['valence'],
+        mood=m
     ))
 
 # app = json.dumps(tracks_with_features)
-db.Spotify.insert_many(tracks_with_features)
-print(tracks_with_features[0])
+# db.Spotify.insert_many(tracks_with_features)
+print(tracks_with_features)

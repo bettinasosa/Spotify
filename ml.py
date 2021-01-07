@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[65]:
 
 import tensorflow as tf
 from keras.utils import np_utils
@@ -34,23 +33,14 @@ tf.compat.v1.disable_v2_behavior()
 # Library to validate the model
 
 
-# In[66]:
-
 client_credentials_manager = SpotifyClientCredentials()
 
 df = pd.read_csv("data_moods.csv")
-
-
-# In[67]:
-
 
 col_features = df.columns[6:-3]
 X = MinMaxScaler().fit_transform(df[col_features])
 X2 = np.array(df[col_features])
 Y = df['mood']
-
-
-# In[68]:
 
 
 # Encodethe categories
@@ -59,7 +49,6 @@ encoder.fit(Y)
 encoded_y = encoder.transform(Y)
 
 
-# Convert to  dummy (Not necessary in my case)
 dummy_y = np_utils.to_categorical(encoded_y)
 
 X_train, X_test, Y_train, Y_test = train_test_split(
@@ -68,9 +57,6 @@ X_train, X_test, Y_train, Y_test = train_test_split(
 target = pd.DataFrame({'mood': df['mood'].tolist(
 ), 'encode': encoded_y}).drop_duplicates().sort_values(['encode'], ascending=True)
 target
-
-
-# In[69]:
 
 
 def base_model():
@@ -86,9 +72,6 @@ def base_model():
     return model
 
 
-# In[70]:
-
-
 # Configure the model
 estimator = KerasClassifier(
     build_fn=base_model, epochs=300, batch_size=200, verbose=0)
@@ -97,7 +80,7 @@ estimator = KerasClassifier(
 # Evaluate the model using KFold cross validation
 kfold = KFold(n_splits=10, shuffle=True)
 results = cross_val_score(estimator, X, encoded_y, cv=kfold)
-print("Baseline: %.2f%% (%.2f%%)" % (results.mean()*100, results.std()*100))
+#print("Baseline: %.2f%% (%.2f%%)" % (results.mean()*100, results.std()*100))
 
 
 estimator.fit(X_train, Y_train)
@@ -116,9 +99,6 @@ ax.yaxis.set_ticklabels(labels)
 #plt.show()
 
 print("Accuracy Score", accuracy_score(Y_test, y_preds)) """
-
-
-# In[75]:
 
 
 def predict_mood(id_song):
@@ -140,7 +120,8 @@ def predict_mood(id_song):
     name_song = preds[0][0]
     artist = preds[0][2]
 
-    return print("{0} by {1} is a {2} song".format(name_song, artist, mood[0].upper()))
+    return mood[0].upper()
+    #print("{0} by {1} is a {2} song".format(name_song, artist, mood[0].upper()))
     #print(f"{name_song} by {artist} is a {mood[0].upper()} song")
 
 
@@ -178,7 +159,6 @@ def get_songs_features(id_songs):
     columns = ['name', 'album', 'artist', 'id', 'release_date', 'popularity', 'length', 'danceability', 'acousticness', 'energy', 'instrumentalness',
                'liveness', 'valence', 'loudness', 'speechiness', 'tempo', 'key', 'time_signature']
     return track, columns
-# In[76]:
 
 
 predict_mood('75JFxkI2RXiU7L9VXzMkle')
