@@ -11,59 +11,51 @@ import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 from dotenv import load_dotenv
 import schedule
+from datetime import datetime
 
+load_dotenv()
 
-def data():
+client_credentials_manager = SpotifyClientCredentials()
 
-    load_dotenv()
+scope = 'user-top-read'
 
-    client_credentials_manager = SpotifyClientCredentials()
+client = MongoClient(
+    "mongodb+srv://gorgodar:gorgodar@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true&w=majority")
+db = client.Spotify
 
-    scope = 'user-top-read'
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
+sp_range = ['short_term']
+results = sp.current_user_top_tracks(time_range=sp_range, limit=20)
+trackList = []
+for i, item in enumerate(results['items']):
+    trackList.append(
+        dict(name=item['name'], id=item['id'],
+             artist=item['artists'][0]['name']))
+# print(i, item['name'], '//', item['artists'][0]['name'], '//', item['id'])
+# return trackList
 
-    client = MongoClient(
-        "mongodb+srv://gorgodar:gorgodar@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true&w=majority")
-    db = client.Spotify
+tracks_with_features = []
+for i in trackList:
+    track_id = i['id']
+    sp = spotipy.Spotify(
+        client_credentials_manager=client_credentials_manager)
+    features = sp.audio_features(track_id)
+    f = features[0]
+    tracks_with_features.append(dict(
+        name=i['name'],
+        artist=i['artist'],
+        id=i['id'],
+        danceability=f['danceability'],
+        energy=f['energy'],
+        loudness=f['loudness'],
+        speechiness=f['speechiness'],
+        acousticness=f['acousticness'],
+        tempo=f['tempo'],
+        liveness=f['liveness'],
+        valence=f['valence'],
+        time=datetime.now()
+    ))
 
-    sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-    sp_range = ['short_term']
-    results = sp.current_user_top_tracks(time_range=sp_range, limit=20)
-    trackList = []
-    for i, item in enumerate(results['items']):
-        trackList.append(
-            dict(name=item['name'], id=item['id'],
-                 artist=item['artists'][0]['name']))
-    # print(i, item['name'], '//', item['artists'][0]['name'], '//', item['id'])
-    # return trackList
-
-    tracks_with_features = []
-    for i in trackList:
-        track_id = i['id']
-        sp = spotipy.Spotify(
-            client_credentials_manager=client_credentials_manager)
-        features = sp.audio_features(track_id)
-        f = features[0]
-        tracks_with_features.append(dict(
-            name=i['name'],
-            artist=i['artist'],
-            id=i['id'],
-            danceability=f['danceability'],
-            energy=f['energy'],
-            loudness=f['loudness'],
-            speechiness=f['speechiness'],
-            acousticness=f['acousticness'],
-            tempo=f['tempo'],
-            liveness=f['liveness'],
-            valence=f['valence'],
-            time=time.strftime('%a %H:%M:%S')
-        ))
-
-    #app = json.dumps(tracks_with_features)
-    db.Spotify.insert_many(tracks_with_features)
-    print(tracks_with_features[0])
-
-
-schedule.every(1).hour.do(data)
-
-while True:
-    schedule.run_pending()
+# app = json.dumps(tracks_with_features)
+db.Spotify.insert_many(tracks_with_features)
+print(tracks_with_features[0])
