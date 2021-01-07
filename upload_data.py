@@ -25,10 +25,6 @@ def data():
         "mongodb+srv://gorgodar:gorgodar@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true&w=majority")
     db = client.Spotify
 
-    # Issue the serverStatus command and print the results
-    serverStatusResult = db.command("serverStatus")
-    # pprint(serverStatusResult)
-
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
     sp_range = ['short_term']
     results = sp.current_user_top_tracks(time_range=sp_range, limit=20)
