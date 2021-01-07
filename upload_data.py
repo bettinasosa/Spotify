@@ -53,7 +53,6 @@ for i in trackList:
         tempo=f['tempo'],
         liveness=f['liveness'],
         valence=f['valence'],
-        time=datetime.now()
     ))
 
 # app = json.dumps(tracks_with_features)
