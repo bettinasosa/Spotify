@@ -43,7 +43,7 @@ for i in trackList:
         liveness=f['liveness'],
         valence=f['valence']
     ))
-print(tracks_with_features[0])
+    print(tracks_with_features[0])
 
 csv_columns = ['name', 'artist', 'id', 'danceability',
                'energy', 'loudness', 'speechiness', 'acousticness', 'tempo', 'liveness', 'valence']
