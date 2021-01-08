@@ -40,16 +40,17 @@ for i, item in enumerate(results['items']):
 
 # pprint(trackLists[0])
 
+# Getting all the track features
 tracks_with_features = []
 data = []
 for song in trackLists:
     track_id = song['name']['id']
-    name = song['name']['name']
+    #name = song['name']['name']
     sp = spotipy.Spotify(
         client_credentials_manager=client_credentials_manager)
     meta = sp.track(track_id)
     features = sp.audio_features(track_id)
-    pprint(name)
+    # pprint(name)
 
     tracks_with_features.append(dict(
         name=meta['name'],
@@ -71,6 +72,7 @@ for song in trackLists:
         key=features[0]['key'],
         time_signature=features[0]['time_signature']))
 
+# putting the data in the correct format to send to mongo
 data.append(dict(tracks=tracks_with_features,
                  time=datetime.now()))
 db.Spotify.insert_many(data)
