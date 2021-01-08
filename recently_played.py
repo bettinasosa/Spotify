@@ -1,21 +1,28 @@
+
 #!/usr/bin/env python 3.7.4
 # coding: utf-8
 
-import time
-from pymongo import MongoClient
 from pprint import pprint
-import os
+from pymongo import MongoClient
 import spotipy
+import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 from dotenv import load_dotenv
+import os
+import time
 from datetime import datetime
+
+
+# music played in the last hour, as script will run every hour
+millis = int(round(time.time() * 1000 - 3600000))
 
 # loading client credentials
 load_dotenv()
 
 # specifying necessary authentications and scope
 client_credentials_manager = SpotifyClientCredentials()
-scope = 'user-top-read'
+scope = 'user-read-recently-played'
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 
 # mongo client and database I am sending the document to
 password = os.getenv("password", "")
@@ -23,22 +30,26 @@ client = MongoClient(
     "mongodb+srv://gorgodar:{0}@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true & w=majority".format(password))
 db = client.Spotify
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-sp_range = ['short_term']
-results = sp.current_user_top_tracks(time_range=sp_range, limit=20)
+# getting recently played songs maximum 20 (normally I don't play more that 16 songs in an hour)
+results = sp.current_user_recently_played(limit=20, after=millis)
 trackList = []
+trackLists = []
 for i, item in enumerate(results['items']):
-    trackList.append(item['id'])
-# print(i, item['name'], '//', item['artists'][0]['name'], '//', item['id'])
+    trackLists.append(
+        dict(name=item['track']))
 
-# getting my top played tracked in the past few days
+# pprint(trackLists[0])
+
 tracks_with_features = []
 data = []
-for i in trackList:
+for song in trackLists:
+    track_id = song['name']['id']
+    name = song['name']['name']
     sp = spotipy.Spotify(
         client_credentials_manager=client_credentials_manager)
-    meta = sp.track(i)
-    features = sp.audio_features(i)
+    meta = sp.track(track_id)
+    features = sp.audio_features(track_id)
+    pprint(name)
 
     tracks_with_features.append(dict(
         name=meta['name'],
@@ -60,8 +71,8 @@ for i in trackList:
         key=features[0]['key'],
         time_signature=features[0]['time_signature']))
 
-""" data.append(dict(tracks=tracks_with_features,
+data.append(dict(tracks=tracks_with_features,
                  time=datetime.now()))
-db.Spotify.insert_many(data) """
-pprint(tracks_with_features[0])
-# pprint(tracks_with_features)
+db.Spotify.insert_many(data)
+
+# pprint(name)
