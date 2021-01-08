@@ -27,7 +27,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 # mongo client and database I am sending the document to
 password = os.getenv("password", "")
 client = MongoClient(
-    "mongodb+srv://gorgodar:{0}@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true & w=majority".format(password))
+    "mongodb+srv://gorgodar:{0}@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true&w=majority".format(password))
 db = client.Spotify
 
 # getting recently played songs maximum 20 (normally I don't play more that 16 songs in an hour)
