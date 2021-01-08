@@ -1,9 +1,9 @@
-.cache
-*.spotify_caches
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.spotify_caches/
 
 # C extensions
 *.so
