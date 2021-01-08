@@ -117,8 +117,8 @@ def predict_mood(id_song):
     results = pip.predict(preds_features)
 
     mood = np.array(target['mood'][target['encode'] == int(results)])
-    name_song = preds[0][0]
-    artist = preds[0][2]
+    #name_song = preds[0][0]
+    #artist = preds[0][2]
 
     return mood[0].upper()
     #print("{0} by {1} is a {2} song".format(name_song, artist, mood[0].upper()))
@@ -161,6 +161,5 @@ def get_songs_features(id_songs):
     return track, columns
 
 
-predict_mood('75JFxkI2RXiU7L9VXzMkle')
-
+# predict_mood('7yq4Qj7cqayVTp3FF9CWbm')
 # %%
