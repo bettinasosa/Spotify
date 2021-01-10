@@ -39,7 +39,7 @@ scope = 'playlist-read-private'
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 trackLists = []
 trackList = []
-
+tracks_with_features = []
 for genre in playlists:
     sp = spotipy.Spotify(
         client_credentials_manager=client_credentials_manager)
@@ -55,7 +55,6 @@ for genre in playlists:
     for i, item in enumerate(response['items']):
         trackLists.append(
             dict(track=item['track']))
-    tracks_with_features = []
     for song in trackLists:
         track_id = song['track']['id']
         # print(track_id)
