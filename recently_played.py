@@ -11,7 +11,11 @@ from dotenv import load_dotenv
 import os
 import time
 from datetime import datetime
+import sys
+from ml import predict_mood
 
+""" while True:
+    try: """
 
 # music played in the last hour, as script will run every hour
 millis = int(round(time.time() * 1000 - 3600000))
@@ -25,9 +29,9 @@ scope = 'user-read-recently-played'
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 
 # mongo client and database I am sending the document to
-password = os.getenv("password", "")
+password = os.getenv("password")
 client = MongoClient(
-    "mongodb+srv://gorgodar:{0}@cluster0.z77hp.mongodb.net/Spotify?retryWrites=true&w=majority".format(password))
+    "mongodb+srv://gorgodar:{0}@cluster0.z77hp.mongodb.net/recent?retryWrites=true&w=majority".format(password))
 db = client.Spotify
 
 # getting recently played songs maximum 20 (normally I don't play more that 16 songs in an hour)
@@ -45,13 +49,13 @@ tracks_with_features = []
 data = []
 for song in trackLists:
     track_id = song['name']['id']
-    #name = song['name']['name']
+    # Getting the mood
+    mood = predict_mood(track_id)
     sp = spotipy.Spotify(
         client_credentials_manager=client_credentials_manager)
     meta = sp.track(track_id)
     features = sp.audio_features(track_id)
-    # pprint(name)
-
+# pprint(name)
     tracks_with_features.append(dict(
         name=meta['name'],
         album=meta['album']['name'],
@@ -73,8 +77,13 @@ for song in trackLists:
         time_signature=features[0]['time_signature']))
 
 # putting the data in the correct format to send to mongo
+pprint(tracks_with_features)
 data.append(dict(tracks=tracks_with_features,
                  time=datetime.now()))
-db.Spotify.insert_many(data)
-
-# pprint(name)
+db.recent.insert_many(data)
+# pprint(tracks_with_features[0])
+# repeat every hour
+"""     time.sleep(3600)
+except KeyboardInterrupt:
+    # quit
+    sys.exit() """

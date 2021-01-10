@@ -35,7 +35,74 @@ playlists = {'romantic': ['37i9dQZF1DX50QitC6Oqtn', '37i9dQZF1DWXqpDKK4ed9O',
                      ]
              }
 
-# Ignore this (for me to know which playlist is which)
+scope = 'playlist-read-private'
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
+trackLists = []
+trackList = []
+
+for genre in playlists:
+    sp = spotipy.Spotify(
+        client_credentials_manager=client_credentials_manager)
+    genre = str(genre)
+    print(genre)
+    for pl_id in playlists[str(genre)]:
+        # print(pl_id)
+        offset = 0
+    response = sp.playlist_items(pl_id,
+                                 offset=offset,
+                                 fields='items.track.id,items.track.name',
+                                 additional_types=['track'])
+    for i, item in enumerate(response['items']):
+        trackLists.append(
+            dict(track=item['track']))
+    tracks_with_features = []
+    for song in trackLists:
+        track_id = song['track']['id']
+        # print(track_id)
+        if track_id != None:
+            sp = spotipy.Spotify(
+                client_credentials_manager=client_credentials_manager)
+            meta = sp.track(track_id)
+            features = sp.audio_features(track_id)
+
+            tracks_with_features.append(dict(
+                name=meta['name'],
+                album=meta['album']['name'],
+                artist=meta['album']['artists'][0]['name'],
+                release_date=meta['album']['release_date'],
+                length=meta['duration_ms'],
+                popularity=meta['popularity'],
+                id=meta['id'],
+                acousticness=features[0]['acousticness'],
+                danceability=features[0]['danceability'],
+                energy=features[0]['energy'],
+                instrumentalness=features[0]['instrumentalness'],
+                liveness=features[0]['liveness'],
+                valence=features[0]['valence'],
+                loudness=features[0]['loudness'],
+                speechiness=features[0]['speechiness'],
+                tempo=features[0]['tempo'],
+                key=features[0]['key'],
+                time_signature=features[0]['time_signature'],
+                mood=genre))
+            # print(tracks_with_features[0])
+        else:
+            pass
+
+csv_columns = ['name', 'album', 'artist', 'id', 'release_date', 'popularity', 'length', 'danceability', 'acousticness', 'energy', 'instrumentalness',
+               'liveness', 'valence', 'loudness', 'speechiness', 'tempo', 'key', 'time_signature', 'genre']
+csv_file = "moods_dataset.csv"
+try:
+    with open(csv_file, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+        writer.writeheader()
+        for data in tracks_with_features:
+            writer.writerow(data)
+except IOError:
+    print("I/O error")
+
+
+""" # Ignore this (for me to know which playlist is which)
 # Romance genre
 romantic1 = '37i9dQZF1DX50QitC6Oqtn'  # love pop
 romantic2 = '37i9dQZF1DWXqpDKK4ed9O'  # 90s love songs
@@ -77,68 +144,4 @@ sad2 = '37i9dQZF1DXbrUpGvoi3TS'  # Broken Heart
 sad3 = '37i9dQZF1DWX83CujKHHOn'  # alone again
 sad4 = '37i9dQZF1DX3YSRoSdA634'  # life sucks (yeez)
 sad5 = '37i9dQZF1DWVxpHBekDUXK'  # coping with loss
-sad6 = '37i9dQZF1DWZrc3lwvImLj'  # melancholy instrumental
-
-scope = 'playlist-read-private'
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-trackLists = []
-trackList = []
-
-for genre in playlists:
-    sp = spotipy.Spotify(
-        client_credentials_manager=client_credentials_manager)
-    genre = str(genre)
-    for pl_id in playlists[str(genre)]:
-        # print(pl_id)
-        offset = 0
-    response = sp.playlist_items(pl_id,
-                                 offset=offset,
-                                 fields='items.track.id,items.track.name',
-                                 additional_types=['track'])
-    for i, item in enumerate(response['items']):
-        trackLists.append(
-            dict(track=item['track']))
-    for song in trackLists:
-        tracks = song['track']['name']
-        track_id = song['track']['id']
-        trackList.append(
-            dict(name=tracks, id=track_id, mood=genre))
-    pprint(trackList)
-
-tracks_with_features = []
-for i in trackList:
-    track_id = i['id']
-    if track_id != None:
-        # print(track_id)
-        sp = spotipy.Spotify(
-            client_credentials_manager=client_credentials_manager)
-        features = sp.audio_features(track_id)
-        f = features[0]
-        tracks_with_features.append(dict(
-            name=i['name'],
-            id=i['id'],
-            mood=i['mood'],
-            danceability=f['danceability'],
-            energy=f['energy'],
-            loudness=f['loudness'],
-            speechiness=f['speechiness'],
-            acousticness=f['acousticness'],
-            tempo=f['tempo'],
-            liveness=f['liveness'],
-            valence=f['valence']
-        ))
-        # print(tracks_with_features[0])
-    else:
-        pass
-
-csv_columns = ['name', 'id', 'mood', 'danceability',
-               'energy', 'loudness', 'speechiness', 'acousticness', 'tempo', 'liveness', 'valence']
-csv_file = "moods_dataset.csv"
-try:
-    with open(csv_file, 'w') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-        writer.writeheader()
-        for data in tracks_with_features:
-            writer.writerow(data)
-except IOError:
-    print("I/O error")
+sad6 = '37i9dQZF1DWZrc3lwvImLj'  # melancholy instrumental """

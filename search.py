@@ -9,11 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-if len(sys.argv) > 1:
-    search_str = sys.argv[1]
-else:
-    search_str = 'Build Me Up Buttercup'
-
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
-result = sp.search(search_str)
+#result = sp.search(search_str)
+result = sp.recommendations(seed_tracks='tracks')
 pprint.pprint(result)
