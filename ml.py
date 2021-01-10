@@ -35,7 +35,7 @@ tf.compat.v1.disable_v2_behavior()
 
 client_credentials_manager = SpotifyClientCredentials()
 
-df = pd.read_csv("data_moods.csv")
+df = pd.read_csv("moods_dataset.csv")
 
 col_features = df.columns[6:-3]
 X = MinMaxScaler().fit_transform(df[col_features])
@@ -161,5 +161,5 @@ def get_songs_features(id_songs):
     return track, columns
 
 
-# predict_mood('7yq4Qj7cqayVTp3FF9CWbm')
+predict_mood('7yq4Qj7cqayVTp3FF9CWbm')
 # %%

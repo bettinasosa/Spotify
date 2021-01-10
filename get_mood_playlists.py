@@ -90,7 +90,7 @@ for genre in playlists:
             pass
 
 csv_columns = ['name', 'album', 'artist', 'id', 'release_date', 'popularity', 'length', 'danceability', 'acousticness', 'energy', 'instrumentalness',
-               'liveness', 'valence', 'loudness', 'speechiness', 'tempo', 'key', 'time_signature', 'genre']
+               'liveness', 'valence', 'loudness', 'speechiness', 'tempo', 'key', 'time_signature', 'mood']
 csv_file = "moods_dataset.csv"
 try:
     with open(csv_file, 'w') as csvfile:
