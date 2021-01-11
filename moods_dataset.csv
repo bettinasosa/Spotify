@@ -1,4 +1,899 @@
 name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood
+Oh What A Love,Oh What A Love,Kina Grannis,5Z8O4RFAmjA13jrOYIgyXA,2020-12-25,57,235135,0.457,0.941,0.064,0.108,0.107,0.0647,-19.928,0.0339,147.824,6,3,romantic
+better with you,a constant state of improvement.,Virginia To Vegas,0OPIBKjAYBFzNpo1HzjqzQ,2020-02-28,63,191826,0.623,0.525,0.572,0,0.185,0.461,-9.257,0.0606,78.02,2,4,romantic
+Afterglow,Afterglow,Ed Sheeran,0E4Y1XIbs8GrAT1YqVy6dq,2020-12-21,92,185486,0.641,0.698,0.324,0,0.328,0.273,-5.851,0.0299,110.184,11,4,romantic
+Little Things,Little Things,Charlie Brennan,74mU4zNiHJl990F6gqBG4p,2020-10-09,52,146837,0.593,0.723,0.488,0,0.351,0.423,-9.72,0.154,164.183,4,4,romantic
+Falling Like The Stars,Falling Like The Stars,James Arthur,15xWRPHQMeqgdkGzInx3PY,2019-05-10,78,212720,0.296,0.823,0.351,1.5e-06,0.11,0.19,-9.538,0.0351,177.596,6,3,romantic
+Can’t Imagine,Wonder,Shawn Mendes,2GwberkV36NoC5snp51cLC,2020-12-04,70,149768,0.412,0.849,0.162,2.16e-06,0.354,0.375,-14.356,0.146,179.63,0,5,romantic
+Tell Her You Love Her (feat. Mat Kearney),Tell Her You Love Her (feat. Mat Kearney),Echosmith,7b9oZ5tuGDKRWsL0lgQXqg,2021-01-08,49,263053,0.287,0.66,0.208,0,0.119,0.233,-11.3,0.0368,74.889,2,5,romantic
+The Way I Love You,The Way I Love You,yaeow,3XV5r1cMB2AlD2ir0v6mfm,2020-07-30,60,162726,0.543,0.94,0.206,0.453,0.385,0.13,-18.037,0.0319,113.107,6,3,romantic
+invisible string,folklore,Taylor Swift,6VsvKPJ4xjVNKpI8VVZ3SV,2020-07-24,78,252880,0.653,0.838,0.452,7.73e-05,0.108,0.45,-11.143,0.055,83.433,4,4,romantic
+Heaven,Heaven,Emilee,24FprytnP9KMqH01aPR2N5,2020-04-01,66,154763,0.417,0.921,0.208,0,0.12,0.293,-11.307,0.0545,80.71,0,4,romantic
+Dancing When I Die,Dancing When I Die,Heather Janssen,6epGSSmdGkjcBmLDKXLbMl,2020-05-15,58,162000,0.448,0.602,0.173,0,0.0987,0.282,-12.406,0.0458,108.107,10,4,romantic
+Sophia,Chapter 2,Juke Ross,093KMwH96ZwZRZn2lKoX9Z,2020-06-19,58,231693,0.514,0.703,0.32,4.83e-05,0.115,0.14,-11.937,0.0428,115.312,5,4,romantic
+84,84,Rajiv Dhall,3qePCADpvWQ38YCLxXBrdU,2020-04-18,56,155728,0.448,0.575,0.413,0,0.121,0.406,-7.411,0.0511,169.319,5,4,romantic
+Who Would Have Thought,Who Would Have Thought,Dylan Dunlap,1ws2DVEGJD2d12aDm4zqic,2020-03-13,0,244477,0.42,0.461,0.43,0,0.26,0.323,-7.454,0.0298,140.962,11,3,romantic
+If You Love Her,If You Love Her,Forest Blakk,727Z2S2mtNH46CbP9EWPwY,2020-09-30,68,217351,0.286,0.355,0.445,0,0.114,0.278,-8.087,0.0347,50.827,6,4,romantic
+The Most Beautiful Thing,The Most Beautiful Thing,Bruno Major,7EncNzyGs8uJiQittB38ef,2020-05-01,3,235426,0.806,0.535,0.362,0.045,0.111,0.42,-10.381,0.0345,127.502,7,4,romantic
+Put A Little Love On Me,Put A Little Love On Me,Niall Horan,1hCTxutVVYvggAQcUUUZAT,2019-12-06,75,224585,0.584,0.678,0.465,0,0.106,0.299,-4.88,0.0262,95.969,10,4,romantic
+Favorite T-Shirt (Acoustic),Favorite T-Shirt (Acoustic),Jake Scott,0sem2PTbwYJdCHoDn487TE,2019-11-08,0,188442,0.823,0.757,0.399,0,0.123,0.607,-8.608,0.0571,114.999,9,4,romantic
+Dressed Up In White,Dressed Up In White,CAL,0MoupiG0cMvbfPV1nwZAry,2020-02-14,59,203835,0.735,0.165,0.422,0,0.208,0.399,-8.208,0.0733,146.062,3,4,romantic
+Home To You,Home To You,Sigrid,0qBug5X3DaJv2zgXtp55wn,2019-11-01,63,221586,0.619,0.808,0.146,0,0.0971,0.288,-14.439,0.0382,139.533,8,4,romantic
+Cherry,Fine Line,Harry Styles,2IOFZdYYkFxEHVz1w34PoL,2019-12-13,81,259186,0.53,0.615,0.512,0.00453,0.129,0.411,-9.261,0.0259,95.946,7,4,romantic
+If the World Was Ending - feat. Julia Michaels,If the World Was Ending (feat. Julia Michaels),JP Saxe,2kJwzbxV2ppxnQoYw4GLBZ,2019-10-17,89,208687,0.464,0.866,0.473,0,0.109,0.604,-10.086,0.129,75.801,1,4,romantic
+Fall On Me,Fall On Me,A Great Big World,1sbNEp1zyMXQCXUHNllTaR,2019-11-22,0,263053,0.459,0.677,0.292,0,0.119,0.226,-6.235,0.0348,110.674,9,4,romantic
+"10,000 Hours (with Justin Bieber) - Piano","10,000 Hours (with Justin Bieber) [Piano]",Dan + Shay,6HjF1gzVEZMb4GplnGl9B3,2019-11-27,68,172320,0.426,0.765,0.366,0,0.117,0.386,-6.514,0.0312,179.736,10,4,romantic
+Lover (Remix) [feat. Shawn Mendes],Lover (Remix) [feat. Shawn Mendes],Taylor Swift,3i9UVldZOE0aD0JnyfAZZ0,2019-11-13,75,221306,0.448,0.433,0.603,0,0.0862,0.422,-7.176,0.064,205.272,7,3,romantic
+One More Time Around,One More Time Around,Tyler Ward,3DyhwZyBFedvnt68fMi6vf,2019-09-20,58,205666,0.429,0.614,0.358,0,0.0875,0.187,-9.076,0.0346,134.279,0,4,romantic
+Better Half of Me,Better Half of Me,Tom Walker,114xcQz8sZ6fxRBTZmgmNE,2019-10-04,69,195451,0.576,0.814,0.453,0,0.267,0.418,-4.4,0.0294,107.89,3,4,romantic
+I Ain't Ever Loved No One - Acoustic,The Other Way,Donovan Woods,3i8ZkeKgwu1t4m8SPPzNvv,2019-05-03,3,199594,0.32,0.629,0.223,0,0.106,0.158,-14.728,0.0329,160.626,10,4,romantic
+Rainbow,Golden Hour,Kacey Musgraves,79qxwHypONUt3AFq0WPpT9,2018-03-30,75,214293,0.581,0.88,0.197,0,0.107,0.349,-7.697,0.0329,130.367,3,4,romantic
+Friday I’m In Love - Recorded at Spotify Studios NYC,Spotify Singles,Phoebe Bridgers,07vS8obfeZbr8H4MgQfXR7,2018-12-05,70,220812,0.373,0.948,0.123,0,0.0816,0.138,-15.193,0.0407,97.129,7,4,romantic
+Best Part of Me (feat. YEBBA),Best Part of Me (feat. YEBBA),Ed Sheeran,5ug4vqGZ3eisGhY1IsziNX,2019-07-05,73,243266,0.565,0.762,0.242,9.3e-06,0.285,0.237,-8.367,0.0318,81.657,2,4,romantic
+To a T - Stripped,To a T (Stripped),Ryan Hurd,6di48z6eF5dBYVpB0tZV5i,2019-05-24,64,198385,0.599,0.823,0.325,3.66e-06,0.133,0.319,-6.793,0.0297,114.053,9,4,romantic
+ocean eyes - Recorded Live at Jungle City Studios,Spotify Singles,Alicia Keys,7rLokcIMP9p8fl0iROdVfC,2019-12-04,70,184548,0.353,0.934,0.148,0,0.112,0.297,-13.108,0.0421,88.203,7,5,romantic
+Love Her,Happiness Begins,Jonas Brothers,2hgk8iKN9UdoM4ILlJ9F5N,2019-06-07,64,193133,0.74,0.178,0.337,0,0.0944,0.56,-6.039,0.0282,103.002,8,4,romantic
+Break My Heart Right,Oh My Messy Mind,James Bay,6BP8sg44smNB3pbD4QAOzi,2019-05-10,64,204013,0.63,0.962,0.103,1.14e-06,0.0915,0.298,-11.6,0.0499,113.61,2,4,romantic
+Best Part (feat. H.E.R.),Freudian,Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,2017-08-25,80,209831,0.524,0.808,0.364,0,0.1,0.436,-10.209,0.0367,75.24,7,4,romantic
+"For Me, It's You","For Me, It's You",Lo Moon,2odYUJ9LhwDVVPxXL3NxuB,2018-11-16,58,240026,0.452,0.332,0.46,0.0199,0.177,0.199,-12.986,0.0327,81.957,0,4,romantic
+Speechless,Dan + Shay,Dan + Shay,3GJ4hzg4lrGwU51Y3VARbF,2018-06-22,77,213386,0.616,0.356,0.438,0,0.24,0.386,-5.968,0.0298,135.929,1,4,romantic
+I Will Spend My Whole Life Loving You,I Will Spend My Whole Life Loving You,Imaginary Future,77enz5hl8RicxrbPB56VXQ,2017-06-16,70,227619,0.637,0.887,0.129,0,0.0719,0.298,-17.082,0.0346,125.802,11,4,romantic
+Cherry Wine - Live,Hozier,Hozier,0bZ52QzCCKfrfOqs7za6lI,2014-10-07,64,240146,0.415,0.951,0.11,0.00234,0.0962,0.234,-14.901,0.0388,81.876,1,4,romantic
+Can't Help Falling in Love,Can't Help Falling in Love,Haley Reinhart,0Rm2G83ELwkuEgpHlJcBPn,2015-10-09,0,173500,0.406,0.951,0.0307,0,0.0984,0.245,-17.636,0.04,136.716,0,4,romantic
+Location - Recorded at Spotify Studios NYC,Spotify Singles,AJR,7jwZYPS8reDirsT4Mvqpui,2017-08-02,0,178794,0.566,0.863,0.261,0,0.106,0.477,-8.801,0.0375,97.595,10,4,romantic
+"If I Ain’t Got You - James Bay Spotify Session 2015 ""Alicia Keys Cover""",James Bay Spotify Session 2015,James Bay,1zJpJ3HPRtAYYNLWm5BJEf,2015-08-07,69,261120,0.652,0.743,0.18,4.04e-06,0.71,0.328,-9.735,0.111,115.218,5,3,romantic
+Little Things,Take Me Home: Yearbook Edition,One Direction,7kSLdGdXLey7pzLsWpdg1h,2012-11-09,25,219640,0.707,0.788,0.222,0,0.205,0.556,-11.716,0.0329,110.095,7,4,romantic
+This Town,Flicker (Deluxe),Niall Horan,0qvzXomUDJVaUboy2wMfiS,2017-10-20,80,232852,0.677,0.712,0.401,0,0.116,0.195,-8.467,0.0308,111.825,9,4,romantic
+All I Want,In A Perfect World,Kodaline,5JuA3wlm0kn7IHfbeHV0i6,2012,0,306386,0.226,0.161,0.408,0.131,0.187,0.142,-9.74,0.0432,91.341,0,3,romantic
+Love Me Now - Recorded at Spotify Studios NYC,Spotify Singles,John Legend,2pPRgFEENF3LtuxYUPuT24,2016-11-30,64,228506,0.508,0.975,0.233,0,0.111,0.421,-8.311,0.0535,85.543,8,3,romantic
+Gravity,Little Voice,Sara Bareilles,4oa14QBfWRDfJy2agySy0L,2007-07-03,72,232760,0.27,0.834,0.275,0,0.146,0.231,-10.357,0.0356,168.964,0,4,romantic
+Say You Love Me,Say You Love Me,Jessie Ware,2hcPE11xSLCNHt5PYidj5U,2014-01-01,0,257483,0.387,0.162,0.413,1.56e-05,0.262,0.249,-8.95,0.0559,173.73,7,3,romantic
+XO,XO,John Mayer,7cpCU3Denug5NGZsSpQl8v,2014-05-27,74,213626,0.431,0.749,0.377,0,0.211,0.353,-9.753,0.0288,173.67,2,4,romantic
+Stay With Me - Live From Spotify Berlin,Spotify Sessions,Angus & Julia Stone,2GiYPEgOA7hb7sqsEWX8df,2015-01-13,70,174360,0.614,0.825,0.101,0.0217,0.707,0.155,-22.159,0.0395,75.902,0,4,romantic
+Kiss Me,+,Ed Sheeran,0Tel1fmuCxEFV6wBLXsEdk,2011-09-09,75,280853,0.589,0.64,0.227,0.00469,0.0248,0.182,-16.67,0.0498,74.993,2,4,romantic
+First Day Of My Life,"I'm Wide Awake, It's Morning",Bright Eyes,5OiaAaIMYlCZONyDBxqk4G,2005-01-25,72,188800,0.468,0.915,0.201,8.28e-05,0.0952,0.383,-17.024,0.0388,94.422,4,4,romantic
+Make You Feel My Love,19,Adele,7rPLZ8Krm6CZIbraFUlnWZ,2008-01-28,0,212040,0.325,0.91,0.18,0.000633,0.113,0.0997,-10.647,0.0311,72.416,10,1,romantic
+Better Together,In Between Dreams,Jack Johnson,4VywXu6umkIQ2OS0m1I79y,2005-01-01,72,207680,0.868,0.308,0.347,2e-05,0.11,0.659,-9.529,0.0536,110.059,5,4,romantic
+How Long Will I Love You - Bonus Track,Halcyon Days,Ellie Goulding,0ZPfDxZn5O0L84wvPSN2iG,2013-01-01,64,154435,0.512,0.295,0.304,0.000622,0.118,0.172,-9.19,0.0318,126.078,0,5,romantic
+If I Ain't Got You,The Diary Of Alicia Keys,Alicia Keys,3XVBdLihbNbxUwZosxcGuJ,2003-12-02,81,228706,0.609,0.603,0.445,6.77e-06,0.104,0.166,-9.129,0.106,118.393,7,3,romantic
+Tenerife Sea,x (Deluxe Edition),Ed Sheeran,1HbcclMpw0q2WDWpdGCKdS,2014-06-21,72,241346,0.53,0.697,0.346,1.07e-05,0.105,0.359,-10.497,0.0376,121.876,8,4,romantic
+Marry Me,"Save Me, San Francisco (Golden Gate Edition)",Train,0VZ9xPNa6ROafP6GYYuv2S,2009,1,205453,0.366,0.829,0.269,1.67e-05,0.108,0.492,-8.456,0.0287,86.577,0,4,romantic
+Lucky,We Sing. We Dance. We Steal Things.,Jason Mraz,0IktbUcnAGrvD03AWnz3Q8,2008-05-12,77,191360,0.623,0.296,0.417,0,0.135,0.721,-8.699,0.0354,130.032,0,4,romantic
+"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,John Mayer,4LloVtxNZpeh7q7xdi1DQc,2008,75,263573,0.315,0.771,0.296,0,0.702,0.436,-13.262,0.0317,172.638,5,4,romantic
+Somewhere Only We Know,Somewhere Only We Know,Lily Allen,3DDGhkxq3FeUorZppSgeLE,2013-11-10,64,208154,0.314,0.935,0.286,0.0258,0.0999,0.278,-10.191,0.035,172.021,10,4,romantic
+Yellow,Parachutes,Coldplay,3AJwUDP919kvQ9QcozQPxg,2000-07-10,87,266773,0.429,0.00239,0.661,0.000121,0.234,0.285,-7.227,0.0281,173.372,11,4,romantic
+Turning Tables,21,Adele,5O6yk6U8L3rTbFsIwuqe8H,2011-01-19,61,250133,0.305,0.952,0.452,1.68e-05,0.129,0.21,-6.077,0.0293,79.83,0,4,romantic
+Night Changes,FOUR (Deluxe),One Direction,5O2P9iiztwhomNh8xkR9lJ,2014-11-17,84,226600,0.672,0.859,0.52,0,0.115,0.37,-7.747,0.0353,120.001,8,4,romantic
+Bubbly,Coco,Colbie Caillat,0rFOs9paloAvEtzwDX1Kmc,2007-01-01,70,196280,0.697,0.603,0.474,0,0.11,0.249,-6.663,0.0351,127.904,9,4,romantic
+I Won't Give Up,Love Is a Four Letter Word (Deluxe Edition),Jason Mraz,53QF56cjZA9RTuuMZDrSA6,2012-04-13,75,240165,0.585,0.694,0.303,0,0.115,0.142,-10.058,0.0398,136.703,4,3,romantic
+The One That Got Away - Acoustic,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,5jx8tCxiO0uIbo2uNia23K,2012-03-12,71,259040,0.714,0.697,0.434,0,0.0919,0.352,-11.542,0.0396,123.942,4,4,romantic
+Chasing Cars,Eyes Open,Snow Patrol,11bD1JtSjlIgKgZG2134DZ,2006-01-01,80,267933,0.563,0.209,0.592,5.08e-05,0.132,0.136,-4.571,0.0276,104.016,9,4,romantic
+Fix You,X&Y,Coldplay,7LVHVU3tWfcxj5aiPFEW4Q,2005-06-07,84,295533,0.209,0.164,0.417,0.00196,0.113,0.124,-8.74,0.0338,138.178,3,4,romantic
+Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2YlZnw2ikdb837oKMKjBkW,2015-01-09,81,225053,0.63,0.4,0.53,0,0.177,0.417,-7.259,0.0434,108.038,0,3,romantic
+A Thousand Years,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,2011-10-18,83,285120,0.421,0.309,0.407,0.000961,0.11,0.161,-7.445,0.0267,139.028,10,3,romantic
+Stay With Me,In The Lonely Hour (Deluxe Edition),Sam Smith,7IHOIqZUUInxjVkko181PB,2014-01-01,0,172723,0.5,0.566,0.418,0.000193,0.11,0.176,-6.535,0.0377,84.899,0,4,romantic
+I'm Yours,We Sing. We Dance. We Steal Things.,Jason Mraz,1EzrEOXmMH3G43AXT1y7pA,2008-05-12,84,242186,0.686,0.595,0.457,0,0.105,0.718,-8.322,0.0468,150.953,11,4,romantic
+Photograph,x (Deluxe Edition),Ed Sheeran,1HNkqx9Ahdgi1Ixy2xkKkL,2014-06-21,86,258986,0.614,0.607,0.379,0.000464,0.0986,0.201,-10.48,0.0476,107.989,4,4,romantic
+The Scientist,A Rush of Blood to the Head,Coldplay,75JFxkI2RXiU7L9VXzMkle,2002-08-08,86,309600,0.557,0.731,0.442,1.46e-05,0.11,0.213,-7.224,0.0243,146.277,5,4,romantic
+All of Me,Love In The Future (South Africa Tour Edition),John Legend,3uhBIQ7tv8j1FME8cFGEfG,2012,0,269560,0.422,0.922,0.264,0,0.132,0.331,-7.064,0.0322,119.93,8,4,romantic
+Yours - Wedding Edition,Yours,Russell Dickerson,0vBMmF78QgtWY6dDNDPhbv,2017-10-13,2,216333,0.607,0.722,0.425,0,0.0883,0.536,-7.975,0.0269,134.003,11,4,romantic
+Real Estate,Real Estate,Adam Melchor,2VvTMIXG760UiG9OSiFt9j,2018-12-04,65,216000,0.493,0.953,0.284,0.00739,0.151,0.199,-12.815,0.0309,79.959,2,4,romantic
+Grow As We Go,Sing To Me Instead,Ben Platt,6hYvw3LLTViP2mT4MpDNmT,2019-03-29,73,249426,0.458,0.882,0.137,0,0.15,0.437,-14.083,0.0355,80.824,8,4,romantic
+Oh What A Love,Oh What A Love,Kina Grannis,5Z8O4RFAmjA13jrOYIgyXA,2020-12-25,57,235135,0.457,0.941,0.064,0.108,0.107,0.0647,-19.928,0.0339,147.824,6,3,energetic
+better with you,a constant state of improvement.,Virginia To Vegas,0OPIBKjAYBFzNpo1HzjqzQ,2020-02-28,63,191826,0.623,0.525,0.572,0,0.185,0.461,-9.257,0.0606,78.02,2,4,energetic
+Afterglow,Afterglow,Ed Sheeran,0E4Y1XIbs8GrAT1YqVy6dq,2020-12-21,92,185486,0.641,0.698,0.324,0,0.328,0.273,-5.851,0.0299,110.184,11,4,energetic
+Little Things,Little Things,Charlie Brennan,74mU4zNiHJl990F6gqBG4p,2020-10-09,52,146837,0.593,0.723,0.488,0,0.351,0.423,-9.72,0.154,164.183,4,4,energetic
+Falling Like The Stars,Falling Like The Stars,James Arthur,15xWRPHQMeqgdkGzInx3PY,2019-05-10,78,212720,0.296,0.823,0.351,1.5e-06,0.11,0.19,-9.538,0.0351,177.596,6,3,energetic
+Can’t Imagine,Wonder,Shawn Mendes,2GwberkV36NoC5snp51cLC,2020-12-04,70,149768,0.412,0.849,0.162,2.16e-06,0.354,0.375,-14.356,0.146,179.63,0,5,energetic
+Tell Her You Love Her (feat. Mat Kearney),Tell Her You Love Her (feat. Mat Kearney),Echosmith,7b9oZ5tuGDKRWsL0lgQXqg,2021-01-08,49,263053,0.287,0.66,0.208,0,0.119,0.233,-11.3,0.0368,74.889,2,5,energetic
+The Way I Love You,The Way I Love You,yaeow,3XV5r1cMB2AlD2ir0v6mfm,2020-07-30,60,162726,0.543,0.94,0.206,0.453,0.385,0.13,-18.037,0.0319,113.107,6,3,energetic
+invisible string,folklore,Taylor Swift,6VsvKPJ4xjVNKpI8VVZ3SV,2020-07-24,78,252880,0.653,0.838,0.452,7.73e-05,0.108,0.45,-11.143,0.055,83.433,4,4,energetic
+Heaven,Heaven,Emilee,24FprytnP9KMqH01aPR2N5,2020-04-01,66,154763,0.417,0.921,0.208,0,0.12,0.293,-11.307,0.0545,80.71,0,4,energetic
+Dancing When I Die,Dancing When I Die,Heather Janssen,6epGSSmdGkjcBmLDKXLbMl,2020-05-15,58,162000,0.448,0.602,0.173,0,0.0987,0.282,-12.406,0.0458,108.107,10,4,energetic
+Sophia,Chapter 2,Juke Ross,093KMwH96ZwZRZn2lKoX9Z,2020-06-19,58,231693,0.514,0.703,0.32,4.83e-05,0.115,0.14,-11.937,0.0428,115.312,5,4,energetic
+84,84,Rajiv Dhall,3qePCADpvWQ38YCLxXBrdU,2020-04-18,56,155728,0.448,0.575,0.413,0,0.121,0.406,-7.411,0.0511,169.319,5,4,energetic
+Who Would Have Thought,Who Would Have Thought,Dylan Dunlap,1ws2DVEGJD2d12aDm4zqic,2020-03-13,0,244477,0.42,0.461,0.43,0,0.26,0.323,-7.454,0.0298,140.962,11,3,energetic
+If You Love Her,If You Love Her,Forest Blakk,727Z2S2mtNH46CbP9EWPwY,2020-09-30,68,217351,0.286,0.355,0.445,0,0.114,0.278,-8.087,0.0347,50.827,6,4,energetic
+The Most Beautiful Thing,The Most Beautiful Thing,Bruno Major,7EncNzyGs8uJiQittB38ef,2020-05-01,3,235426,0.806,0.535,0.362,0.045,0.111,0.42,-10.381,0.0345,127.502,7,4,energetic
+Put A Little Love On Me,Put A Little Love On Me,Niall Horan,1hCTxutVVYvggAQcUUUZAT,2019-12-06,75,224585,0.584,0.678,0.465,0,0.106,0.299,-4.88,0.0262,95.969,10,4,energetic
+Favorite T-Shirt (Acoustic),Favorite T-Shirt (Acoustic),Jake Scott,0sem2PTbwYJdCHoDn487TE,2019-11-08,0,188442,0.823,0.757,0.399,0,0.123,0.607,-8.608,0.0571,114.999,9,4,energetic
+Dressed Up In White,Dressed Up In White,CAL,0MoupiG0cMvbfPV1nwZAry,2020-02-14,59,203835,0.735,0.165,0.422,0,0.208,0.399,-8.208,0.0733,146.062,3,4,energetic
+Home To You,Home To You,Sigrid,0qBug5X3DaJv2zgXtp55wn,2019-11-01,63,221586,0.619,0.808,0.146,0,0.0971,0.288,-14.439,0.0382,139.533,8,4,energetic
+Cherry,Fine Line,Harry Styles,2IOFZdYYkFxEHVz1w34PoL,2019-12-13,81,259186,0.53,0.615,0.512,0.00453,0.129,0.411,-9.261,0.0259,95.946,7,4,energetic
+If the World Was Ending - feat. Julia Michaels,If the World Was Ending (feat. Julia Michaels),JP Saxe,2kJwzbxV2ppxnQoYw4GLBZ,2019-10-17,89,208687,0.464,0.866,0.473,0,0.109,0.604,-10.086,0.129,75.801,1,4,energetic
+Fall On Me,Fall On Me,A Great Big World,1sbNEp1zyMXQCXUHNllTaR,2019-11-22,0,263053,0.459,0.677,0.292,0,0.119,0.226,-6.235,0.0348,110.674,9,4,energetic
+"10,000 Hours (with Justin Bieber) - Piano","10,000 Hours (with Justin Bieber) [Piano]",Dan + Shay,6HjF1gzVEZMb4GplnGl9B3,2019-11-27,68,172320,0.426,0.765,0.366,0,0.117,0.386,-6.514,0.0312,179.736,10,4,energetic
+Lover (Remix) [feat. Shawn Mendes],Lover (Remix) [feat. Shawn Mendes],Taylor Swift,3i9UVldZOE0aD0JnyfAZZ0,2019-11-13,75,221306,0.448,0.433,0.603,0,0.0862,0.422,-7.176,0.064,205.272,7,3,energetic
+One More Time Around,One More Time Around,Tyler Ward,3DyhwZyBFedvnt68fMi6vf,2019-09-20,58,205666,0.429,0.614,0.358,0,0.0875,0.187,-9.076,0.0346,134.279,0,4,energetic
+Better Half of Me,Better Half of Me,Tom Walker,114xcQz8sZ6fxRBTZmgmNE,2019-10-04,69,195451,0.576,0.814,0.453,0,0.267,0.418,-4.4,0.0294,107.89,3,4,energetic
+I Ain't Ever Loved No One - Acoustic,The Other Way,Donovan Woods,3i8ZkeKgwu1t4m8SPPzNvv,2019-05-03,3,199594,0.32,0.629,0.223,0,0.106,0.158,-14.728,0.0329,160.626,10,4,energetic
+Rainbow,Golden Hour,Kacey Musgraves,79qxwHypONUt3AFq0WPpT9,2018-03-30,75,214293,0.581,0.88,0.197,0,0.107,0.349,-7.697,0.0329,130.367,3,4,energetic
+Friday I’m In Love - Recorded at Spotify Studios NYC,Spotify Singles,Phoebe Bridgers,07vS8obfeZbr8H4MgQfXR7,2018-12-05,70,220812,0.373,0.948,0.123,0,0.0816,0.138,-15.193,0.0407,97.129,7,4,energetic
+Best Part of Me (feat. YEBBA),Best Part of Me (feat. YEBBA),Ed Sheeran,5ug4vqGZ3eisGhY1IsziNX,2019-07-05,73,243266,0.565,0.762,0.242,9.3e-06,0.285,0.237,-8.367,0.0318,81.657,2,4,energetic
+To a T - Stripped,To a T (Stripped),Ryan Hurd,6di48z6eF5dBYVpB0tZV5i,2019-05-24,64,198385,0.599,0.823,0.325,3.66e-06,0.133,0.319,-6.793,0.0297,114.053,9,4,energetic
+ocean eyes - Recorded Live at Jungle City Studios,Spotify Singles,Alicia Keys,7rLokcIMP9p8fl0iROdVfC,2019-12-04,70,184548,0.353,0.934,0.148,0,0.112,0.297,-13.108,0.0421,88.203,7,5,energetic
+Love Her,Happiness Begins,Jonas Brothers,2hgk8iKN9UdoM4ILlJ9F5N,2019-06-07,64,193133,0.74,0.178,0.337,0,0.0944,0.56,-6.039,0.0282,103.002,8,4,energetic
+Break My Heart Right,Oh My Messy Mind,James Bay,6BP8sg44smNB3pbD4QAOzi,2019-05-10,64,204013,0.63,0.962,0.103,1.14e-06,0.0915,0.298,-11.6,0.0499,113.61,2,4,energetic
+Best Part (feat. H.E.R.),Freudian,Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,2017-08-25,80,209831,0.524,0.808,0.364,0,0.1,0.436,-10.209,0.0367,75.24,7,4,energetic
+"For Me, It's You","For Me, It's You",Lo Moon,2odYUJ9LhwDVVPxXL3NxuB,2018-11-16,58,240026,0.452,0.332,0.46,0.0199,0.177,0.199,-12.986,0.0327,81.957,0,4,energetic
+Speechless,Dan + Shay,Dan + Shay,3GJ4hzg4lrGwU51Y3VARbF,2018-06-22,77,213386,0.616,0.356,0.438,0,0.24,0.386,-5.968,0.0298,135.929,1,4,energetic
+I Will Spend My Whole Life Loving You,I Will Spend My Whole Life Loving You,Imaginary Future,77enz5hl8RicxrbPB56VXQ,2017-06-16,70,227619,0.637,0.887,0.129,0,0.0719,0.298,-17.082,0.0346,125.802,11,4,energetic
+Cherry Wine - Live,Hozier,Hozier,0bZ52QzCCKfrfOqs7za6lI,2014-10-07,64,240146,0.415,0.951,0.11,0.00234,0.0962,0.234,-14.901,0.0388,81.876,1,4,energetic
+Can't Help Falling in Love,Can't Help Falling in Love,Haley Reinhart,0Rm2G83ELwkuEgpHlJcBPn,2015-10-09,0,173500,0.406,0.951,0.0307,0,0.0984,0.245,-17.636,0.04,136.716,0,4,energetic
+Location - Recorded at Spotify Studios NYC,Spotify Singles,AJR,7jwZYPS8reDirsT4Mvqpui,2017-08-02,0,178794,0.566,0.863,0.261,0,0.106,0.477,-8.801,0.0375,97.595,10,4,energetic
+"If I Ain’t Got You - James Bay Spotify Session 2015 ""Alicia Keys Cover""",James Bay Spotify Session 2015,James Bay,1zJpJ3HPRtAYYNLWm5BJEf,2015-08-07,69,261120,0.652,0.743,0.18,4.04e-06,0.71,0.328,-9.735,0.111,115.218,5,3,energetic
+Little Things,Take Me Home: Yearbook Edition,One Direction,7kSLdGdXLey7pzLsWpdg1h,2012-11-09,25,219640,0.707,0.788,0.222,0,0.205,0.556,-11.716,0.0329,110.095,7,4,energetic
+This Town,Flicker (Deluxe),Niall Horan,0qvzXomUDJVaUboy2wMfiS,2017-10-20,80,232852,0.677,0.712,0.401,0,0.116,0.195,-8.467,0.0308,111.825,9,4,energetic
+All I Want,In A Perfect World,Kodaline,5JuA3wlm0kn7IHfbeHV0i6,2012,0,306386,0.226,0.161,0.408,0.131,0.187,0.142,-9.74,0.0432,91.341,0,3,energetic
+Love Me Now - Recorded at Spotify Studios NYC,Spotify Singles,John Legend,2pPRgFEENF3LtuxYUPuT24,2016-11-30,64,228506,0.508,0.975,0.233,0,0.111,0.421,-8.311,0.0535,85.543,8,3,energetic
+Gravity,Little Voice,Sara Bareilles,4oa14QBfWRDfJy2agySy0L,2007-07-03,72,232760,0.27,0.834,0.275,0,0.146,0.231,-10.357,0.0356,168.964,0,4,energetic
+Say You Love Me,Say You Love Me,Jessie Ware,2hcPE11xSLCNHt5PYidj5U,2014-01-01,0,257483,0.387,0.162,0.413,1.56e-05,0.262,0.249,-8.95,0.0559,173.73,7,3,energetic
+XO,XO,John Mayer,7cpCU3Denug5NGZsSpQl8v,2014-05-27,74,213626,0.431,0.749,0.377,0,0.211,0.353,-9.753,0.0288,173.67,2,4,energetic
+Stay With Me - Live From Spotify Berlin,Spotify Sessions,Angus & Julia Stone,2GiYPEgOA7hb7sqsEWX8df,2015-01-13,70,174360,0.614,0.825,0.101,0.0217,0.707,0.155,-22.159,0.0395,75.902,0,4,energetic
+Kiss Me,+,Ed Sheeran,0Tel1fmuCxEFV6wBLXsEdk,2011-09-09,75,280853,0.589,0.64,0.227,0.00469,0.0248,0.182,-16.67,0.0498,74.993,2,4,energetic
+First Day Of My Life,"I'm Wide Awake, It's Morning",Bright Eyes,5OiaAaIMYlCZONyDBxqk4G,2005-01-25,72,188800,0.468,0.915,0.201,8.28e-05,0.0952,0.383,-17.024,0.0388,94.422,4,4,energetic
+Make You Feel My Love,19,Adele,7rPLZ8Krm6CZIbraFUlnWZ,2008-01-28,0,212040,0.325,0.91,0.18,0.000633,0.113,0.0997,-10.647,0.0311,72.416,10,1,energetic
+Better Together,In Between Dreams,Jack Johnson,4VywXu6umkIQ2OS0m1I79y,2005-01-01,72,207680,0.868,0.308,0.347,2e-05,0.11,0.659,-9.529,0.0536,110.059,5,4,energetic
+How Long Will I Love You - Bonus Track,Halcyon Days,Ellie Goulding,0ZPfDxZn5O0L84wvPSN2iG,2013-01-01,64,154435,0.512,0.295,0.304,0.000622,0.118,0.172,-9.19,0.0318,126.078,0,5,energetic
+If I Ain't Got You,The Diary Of Alicia Keys,Alicia Keys,3XVBdLihbNbxUwZosxcGuJ,2003-12-02,81,228706,0.609,0.603,0.445,6.77e-06,0.104,0.166,-9.129,0.106,118.393,7,3,energetic
+Tenerife Sea,x (Deluxe Edition),Ed Sheeran,1HbcclMpw0q2WDWpdGCKdS,2014-06-21,72,241346,0.53,0.697,0.346,1.07e-05,0.105,0.359,-10.497,0.0376,121.876,8,4,energetic
+Marry Me,"Save Me, San Francisco (Golden Gate Edition)",Train,0VZ9xPNa6ROafP6GYYuv2S,2009,1,205453,0.366,0.829,0.269,1.67e-05,0.108,0.492,-8.456,0.0287,86.577,0,4,energetic
+Lucky,We Sing. We Dance. We Steal Things.,Jason Mraz,0IktbUcnAGrvD03AWnz3Q8,2008-05-12,77,191360,0.623,0.296,0.417,0,0.135,0.721,-8.699,0.0354,130.032,0,4,energetic
+"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,John Mayer,4LloVtxNZpeh7q7xdi1DQc,2008,75,263573,0.315,0.771,0.296,0,0.702,0.436,-13.262,0.0317,172.638,5,4,energetic
+Somewhere Only We Know,Somewhere Only We Know,Lily Allen,3DDGhkxq3FeUorZppSgeLE,2013-11-10,64,208154,0.314,0.935,0.286,0.0258,0.0999,0.278,-10.191,0.035,172.021,10,4,energetic
+Yellow,Parachutes,Coldplay,3AJwUDP919kvQ9QcozQPxg,2000-07-10,87,266773,0.429,0.00239,0.661,0.000121,0.234,0.285,-7.227,0.0281,173.372,11,4,energetic
+Turning Tables,21,Adele,5O6yk6U8L3rTbFsIwuqe8H,2011-01-19,61,250133,0.305,0.952,0.452,1.68e-05,0.129,0.21,-6.077,0.0293,79.83,0,4,energetic
+Night Changes,FOUR (Deluxe),One Direction,5O2P9iiztwhomNh8xkR9lJ,2014-11-17,84,226600,0.672,0.859,0.52,0,0.115,0.37,-7.747,0.0353,120.001,8,4,energetic
+Bubbly,Coco,Colbie Caillat,0rFOs9paloAvEtzwDX1Kmc,2007-01-01,70,196280,0.697,0.603,0.474,0,0.11,0.249,-6.663,0.0351,127.904,9,4,energetic
+I Won't Give Up,Love Is a Four Letter Word (Deluxe Edition),Jason Mraz,53QF56cjZA9RTuuMZDrSA6,2012-04-13,75,240165,0.585,0.694,0.303,0,0.115,0.142,-10.058,0.0398,136.703,4,3,energetic
+The One That Got Away - Acoustic,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,5jx8tCxiO0uIbo2uNia23K,2012-03-12,71,259040,0.714,0.697,0.434,0,0.0919,0.352,-11.542,0.0396,123.942,4,4,energetic
+Chasing Cars,Eyes Open,Snow Patrol,11bD1JtSjlIgKgZG2134DZ,2006-01-01,80,267933,0.563,0.209,0.592,5.08e-05,0.132,0.136,-4.571,0.0276,104.016,9,4,energetic
+Fix You,X&Y,Coldplay,7LVHVU3tWfcxj5aiPFEW4Q,2005-06-07,84,295533,0.209,0.164,0.417,0.00196,0.113,0.124,-8.74,0.0338,138.178,3,4,energetic
+Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2YlZnw2ikdb837oKMKjBkW,2015-01-09,81,225053,0.63,0.4,0.53,0,0.177,0.417,-7.259,0.0434,108.038,0,3,energetic
+A Thousand Years,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,2011-10-18,83,285120,0.421,0.309,0.407,0.000961,0.11,0.161,-7.445,0.0267,139.028,10,3,energetic
+Stay With Me,In The Lonely Hour (Deluxe Edition),Sam Smith,7IHOIqZUUInxjVkko181PB,2014-01-01,0,172723,0.5,0.566,0.418,0.000193,0.11,0.176,-6.535,0.0377,84.899,0,4,energetic
+I'm Yours,We Sing. We Dance. We Steal Things.,Jason Mraz,1EzrEOXmMH3G43AXT1y7pA,2008-05-12,84,242186,0.686,0.595,0.457,0,0.105,0.718,-8.322,0.0468,150.953,11,4,energetic
+Photograph,x (Deluxe Edition),Ed Sheeran,1HNkqx9Ahdgi1Ixy2xkKkL,2014-06-21,86,258986,0.614,0.607,0.379,0.000464,0.0986,0.201,-10.48,0.0476,107.989,4,4,energetic
+The Scientist,A Rush of Blood to the Head,Coldplay,75JFxkI2RXiU7L9VXzMkle,2002-08-08,86,309600,0.557,0.731,0.442,1.46e-05,0.11,0.213,-7.224,0.0243,146.277,5,4,energetic
+All of Me,Love In The Future (South Africa Tour Edition),John Legend,3uhBIQ7tv8j1FME8cFGEfG,2012,0,269560,0.422,0.922,0.264,0,0.132,0.331,-7.064,0.0322,119.93,8,4,energetic
+Yours - Wedding Edition,Yours,Russell Dickerson,0vBMmF78QgtWY6dDNDPhbv,2017-10-13,2,216333,0.607,0.722,0.425,0,0.0883,0.536,-7.975,0.0269,134.003,11,4,energetic
+Real Estate,Real Estate,Adam Melchor,2VvTMIXG760UiG9OSiFt9j,2018-12-04,65,216000,0.493,0.953,0.284,0.00739,0.151,0.199,-12.815,0.0309,79.959,2,4,energetic
+Grow As We Go,Sing To Me Instead,Ben Platt,6hYvw3LLTViP2mT4MpDNmT,2019-03-29,73,249426,0.458,0.882,0.137,0,0.15,0.437,-14.083,0.0355,80.824,8,4,energetic
+Walking On A Dream,Walking On A Dream,Empire of the Sun,0mBkoM8r7KAQzZij5swTUL,2009-02-23,63,198440,0.87,0.245,0.699,6.76e-06,0.0588,0.726,-5.541,0.0459,126.967,5,4,energetic
+Summertime Magic,Summer Pack,Childish Gambino,4j3GWI86JvSaF0BLdmgcfF,2018-07-11,69,213600,0.76,0.0129,0.579,0.00351,0.106,0.125,-7.374,0.0569,100.01,0,4,energetic
+"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,Calvin Harris,5bcTCxgc7xVfSaMV3RuVke,2017-06-30,76,223413,0.893,0.0642,0.745,0,0.0943,0.872,-3.105,0.0571,101.018,11,4,energetic
+Sunflower - Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,3KkXRkHbMCARz0aVfEt68P,2018-12-14,87,158040,0.76,0.556,0.479,0,0.0703,0.913,-5.574,0.0466,89.911,2,4,energetic
+Borderline,The Slow Rush,Tame Impala,5hM5arv9KDbCHS0k9uqwjr,2020-02-14,82,237800,0.621,0.0406,0.873,9.1e-06,0.0824,0.873,-3.067,0.0369,97.96,5,4,energetic
+Baby I'm Yours - feat. Irfrane,By Your Side,Breakbot,7oGwQOTkMB9Sk3DIKJLd5F,2012-12-11,59,215786,0.831,0.705,0.794,3.4e-05,0.0978,0.735,-3.701,0.0752,118.075,2,4,energetic
+Harvest Moon,Pacific Standard Time,Poolside,35U4PXL3W3XIkAjEUdhr36,2012-07-09,68,368783,0.782,0.288,0.622,0.53,0.58,0.921,-5.832,0.0411,106.022,2,4,energetic
+Supalonely,STELLA & STEVE,BENEE,4nK5YrxbMGZstTLbvj6Gxw,2019-11-15,85,223480,0.863,0.305,0.631,3.04e-05,0.123,0.817,-4.689,0.0534,128.977,7,4,energetic
+New Light,New Light,John Mayer,3bH4HzoZZFq8UpZmI2AMgV,2018-05-10,79,216014,0.828,0.325,0.689,0.0384,0.0808,0.853,-7.878,0.0326,123.931,7,4,energetic
+Bossa Nova Baby,Bossa Nova Baby,Teddi Gold,7Fj3WLawd3Nms8utkoC3sb,2020-07-21,44,153373,0.735,0.153,0.731,0.000136,0.149,0.94,-5.526,0.0448,150.074,11,4,energetic
+Honeypie,Honeypie,JAWNY,6JqYhSdTE4WbQrMXxPH5cD,2019-04-25,1,135521,0.742,0.0698,0.678,0,0.151,0.927,-4.605,0.192,115.05,5,4,energetic
+Chemicals,Chemicals,SG Lewis,4xnaRQjBsHrJY5hmxBlMel,2020-04-24,72,254871,0.616,0.12,0.854,0,0.322,0.801,-4.749,0.368,113.982,11,4,energetic
+Heat Waves,Heat Waves,Glass Animals,6CDzDgIUqeDY5g8ujExx2f,2020-06-29,83,238805,0.761,0.44,0.525,6.7e-06,0.0921,0.531,-6.9,0.0944,80.87,11,4,energetic
+SUPERBLOOM,SUPERBLOOM,MisterWives,2HvtedoEeymVWrBPyAMNwZ,2020-07-24,77,213546,0.558,0.191,0.889,0.000387,0.328,0.716,-3.945,0.102,170.102,8,4,energetic
+Juice,Cuz I Love You,Lizzo,0k664IuFwVP557Gnx7RhIl,2019-04-19,79,195144,0.767,0.00611,0.889,0,0.402,0.843,-2.988,0.0963,119.93,7,4,energetic
+Doin' Time,Doin' Time,Lana Del Rey,0cLS7FslBJgsuWwJNRnPWB,2019-05-17,4,201996,0.621,0.336,0.692,0.000458,0.0877,0.446,-5.837,0.0435,144.968,7,4,energetic
+Li Lo,Li Lo,DCS Lefty,1BNDOOshnJoEBT7e8nkvIK,2020-06-19,35,167790,0.738,0.554,0.536,0.00114,0.239,0.374,-8.506,0.0955,86.001,6,4,energetic
+Pink Lemonade,Pink Lemonade,Johnny Stimson,3BYUbrFKwIPYGmFwQkx8qU,2020-08-07,53,166147,0.753,0.765,0.431,0,0.521,0.276,-9.024,0.223,85.021,7,4,energetic
+Hold Up,Lemonade,Beyoncé,0rzNMzZsubFcXSEh7dnem7,2016-04-23,74,221093,0.524,0.745,0.397,0,0.521,0.552,-11.936,0.405,80.744,0,4,energetic
+Feel It Still - Medasin Remix,Feel It Still (Medasin Remix),Portugal. The Man,4m6ObZmZ7wnyrKtmLvlyVE,2017-05-19,54,194434,0.568,0.553,0.463,0.00114,0.0858,0.148,-10.622,0.262,157.686,4,4,energetic
+Electric Love,Dopamine,BØRNS,2GiJYvgVaD2HtM8GqD9EgQ,2015-10-16,88,218106,0.611,0.00543,0.797,0.00137,0.26,0.518,-7.627,0.0533,120.041,6,4,energetic
+Tennis Court,Pure Heroine (Extended),Lorde,4ivBdCI1s9f6yDWFUvBtZo,2013-01-01,68,198907,0.758,0.0156,0.546,0.000194,0.237,0.404,-8.597,0.0635,90.019,0,4,energetic
+Sunset Lover,Presence,Petit Biscuit,3WRQUvzRvBDr4AxMWhXc5E,2017-11-10,74,238906,0.785,0.669,0.525,0.439,0.114,0.251,-7.556,0.042,90.853,6,4,energetic
+Put Your Records On,Put Your Records On,Ritt Momney,1fah1uAs7HeTYDlNftKr3K,2020-04-24,47,210463,0.399,0.058,0.492,0.00101,0.11,0.159,-10.777,0.0538,91.066,6,4,energetic
+Moon (And It Went Like),Play Me Again,Kid Francescoli,24upABZ8A0sAepfu91sEYr,2017-03-03,72,390638,0.662,0.288,0.657,0.856,0.102,0.0584,-10.002,0.0345,117.986,7,4,energetic
+You Make Me Feel Good - Original Mix,Panorama Pacifico,Satin Jackets,1wW0yMVo6dVxWZkmduKEWC,2016-04-08,57,427819,0.794,0.0915,0.595,0.406,0.0586,0.624,-6.035,0.0525,114.011,11,4,energetic
+September,September,Campsite Dream,3jseE4aPONGUAQAe62AXX2,2018-09-28,51,185606,0.754,0.0078,0.442,1.9e-05,0.106,0.33,-8.801,0.0481,110.028,6,4,energetic
+Paradise,Paradise,Bazzi,7njKgVl3AnLflRad38o7AG,2019-04-04,3,169038,0.844,0.0828,0.644,0,0.113,0.591,-6.273,0.0479,122.061,11,4,energetic
+Milkshake - Remix,Milkshake (Remix),St Francis Hotel,7vHAxpb7WokhkMZVH0wDNR,2020-05-13,46,171063,0.705,0.126,0.713,0.00214,0.0742,0.53,-7.716,0.0636,99.953,11,4,energetic
+Imagination,Imagination,Foster The People,2flxduIqEbsicdmPyj1WVW,2019-06-21,76,256266,0.744,0.115,0.642,3.95e-05,0.279,0.63,-4.6,0.031,94.988,2,4,energetic
+Magic In The Hamptons (feat. Lil Yachty),Magic In The Hamptons (feat. Lil Yachty),Social House,2Yer0p7uB2lVBUAtANuuQp,2018-06-08,81,164640,0.769,0.66,0.479,0,0.0914,0.803,-5.339,0.0385,96.051,1,4,energetic
+bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,2019-03-29,90,194087,0.701,0.328,0.425,0.13,0.1,0.562,-10.965,0.375,135.128,7,4,energetic
+Nevermind,Nevermind,Dennis Lloyd,63SevszngYpZOwf63o61K4,2017-06-30,79,156600,0.6,0.159,0.688,1.29e-05,0.409,0.0793,-8.339,0.201,99.977,5,4,energetic
+Never Be Like You (feat. Kai),Skin,Flume,5WI2ltQIdwgzf1SNE76JyR,2016-05-27,69,234909,0.444,0.453,0.557,0,0.152,0.296,-5.476,0.0602,115.058,0,4,energetic
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),Lana Del Rey,6PUIzlqotEmPuBfjbwYWOB,2013-02-01,75,214912,0.572,0.0157,0.81,6.53e-06,0.13,0.11,-5.791,0.0558,126.052,1,4,energetic
+Body,Body,Loud Luxury,21RzyxY3EFaxVy6K4RqaU9,2017-10-27,77,163216,0.752,0.0476,0.764,9.44e-05,0.0543,0.582,-4.399,0.038,121.958,1,4,energetic
+Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,Summer Feelings (feat. Charlie Puth),Lennon Stella,49dFIRQCQxPWgoH0m38XQ5,2020-04-23,77,160289,0.696,0.262,0.686,0,0.174,0.7,-6.113,0.0309,115.982,5,4,energetic
+Cool Again,Lenses,Shoffy,0xM6mdl0XX2qOqUZmVUp97,2018-11-16,4,191935,0.774,0.443,0.45,3.28e-05,0.127,0.648,-6.86,0.0896,90.055,11,4,energetic
+Oh Devil - Radio Version,Oh Devil (Radio Version),Electric Guest,6KwSdmAba8BxoxVXPw70LO,2017-06-16,56,217386,0.899,0.186,0.579,0.00668,0.217,0.709,-5.424,0.0719,96.989,7,4,energetic
+4EVER,4EVER,Clairo,5mIOsPuQdXchVY0jB5NO9Q,2018-04-27,75,159595,0.75,0.049,0.585,0.00552,0.155,0.584,-7.576,0.0285,102.331,9,4,energetic
+I Like It,Invasion of Privacy,Cardi B,58q2HKrzhC3ozto2nDdN4z,2018-04-06,84,253390,0.816,0.099,0.726,0,0.372,0.65,-3.998,0.129,136.048,5,4,energetic
+My My My!,Bloom,Troye Sivan,4NiehSBQthimPzRsVeOgCT,2018-08-31,72,204726,0.701,0.00407,0.458,0.000151,0.045,0.482,-7.749,0.0836,102.967,1,4,energetic
+Slow Hands,Flicker (Deluxe),Niall Horan,2cOUlop2ZakjOKe4WinesN,2017-10-20,78,188174,0.735,0.011,0.425,0,0.055,0.848,-6.648,0.0464,85.896,0,4,energetic
+Girls Like You (feat. Cardi B),Red Pill Blues (Deluxe),Maroon 5,7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,78,235545,0.851,0.568,0.541,0,0.13,0.448,-6.825,0.0505,124.959,0,4,energetic
+Talk (feat. Disclosure),Free Spirit,Khalid,6TqXcAFInzjp0bODyvrWEq,2019-04-05,78,197573,0.901,0.051,0.4,0,0.0599,0.346,-8.575,0.126,135.984,0,4,energetic
+Are You Bored Yet? (feat. Clairo),Are You Bored Yet? (feat. Clairo),Wallows,1yY9uOKV3A9pPedzTfvbg1,2019-02-01,0,178000,0.681,0.156,0.683,2.55e-05,0.273,0.64,-6.449,0.0287,120.028,8,4,energetic
+Sugar,V,Maroon 5,2iuZJX9X9P0GKaE93xcPjk,2014-09-02,82,235493,0.748,0.0591,0.788,0,0.0863,0.884,-7.055,0.0334,120.076,1,4,energetic
+Time (feat. Ariana Grande),3.15.20,Childish Gambino,2Aq78kKI9yuloJQkcbhQbU,2020-03-22,58,367293,0.621,0.0117,0.538,0.0189,0.583,0.311,-9.307,0.0401,85.977,10,4,energetic
+Light,Light,San Holo,6jq6rcOikCZAmjliAgAmfT,2017-02-10,67,239853,0.57,0.0857,0.763,2.49e-06,0.0932,0.43,-4.137,0.0573,150.088,1,4,energetic
+Higher Ground (feat. Naomi Wild),Higher Ground,ODESZA,7D0t8BHJxakSnO6EVBglc4,2017-07-11,47,215130,0.629,0.0865,0.852,0.0215,0.263,0.415,-5.094,0.0521,104.997,1,4,energetic
+When I'm With Him,Us,Empress Of,4vBlxgG7iM8WwjLMHKpNkm,2018-10-19,48,193946,0.779,0.301,0.846,8.83e-06,0.0623,0.757,-5.68,0.0345,116.014,1,4,energetic
+Swimming Pool,Swimming Pool,Millie Turner,1yO91Oyey81Sjp5kb9O1dw,2019-06-21,42,223853,0.739,0.225,0.719,2.71e-06,0.101,0.51,-7.189,0.0456,119.975,9,4,energetic
+Con Altura,Con Altura,ROSALÍA,2qG5sZ7Si6sdK74qLxedYM,2019-03-28,81,161626,0.882,0.39,0.689,0.00325,0.0501,0.746,-4.027,0.124,97.963,6,4,energetic
+Dollar,Dollar,Electric Guest,6dXVbkS1t7jQs3maRSM9pW,2019-07-15,0,208746,0.799,0.47,0.58,0.000183,0.154,0.601,-8.152,0.0891,95.039,0,4,energetic
+Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),benny blanco,0d2iYfpKoM0QCKvcLCkBao,2018-07-12,81,173799,0.56,0.555,0.68,0,0.116,0.319,-7.648,0.321,89.391,6,4,energetic
+Like the Others Do,Awkward,Shahrae,7eWLcBy5NHeMs4sVNBPNkS,2019-08-16,0,192000,0.538,0.268,0.502,0.00162,0.197,0.0684,-9.543,0.049,190.079,9,4,energetic
+Everything Goes (Wow),Don't Feed The Pop Monster,Broods,5p4a4kv36kHEIBLMEllAF2,2019-02-01,42,204111,0.566,0.125,0.829,0.00345,0.281,0.213,-4.3,0.0398,92.991,7,4,energetic
+CHANCES,NOTHIN LIKE U / CHANCES,KAYTRANADA,439X8jGytErRiPnaoUJHju,2018-11-30,69,218200,0.835,0.204,0.527,0.000423,0.283,0.611,-7.272,0.128,106.003,7,4,energetic
+Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,7Feaw9WAEREY0DUOSXJLOM,2019-04-25,79,163804,0.661,0.179,0.723,1.23e-05,0.14,0.316,-6.976,0.0566,113.778,5,4,energetic
+Cool,Cool,Jonas Brothers,3QmolSZqjjLksTUvZJ6pPS,2019-04-05,3,167120,0.681,0.0105,0.603,0,0.159,0.643,-5.533,0.0458,79.007,0,4,energetic
+Meant to Be (feat. Florida Georgia Line),Expectations,Bebe Rexha,4e4fqjx0Izh4svvTef1z7e,2018-06-22,72,164205,0.642,0.0476,0.772,0,0.0646,0.589,-6.61,0.0848,153.995,10,4,energetic
+Show Me,Show Me,Akacia,10myPNOGfqlAmkKRc3L1d9,2017-08-18,0,195921,0.646,0.818,0.35,0.014,0.1,0.281,-9.859,0.343,196.015,5,4,energetic
+Dissolve,Thousand Peaces,Absofacto,7pBrj5rt4SSxXwFKOyZfHR,2017-11-03,74,224660,0.688,0.23,0.582,0.000157,0.0663,0.872,-10.668,0.0542,85.486,6,4,energetic
+Goodie Bag,Goodie Bag,Still Woozy,297rZsBEjFw9d0Gl3iBLnd,2017-11-05,0,146390,0.701,0.82,0.529,0.00113,0.249,0.577,-12.242,0.147,138.216,7,4,energetic
+Truth Hurts,Truth Hurts,Lizzo,5Qel1sTrU4LM8HlJSPT2jd,2017-09-19,0,173325,0.715,0.11,0.624,0,0.123,0.412,-3.046,0.114,158.087,4,4,energetic
+Slide (feat. Frank Ocean & Migos),Funk Wav Bounces Vol.1,Calvin Harris,7tr2za8SQg2CI8EDgrdtNl,2017-06-30,69,230813,0.736,0.498,0.795,1.21e-06,0.254,0.511,-3.299,0.0545,104.066,1,4,energetic
+Mi Gente,Mi Gente,J Balvin,4ipnJyDU3Lq15qBAYNqlqK,2017-06-30,73,189440,0.774,0.0179,0.687,1.17e-05,0.128,0.308,-4.818,0.0584,104.959,11,4,energetic
+In My Feelings,Scorpion,Drake,0bAkKNCQfWkexHFn7fIKns,2018-06-29,2,217933,0.735,0.00623,0.482,0.0144,0.448,0.315,-9.445,0.139,181.995,8,4,energetic
+That's What I Like,24K Magic,Bruno Mars,0KKkJNfGyhkQ5aFogxQAPU,2016-11-17,83,206693,0.853,0.013,0.56,0,0.0944,0.86,-4.961,0.0406,134.066,1,4,energetic
+Instant Crush (feat. Julian Casablancas),Random Access Memories,Daft Punk,2cGxRwrMyEAp8dEbuZaVv6,2013-05-17,77,337560,0.775,0.0422,0.585,0.619,0.077,0.518,-9.516,0.0271,109.942,10,4,energetic
+Thru These Tears,Thru These Tears,LANY,4gB61mP4tNChn4LgfquMhi,2018-07-17,1,204515,0.711,0.154,0.517,0,0.149,0.294,-7.695,0.0391,119.945,11,4,energetic
+"fuck, i'm lonely (with Anne-Marie)",~how i'm feeling~,Lauv,09PGubKAMryhOWv1LHpCYz,2020-03-06,80,198973,0.806,0.482,0.558,0,0.0618,0.678,-6.46,0.0683,95.016,9,4,energetic
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",TROLLS (Original Motion Picture Soundtrack),Trolls,1WkMMavIMc4JZ8cfMmxHkI,2016-09-23,75,237546,0.669,0.0106,0.832,0,0.0968,0.7,-5.72,0.0682,113.035,0,4,energetic
+Natural Blues,Play & Play: The B Sides,Moby,4qUVntQ46fmejnJDlRlJpw,1999-05-17,50,253760,0.681,0.046,0.653,0.0513,0.276,0.656,-7.891,0.0328,107.988,3,4,energetic
+On Hold - Jamie xx Remix,On Hold (Jamie xx Remix),The xx,0iALOYqXaVoluUIsSyDAny,2017-09-13,47,371533,0.759,0.302,0.909,0.842,0.0998,0.47,-7.85,0.0373,128.189,0,4,energetic
+So Good to Me - Radio Edit,So Good to Me (Radio Edit),Chris Malinchak,3fDrZa4ksxA5lgi0utGu6k,2013-11-19,50,226120,0.72,0.148,0.469,0.0807,0.0765,0.369,-12.633,0.0394,121.028,11,4,energetic
+Old Town Road (feat. Billy Ray Cyrus) - Remix,Old Town Road,Lil Nas X,6u7jPi22kF8CTQ3rb9DHE7,2019-04-05,11,157066,0.878,0.0533,0.619,0,0.113,0.639,-5.56,0.102,136.041,6,4,energetic
+Cross Me (feat. Chance the Rapper & PnB Rock),Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,543bCW2ruMPmxUBWirQ3MR,2019-05-24,72,206186,0.746,0.214,0.787,0,0.0669,0.607,-6.373,0.12,95.005,4,4,energetic
+Shooting Stars,Bag Raiders (Deluxe),Bag Raiders,0UeYCHOETPfai02uskjJ3x,2011-01-01,73,235813,0.636,0.0893,0.72,0.0178,0.0868,0.425,-6.195,0.0432,124.944,11,4,energetic
+The Middle,The Middle,Zedd,09IStsImFySgyp0pIQdqAc,2018-01-23,84,184732,0.753,0.171,0.657,0,0.112,0.437,-3.061,0.0449,107.01,7,4,energetic
+Mine,COSMIC,Bazzi,7uzmGiiJyRfuViKKK3lVmR,2018-04-12,80,131064,0.71,0.0161,0.789,2.77e-06,0.451,0.717,-3.874,0.0722,142.929,4,4,energetic
+Lose Yourself to Dance (feat. Pharrell Williams),Random Access Memories,Daft Punk,5CMjjywI0eZMixPeqNd75R,2013-05-17,72,353893,0.832,0.0839,0.659,0.00114,0.0753,0.674,-7.828,0.057,100.163,10,4,energetic
+One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,7ef4DlsgrMEH11cDZd32M6,2018-04-06,84,214846,0.791,0.037,0.862,2.19e-05,0.0814,0.592,-3.24,0.11,123.994,9,4,energetic
+passionfruit,EP2,Yaeji,7lW2HbFRh65PMz82J7mPnb,2017-11-03,1,274728,0.605,0.611,0.443,0.0917,0.111,0.196,-13.171,0.0351,111.87,8,4,energetic
+Ipanema,Ipanema,Still Woozy,1yoOiFrd7KHnUPun8BSBxl,2019-05-02,0,127044,0.751,0.216,0.473,0.0774,0.267,0.868,-11.458,0.199,147.437,1,4,energetic
+Across The Room (feat. Leon Bridges),A Moment Apart,ODESZA,4YaNLEPw3MrIgkGOkBrAh2,2017-09-08,66,283537,0.566,0.0155,0.587,2.05e-05,0.111,0.246,-5.96,0.0308,82.046,6,4,energetic
+Vanille fraise,Vanille fraise,L'Impératrice,7nZ9CzhiFRPhOQCn7eDSnn,2015,65,238183,0.767,0.0399,0.547,0.485,0.0949,0.66,-11.458,0.0474,103.03,7,4,energetic
+Cheerleader - Felix Jaehn Remix Radio Edit,Me 4 U,OMI,023OVLNzXhX0j7CxswUt6D,2015-10-16,66,180560,0.78,0.141,0.68,1.2e-05,0.138,0.594,-6.081,0.0305,118.026,4,4,energetic
+Can't Feel My Face,Beauty Behind The Madness,The Weeknd,22VdIZQfgXJea34mQxlt81,2015-08-28,81,213520,0.705,0.113,0.769,0,0.105,0.583,-5.526,0.0425,107.949,9,4,energetic
+Classic (feat. POWERS),Classic (feat. POWERS),The Knocks,42UaTVeWaNaME7ttu61ykG,2014-08-12,52,248516,0.63,0.00474,0.942,0.000744,0.326,0.543,-3.195,0.0485,101.996,2,4,energetic
+Paper Cut,Paper Cut,Sophie Simmons,4gSEZ8dkB4GrrIowsib0l9,2018-06-22,48,188857,0.92,0.459,0.647,0.00855,0.0766,0.259,-8.553,0.119,105.011,0,4,energetic
+Composure,Composure,Argonaut & Wasp,3Qfj2BgymJSXY4zDrBCo3g,2019-04-17,0,184800,0.671,0.00969,0.611,0.431,0.1,0.378,-8.453,0.0328,116.934,10,4,energetic
+DYSFUNCTIONAL,DYSFUNCTIONAL,KAYTRANADA,60y3oBiHHIlOzUFZRWP6Ak,2019-04-10,60,240757,0.808,0.00113,0.805,0.0585,0.193,0.886,-3.392,0.103,107.965,1,4,energetic
+Shine A Light - Flight Facilities Remix,Shine A Light,The C90s,68yqiuPVxrT9OySWFDwDDd,2010-11-05,53,349962,0.686,0.0149,0.671,0.457,0.074,0.814,-10.185,0.0475,104.995,0,4,energetic
+Ultimatum - Edit,Ultimatum,Disclosure,0slkzFvyBWcwnjEEDtYE5E,2018-05-17,55,213381,0.838,0.303,0.706,0.863,0.0712,0.776,-7.626,0.067,118.017,7,4,energetic
+Lie,Lie,Shallou,2kbqbzvtneTypTMVaONXqL,2018-01-25,0,215445,0.655,0.295,0.427,0.00108,0.0788,0.224,-11.684,0.0799,107.992,2,4,energetic
+Ruin My Life,Ruin My Life,Zara Larsson,5tAa8Uaqr4VvA3693mbIhU,2018-10-18,79,190931,0.665,0.423,0.699,0,0.0969,0.585,-5.265,0.0578,124.896,11,4,energetic
+I Miss Myself (with HRVY),I Miss Myself (with HRVY),NOTD,5YkmS18BehACOhIIeUqe6l,2019-05-03,67,191611,0.72,0.0856,0.864,0,0.16,0.659,-3.249,0.208,96.048,0,4,energetic
+NUMB,NUMB,Hayden James,1jJtDLctkzilPae8saJe37,2017-10-06,0,217296,0.589,0.203,0.573,0,0.0926,0.429,-7.126,0.0494,147.909,10,4,energetic
+All The Stars (with SZA),Black Panther The Album Music From And Inspired By,Kendrick Lamar,3GCdLUSnKSMJhs4Tj6CV3s,2018-02-09,82,232186,0.698,0.0605,0.633,0.000194,0.0926,0.552,-4.946,0.0597,96.924,8,4,energetic
+Oh What A Love,Oh What A Love,Kina Grannis,5Z8O4RFAmjA13jrOYIgyXA,2020-12-25,57,235135,0.457,0.941,0.064,0.108,0.107,0.0647,-19.928,0.0339,147.824,6,3,chill
+better with you,a constant state of improvement.,Virginia To Vegas,0OPIBKjAYBFzNpo1HzjqzQ,2020-02-28,63,191826,0.623,0.525,0.572,0,0.185,0.461,-9.257,0.0606,78.02,2,4,chill
+Afterglow,Afterglow,Ed Sheeran,0E4Y1XIbs8GrAT1YqVy6dq,2020-12-21,92,185486,0.641,0.698,0.324,0,0.328,0.273,-5.851,0.0299,110.184,11,4,chill
+Little Things,Little Things,Charlie Brennan,74mU4zNiHJl990F6gqBG4p,2020-10-09,52,146837,0.593,0.723,0.488,0,0.351,0.423,-9.72,0.154,164.183,4,4,chill
+Falling Like The Stars,Falling Like The Stars,James Arthur,15xWRPHQMeqgdkGzInx3PY,2019-05-10,78,212720,0.296,0.823,0.351,1.5e-06,0.11,0.19,-9.538,0.0351,177.596,6,3,chill
+Can’t Imagine,Wonder,Shawn Mendes,2GwberkV36NoC5snp51cLC,2020-12-04,70,149768,0.412,0.849,0.162,2.16e-06,0.354,0.375,-14.356,0.146,179.63,0,5,chill
+Tell Her You Love Her (feat. Mat Kearney),Tell Her You Love Her (feat. Mat Kearney),Echosmith,7b9oZ5tuGDKRWsL0lgQXqg,2021-01-08,49,263053,0.287,0.66,0.208,0,0.119,0.233,-11.3,0.0368,74.889,2,5,chill
+The Way I Love You,The Way I Love You,yaeow,3XV5r1cMB2AlD2ir0v6mfm,2020-07-30,60,162726,0.543,0.94,0.206,0.453,0.385,0.13,-18.037,0.0319,113.107,6,3,chill
+invisible string,folklore,Taylor Swift,6VsvKPJ4xjVNKpI8VVZ3SV,2020-07-24,78,252880,0.653,0.838,0.452,7.73e-05,0.108,0.45,-11.143,0.055,83.433,4,4,chill
+Heaven,Heaven,Emilee,24FprytnP9KMqH01aPR2N5,2020-04-01,66,154763,0.417,0.921,0.208,0,0.12,0.293,-11.307,0.0545,80.71,0,4,chill
+Dancing When I Die,Dancing When I Die,Heather Janssen,6epGSSmdGkjcBmLDKXLbMl,2020-05-15,58,162000,0.448,0.602,0.173,0,0.0987,0.282,-12.406,0.0458,108.107,10,4,chill
+Sophia,Chapter 2,Juke Ross,093KMwH96ZwZRZn2lKoX9Z,2020-06-19,58,231693,0.514,0.703,0.32,4.83e-05,0.115,0.14,-11.937,0.0428,115.312,5,4,chill
+84,84,Rajiv Dhall,3qePCADpvWQ38YCLxXBrdU,2020-04-18,56,155728,0.448,0.575,0.413,0,0.121,0.406,-7.411,0.0511,169.319,5,4,chill
+Who Would Have Thought,Who Would Have Thought,Dylan Dunlap,1ws2DVEGJD2d12aDm4zqic,2020-03-13,0,244477,0.42,0.461,0.43,0,0.26,0.323,-7.454,0.0298,140.962,11,3,chill
+If You Love Her,If You Love Her,Forest Blakk,727Z2S2mtNH46CbP9EWPwY,2020-09-30,68,217351,0.286,0.355,0.445,0,0.114,0.278,-8.087,0.0347,50.827,6,4,chill
+The Most Beautiful Thing,The Most Beautiful Thing,Bruno Major,7EncNzyGs8uJiQittB38ef,2020-05-01,3,235426,0.806,0.535,0.362,0.045,0.111,0.42,-10.381,0.0345,127.502,7,4,chill
+Put A Little Love On Me,Put A Little Love On Me,Niall Horan,1hCTxutVVYvggAQcUUUZAT,2019-12-06,75,224585,0.584,0.678,0.465,0,0.106,0.299,-4.88,0.0262,95.969,10,4,chill
+Favorite T-Shirt (Acoustic),Favorite T-Shirt (Acoustic),Jake Scott,0sem2PTbwYJdCHoDn487TE,2019-11-08,0,188442,0.823,0.757,0.399,0,0.123,0.607,-8.608,0.0571,114.999,9,4,chill
+Dressed Up In White,Dressed Up In White,CAL,0MoupiG0cMvbfPV1nwZAry,2020-02-14,59,203835,0.735,0.165,0.422,0,0.208,0.399,-8.208,0.0733,146.062,3,4,chill
+Home To You,Home To You,Sigrid,0qBug5X3DaJv2zgXtp55wn,2019-11-01,63,221586,0.619,0.808,0.146,0,0.0971,0.288,-14.439,0.0382,139.533,8,4,chill
+Cherry,Fine Line,Harry Styles,2IOFZdYYkFxEHVz1w34PoL,2019-12-13,81,259186,0.53,0.615,0.512,0.00453,0.129,0.411,-9.261,0.0259,95.946,7,4,chill
+If the World Was Ending - feat. Julia Michaels,If the World Was Ending (feat. Julia Michaels),JP Saxe,2kJwzbxV2ppxnQoYw4GLBZ,2019-10-17,89,208687,0.464,0.866,0.473,0,0.109,0.604,-10.086,0.129,75.801,1,4,chill
+Fall On Me,Fall On Me,A Great Big World,1sbNEp1zyMXQCXUHNllTaR,2019-11-22,0,263053,0.459,0.677,0.292,0,0.119,0.226,-6.235,0.0348,110.674,9,4,chill
+"10,000 Hours (with Justin Bieber) - Piano","10,000 Hours (with Justin Bieber) [Piano]",Dan + Shay,6HjF1gzVEZMb4GplnGl9B3,2019-11-27,68,172320,0.426,0.765,0.366,0,0.117,0.386,-6.514,0.0312,179.736,10,4,chill
+Lover (Remix) [feat. Shawn Mendes],Lover (Remix) [feat. Shawn Mendes],Taylor Swift,3i9UVldZOE0aD0JnyfAZZ0,2019-11-13,75,221306,0.448,0.433,0.603,0,0.0862,0.422,-7.176,0.064,205.272,7,3,chill
+One More Time Around,One More Time Around,Tyler Ward,3DyhwZyBFedvnt68fMi6vf,2019-09-20,58,205666,0.429,0.614,0.358,0,0.0875,0.187,-9.076,0.0346,134.279,0,4,chill
+Better Half of Me,Better Half of Me,Tom Walker,114xcQz8sZ6fxRBTZmgmNE,2019-10-04,69,195451,0.576,0.814,0.453,0,0.267,0.418,-4.4,0.0294,107.89,3,4,chill
+I Ain't Ever Loved No One - Acoustic,The Other Way,Donovan Woods,3i8ZkeKgwu1t4m8SPPzNvv,2019-05-03,3,199594,0.32,0.629,0.223,0,0.106,0.158,-14.728,0.0329,160.626,10,4,chill
+Rainbow,Golden Hour,Kacey Musgraves,79qxwHypONUt3AFq0WPpT9,2018-03-30,75,214293,0.581,0.88,0.197,0,0.107,0.349,-7.697,0.0329,130.367,3,4,chill
+Friday I’m In Love - Recorded at Spotify Studios NYC,Spotify Singles,Phoebe Bridgers,07vS8obfeZbr8H4MgQfXR7,2018-12-05,70,220812,0.373,0.948,0.123,0,0.0816,0.138,-15.193,0.0407,97.129,7,4,chill
+Best Part of Me (feat. YEBBA),Best Part of Me (feat. YEBBA),Ed Sheeran,5ug4vqGZ3eisGhY1IsziNX,2019-07-05,73,243266,0.565,0.762,0.242,9.3e-06,0.285,0.237,-8.367,0.0318,81.657,2,4,chill
+To a T - Stripped,To a T (Stripped),Ryan Hurd,6di48z6eF5dBYVpB0tZV5i,2019-05-24,64,198385,0.599,0.823,0.325,3.66e-06,0.133,0.319,-6.793,0.0297,114.053,9,4,chill
+ocean eyes - Recorded Live at Jungle City Studios,Spotify Singles,Alicia Keys,7rLokcIMP9p8fl0iROdVfC,2019-12-04,70,184548,0.353,0.934,0.148,0,0.112,0.297,-13.108,0.0421,88.203,7,5,chill
+Love Her,Happiness Begins,Jonas Brothers,2hgk8iKN9UdoM4ILlJ9F5N,2019-06-07,64,193133,0.74,0.178,0.337,0,0.0944,0.56,-6.039,0.0282,103.002,8,4,chill
+Break My Heart Right,Oh My Messy Mind,James Bay,6BP8sg44smNB3pbD4QAOzi,2019-05-10,64,204013,0.63,0.962,0.103,1.14e-06,0.0915,0.298,-11.6,0.0499,113.61,2,4,chill
+Best Part (feat. H.E.R.),Freudian,Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,2017-08-25,80,209831,0.524,0.808,0.364,0,0.1,0.436,-10.209,0.0367,75.24,7,4,chill
+"For Me, It's You","For Me, It's You",Lo Moon,2odYUJ9LhwDVVPxXL3NxuB,2018-11-16,58,240026,0.452,0.332,0.46,0.0199,0.177,0.199,-12.986,0.0327,81.957,0,4,chill
+Speechless,Dan + Shay,Dan + Shay,3GJ4hzg4lrGwU51Y3VARbF,2018-06-22,77,213386,0.616,0.356,0.438,0,0.24,0.386,-5.968,0.0298,135.929,1,4,chill
+I Will Spend My Whole Life Loving You,I Will Spend My Whole Life Loving You,Imaginary Future,77enz5hl8RicxrbPB56VXQ,2017-06-16,70,227619,0.637,0.887,0.129,0,0.0719,0.298,-17.082,0.0346,125.802,11,4,chill
+Cherry Wine - Live,Hozier,Hozier,0bZ52QzCCKfrfOqs7za6lI,2014-10-07,64,240146,0.415,0.951,0.11,0.00234,0.0962,0.234,-14.901,0.0388,81.876,1,4,chill
+Can't Help Falling in Love,Can't Help Falling in Love,Haley Reinhart,0Rm2G83ELwkuEgpHlJcBPn,2015-10-09,0,173500,0.406,0.951,0.0307,0,0.0984,0.245,-17.636,0.04,136.716,0,4,chill
+Location - Recorded at Spotify Studios NYC,Spotify Singles,AJR,7jwZYPS8reDirsT4Mvqpui,2017-08-02,0,178794,0.566,0.863,0.261,0,0.106,0.477,-8.801,0.0375,97.595,10,4,chill
+"If I Ain’t Got You - James Bay Spotify Session 2015 ""Alicia Keys Cover""",James Bay Spotify Session 2015,James Bay,1zJpJ3HPRtAYYNLWm5BJEf,2015-08-07,69,261120,0.652,0.743,0.18,4.04e-06,0.71,0.328,-9.735,0.111,115.218,5,3,chill
+Little Things,Take Me Home: Yearbook Edition,One Direction,7kSLdGdXLey7pzLsWpdg1h,2012-11-09,25,219640,0.707,0.788,0.222,0,0.205,0.556,-11.716,0.0329,110.095,7,4,chill
+This Town,Flicker (Deluxe),Niall Horan,0qvzXomUDJVaUboy2wMfiS,2017-10-20,80,232852,0.677,0.712,0.401,0,0.116,0.195,-8.467,0.0308,111.825,9,4,chill
+All I Want,In A Perfect World,Kodaline,5JuA3wlm0kn7IHfbeHV0i6,2012,0,306386,0.226,0.161,0.408,0.131,0.187,0.142,-9.74,0.0432,91.341,0,3,chill
+Love Me Now - Recorded at Spotify Studios NYC,Spotify Singles,John Legend,2pPRgFEENF3LtuxYUPuT24,2016-11-30,64,228506,0.508,0.975,0.233,0,0.111,0.421,-8.311,0.0535,85.543,8,3,chill
+Gravity,Little Voice,Sara Bareilles,4oa14QBfWRDfJy2agySy0L,2007-07-03,72,232760,0.27,0.834,0.275,0,0.146,0.231,-10.357,0.0356,168.964,0,4,chill
+Say You Love Me,Say You Love Me,Jessie Ware,2hcPE11xSLCNHt5PYidj5U,2014-01-01,0,257483,0.387,0.162,0.413,1.56e-05,0.262,0.249,-8.95,0.0559,173.73,7,3,chill
+XO,XO,John Mayer,7cpCU3Denug5NGZsSpQl8v,2014-05-27,74,213626,0.431,0.749,0.377,0,0.211,0.353,-9.753,0.0288,173.67,2,4,chill
+Stay With Me - Live From Spotify Berlin,Spotify Sessions,Angus & Julia Stone,2GiYPEgOA7hb7sqsEWX8df,2015-01-13,70,174360,0.614,0.825,0.101,0.0217,0.707,0.155,-22.159,0.0395,75.902,0,4,chill
+Kiss Me,+,Ed Sheeran,0Tel1fmuCxEFV6wBLXsEdk,2011-09-09,75,280853,0.589,0.64,0.227,0.00469,0.0248,0.182,-16.67,0.0498,74.993,2,4,chill
+First Day Of My Life,"I'm Wide Awake, It's Morning",Bright Eyes,5OiaAaIMYlCZONyDBxqk4G,2005-01-25,72,188800,0.468,0.915,0.201,8.28e-05,0.0952,0.383,-17.024,0.0388,94.422,4,4,chill
+Make You Feel My Love,19,Adele,7rPLZ8Krm6CZIbraFUlnWZ,2008-01-28,0,212040,0.325,0.91,0.18,0.000633,0.113,0.0997,-10.647,0.0311,72.416,10,1,chill
+Better Together,In Between Dreams,Jack Johnson,4VywXu6umkIQ2OS0m1I79y,2005-01-01,72,207680,0.868,0.308,0.347,2e-05,0.11,0.659,-9.529,0.0536,110.059,5,4,chill
+How Long Will I Love You - Bonus Track,Halcyon Days,Ellie Goulding,0ZPfDxZn5O0L84wvPSN2iG,2013-01-01,64,154435,0.512,0.295,0.304,0.000622,0.118,0.172,-9.19,0.0318,126.078,0,5,chill
+If I Ain't Got You,The Diary Of Alicia Keys,Alicia Keys,3XVBdLihbNbxUwZosxcGuJ,2003-12-02,81,228706,0.609,0.603,0.445,6.77e-06,0.104,0.166,-9.129,0.106,118.393,7,3,chill
+Tenerife Sea,x (Deluxe Edition),Ed Sheeran,1HbcclMpw0q2WDWpdGCKdS,2014-06-21,72,241346,0.53,0.697,0.346,1.07e-05,0.105,0.359,-10.497,0.0376,121.876,8,4,chill
+Marry Me,"Save Me, San Francisco (Golden Gate Edition)",Train,0VZ9xPNa6ROafP6GYYuv2S,2009,1,205453,0.366,0.829,0.269,1.67e-05,0.108,0.492,-8.456,0.0287,86.577,0,4,chill
+Lucky,We Sing. We Dance. We Steal Things.,Jason Mraz,0IktbUcnAGrvD03AWnz3Q8,2008-05-12,77,191360,0.623,0.296,0.417,0,0.135,0.721,-8.699,0.0354,130.032,0,4,chill
+"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,John Mayer,4LloVtxNZpeh7q7xdi1DQc,2008,75,263573,0.315,0.771,0.296,0,0.702,0.436,-13.262,0.0317,172.638,5,4,chill
+Somewhere Only We Know,Somewhere Only We Know,Lily Allen,3DDGhkxq3FeUorZppSgeLE,2013-11-10,64,208154,0.314,0.935,0.286,0.0258,0.0999,0.278,-10.191,0.035,172.021,10,4,chill
+Yellow,Parachutes,Coldplay,3AJwUDP919kvQ9QcozQPxg,2000-07-10,87,266773,0.429,0.00239,0.661,0.000121,0.234,0.285,-7.227,0.0281,173.372,11,4,chill
+Turning Tables,21,Adele,5O6yk6U8L3rTbFsIwuqe8H,2011-01-19,61,250133,0.305,0.952,0.452,1.68e-05,0.129,0.21,-6.077,0.0293,79.83,0,4,chill
+Night Changes,FOUR (Deluxe),One Direction,5O2P9iiztwhomNh8xkR9lJ,2014-11-17,84,226600,0.672,0.859,0.52,0,0.115,0.37,-7.747,0.0353,120.001,8,4,chill
+Bubbly,Coco,Colbie Caillat,0rFOs9paloAvEtzwDX1Kmc,2007-01-01,70,196280,0.697,0.603,0.474,0,0.11,0.249,-6.663,0.0351,127.904,9,4,chill
+I Won't Give Up,Love Is a Four Letter Word (Deluxe Edition),Jason Mraz,53QF56cjZA9RTuuMZDrSA6,2012-04-13,75,240165,0.585,0.694,0.303,0,0.115,0.142,-10.058,0.0398,136.703,4,3,chill
+The One That Got Away - Acoustic,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,5jx8tCxiO0uIbo2uNia23K,2012-03-12,71,259040,0.714,0.697,0.434,0,0.0919,0.352,-11.542,0.0396,123.942,4,4,chill
+Chasing Cars,Eyes Open,Snow Patrol,11bD1JtSjlIgKgZG2134DZ,2006-01-01,80,267933,0.563,0.209,0.592,5.08e-05,0.132,0.136,-4.571,0.0276,104.016,9,4,chill
+Fix You,X&Y,Coldplay,7LVHVU3tWfcxj5aiPFEW4Q,2005-06-07,84,295533,0.209,0.164,0.417,0.00196,0.113,0.124,-8.74,0.0338,138.178,3,4,chill
+Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2YlZnw2ikdb837oKMKjBkW,2015-01-09,81,225053,0.63,0.4,0.53,0,0.177,0.417,-7.259,0.0434,108.038,0,3,chill
+A Thousand Years,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,2011-10-18,83,285120,0.421,0.309,0.407,0.000961,0.11,0.161,-7.445,0.0267,139.028,10,3,chill
+Stay With Me,In The Lonely Hour (Deluxe Edition),Sam Smith,7IHOIqZUUInxjVkko181PB,2014-01-01,0,172723,0.5,0.566,0.418,0.000193,0.11,0.176,-6.535,0.0377,84.899,0,4,chill
+I'm Yours,We Sing. We Dance. We Steal Things.,Jason Mraz,1EzrEOXmMH3G43AXT1y7pA,2008-05-12,84,242186,0.686,0.595,0.457,0,0.105,0.718,-8.322,0.0468,150.953,11,4,chill
+Photograph,x (Deluxe Edition),Ed Sheeran,1HNkqx9Ahdgi1Ixy2xkKkL,2014-06-21,86,258986,0.614,0.607,0.379,0.000464,0.0986,0.201,-10.48,0.0476,107.989,4,4,chill
+The Scientist,A Rush of Blood to the Head,Coldplay,75JFxkI2RXiU7L9VXzMkle,2002-08-08,86,309600,0.557,0.731,0.442,1.46e-05,0.11,0.213,-7.224,0.0243,146.277,5,4,chill
+All of Me,Love In The Future (South Africa Tour Edition),John Legend,3uhBIQ7tv8j1FME8cFGEfG,2012,0,269560,0.422,0.922,0.264,0,0.132,0.331,-7.064,0.0322,119.93,8,4,chill
+Yours - Wedding Edition,Yours,Russell Dickerson,0vBMmF78QgtWY6dDNDPhbv,2017-10-13,2,216333,0.607,0.722,0.425,0,0.0883,0.536,-7.975,0.0269,134.003,11,4,chill
+Real Estate,Real Estate,Adam Melchor,2VvTMIXG760UiG9OSiFt9j,2018-12-04,65,216000,0.493,0.953,0.284,0.00739,0.151,0.199,-12.815,0.0309,79.959,2,4,chill
+Grow As We Go,Sing To Me Instead,Ben Platt,6hYvw3LLTViP2mT4MpDNmT,2019-03-29,73,249426,0.458,0.882,0.137,0,0.15,0.437,-14.083,0.0355,80.824,8,4,chill
+Walking On A Dream,Walking On A Dream,Empire of the Sun,0mBkoM8r7KAQzZij5swTUL,2009-02-23,63,198440,0.87,0.245,0.699,6.76e-06,0.0588,0.726,-5.541,0.0459,126.967,5,4,chill
+Summertime Magic,Summer Pack,Childish Gambino,4j3GWI86JvSaF0BLdmgcfF,2018-07-11,69,213600,0.76,0.0129,0.579,0.00351,0.106,0.125,-7.374,0.0569,100.01,0,4,chill
+"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,Calvin Harris,5bcTCxgc7xVfSaMV3RuVke,2017-06-30,76,223413,0.893,0.0642,0.745,0,0.0943,0.872,-3.105,0.0571,101.018,11,4,chill
+Sunflower - Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,3KkXRkHbMCARz0aVfEt68P,2018-12-14,87,158040,0.76,0.556,0.479,0,0.0703,0.913,-5.574,0.0466,89.911,2,4,chill
+Borderline,The Slow Rush,Tame Impala,5hM5arv9KDbCHS0k9uqwjr,2020-02-14,82,237800,0.621,0.0406,0.873,9.1e-06,0.0824,0.873,-3.067,0.0369,97.96,5,4,chill
+Baby I'm Yours - feat. Irfrane,By Your Side,Breakbot,7oGwQOTkMB9Sk3DIKJLd5F,2012-12-11,59,215786,0.831,0.705,0.794,3.4e-05,0.0978,0.735,-3.701,0.0752,118.075,2,4,chill
+Harvest Moon,Pacific Standard Time,Poolside,35U4PXL3W3XIkAjEUdhr36,2012-07-09,68,368783,0.782,0.288,0.622,0.53,0.58,0.921,-5.832,0.0411,106.022,2,4,chill
+Supalonely,STELLA & STEVE,BENEE,4nK5YrxbMGZstTLbvj6Gxw,2019-11-15,85,223480,0.863,0.305,0.631,3.04e-05,0.123,0.817,-4.689,0.0534,128.977,7,4,chill
+New Light,New Light,John Mayer,3bH4HzoZZFq8UpZmI2AMgV,2018-05-10,79,216014,0.828,0.325,0.689,0.0384,0.0808,0.853,-7.878,0.0326,123.931,7,4,chill
+Bossa Nova Baby,Bossa Nova Baby,Teddi Gold,7Fj3WLawd3Nms8utkoC3sb,2020-07-21,44,153373,0.735,0.153,0.731,0.000136,0.149,0.94,-5.526,0.0448,150.074,11,4,chill
+Honeypie,Honeypie,JAWNY,6JqYhSdTE4WbQrMXxPH5cD,2019-04-25,1,135521,0.742,0.0698,0.678,0,0.151,0.927,-4.605,0.192,115.05,5,4,chill
+Chemicals,Chemicals,SG Lewis,4xnaRQjBsHrJY5hmxBlMel,2020-04-24,72,254871,0.616,0.12,0.854,0,0.322,0.801,-4.749,0.368,113.982,11,4,chill
+Heat Waves,Heat Waves,Glass Animals,6CDzDgIUqeDY5g8ujExx2f,2020-06-29,83,238805,0.761,0.44,0.525,6.7e-06,0.0921,0.531,-6.9,0.0944,80.87,11,4,chill
+SUPERBLOOM,SUPERBLOOM,MisterWives,2HvtedoEeymVWrBPyAMNwZ,2020-07-24,77,213546,0.558,0.191,0.889,0.000387,0.328,0.716,-3.945,0.102,170.102,8,4,chill
+Juice,Cuz I Love You,Lizzo,0k664IuFwVP557Gnx7RhIl,2019-04-19,79,195144,0.767,0.00611,0.889,0,0.402,0.843,-2.988,0.0963,119.93,7,4,chill
+Doin' Time,Doin' Time,Lana Del Rey,0cLS7FslBJgsuWwJNRnPWB,2019-05-17,4,201996,0.621,0.336,0.692,0.000458,0.0877,0.446,-5.837,0.0435,144.968,7,4,chill
+Li Lo,Li Lo,DCS Lefty,1BNDOOshnJoEBT7e8nkvIK,2020-06-19,35,167790,0.738,0.554,0.536,0.00114,0.239,0.374,-8.506,0.0955,86.001,6,4,chill
+Pink Lemonade,Pink Lemonade,Johnny Stimson,3BYUbrFKwIPYGmFwQkx8qU,2020-08-07,53,166147,0.753,0.765,0.431,0,0.521,0.276,-9.024,0.223,85.021,7,4,chill
+Hold Up,Lemonade,Beyoncé,0rzNMzZsubFcXSEh7dnem7,2016-04-23,74,221093,0.524,0.745,0.397,0,0.521,0.552,-11.936,0.405,80.744,0,4,chill
+Feel It Still - Medasin Remix,Feel It Still (Medasin Remix),Portugal. The Man,4m6ObZmZ7wnyrKtmLvlyVE,2017-05-19,54,194434,0.568,0.553,0.463,0.00114,0.0858,0.148,-10.622,0.262,157.686,4,4,chill
+Electric Love,Dopamine,BØRNS,2GiJYvgVaD2HtM8GqD9EgQ,2015-10-16,88,218106,0.611,0.00543,0.797,0.00137,0.26,0.518,-7.627,0.0533,120.041,6,4,chill
+Tennis Court,Pure Heroine (Extended),Lorde,4ivBdCI1s9f6yDWFUvBtZo,2013-01-01,68,198907,0.758,0.0156,0.546,0.000194,0.237,0.404,-8.597,0.0635,90.019,0,4,chill
+Sunset Lover,Presence,Petit Biscuit,3WRQUvzRvBDr4AxMWhXc5E,2017-11-10,74,238906,0.785,0.669,0.525,0.439,0.114,0.251,-7.556,0.042,90.853,6,4,chill
+Put Your Records On,Put Your Records On,Ritt Momney,1fah1uAs7HeTYDlNftKr3K,2020-04-24,47,210463,0.399,0.058,0.492,0.00101,0.11,0.159,-10.777,0.0538,91.066,6,4,chill
+Moon (And It Went Like),Play Me Again,Kid Francescoli,24upABZ8A0sAepfu91sEYr,2017-03-03,72,390638,0.662,0.288,0.657,0.856,0.102,0.0584,-10.002,0.0345,117.986,7,4,chill
+You Make Me Feel Good - Original Mix,Panorama Pacifico,Satin Jackets,1wW0yMVo6dVxWZkmduKEWC,2016-04-08,57,427819,0.794,0.0915,0.595,0.406,0.0586,0.624,-6.035,0.0525,114.011,11,4,chill
+September,September,Campsite Dream,3jseE4aPONGUAQAe62AXX2,2018-09-28,51,185606,0.754,0.0078,0.442,1.9e-05,0.106,0.33,-8.801,0.0481,110.028,6,4,chill
+Paradise,Paradise,Bazzi,7njKgVl3AnLflRad38o7AG,2019-04-04,3,169038,0.844,0.0828,0.644,0,0.113,0.591,-6.273,0.0479,122.061,11,4,chill
+Milkshake - Remix,Milkshake (Remix),St Francis Hotel,7vHAxpb7WokhkMZVH0wDNR,2020-05-13,46,171063,0.705,0.126,0.713,0.00214,0.0742,0.53,-7.716,0.0636,99.953,11,4,chill
+Imagination,Imagination,Foster The People,2flxduIqEbsicdmPyj1WVW,2019-06-21,76,256266,0.744,0.115,0.642,3.95e-05,0.279,0.63,-4.6,0.031,94.988,2,4,chill
+Magic In The Hamptons (feat. Lil Yachty),Magic In The Hamptons (feat. Lil Yachty),Social House,2Yer0p7uB2lVBUAtANuuQp,2018-06-08,81,164640,0.769,0.66,0.479,0,0.0914,0.803,-5.339,0.0385,96.051,1,4,chill
+bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,2019-03-29,90,194087,0.701,0.328,0.425,0.13,0.1,0.562,-10.965,0.375,135.128,7,4,chill
+Nevermind,Nevermind,Dennis Lloyd,63SevszngYpZOwf63o61K4,2017-06-30,79,156600,0.6,0.159,0.688,1.29e-05,0.409,0.0793,-8.339,0.201,99.977,5,4,chill
+Never Be Like You (feat. Kai),Skin,Flume,5WI2ltQIdwgzf1SNE76JyR,2016-05-27,69,234909,0.444,0.453,0.557,0,0.152,0.296,-5.476,0.0602,115.058,0,4,chill
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),Lana Del Rey,6PUIzlqotEmPuBfjbwYWOB,2013-02-01,75,214912,0.572,0.0157,0.81,6.53e-06,0.13,0.11,-5.791,0.0558,126.052,1,4,chill
+Body,Body,Loud Luxury,21RzyxY3EFaxVy6K4RqaU9,2017-10-27,77,163216,0.752,0.0476,0.764,9.44e-05,0.0543,0.582,-4.399,0.038,121.958,1,4,chill
+Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,Summer Feelings (feat. Charlie Puth),Lennon Stella,49dFIRQCQxPWgoH0m38XQ5,2020-04-23,77,160289,0.696,0.262,0.686,0,0.174,0.7,-6.113,0.0309,115.982,5,4,chill
+Cool Again,Lenses,Shoffy,0xM6mdl0XX2qOqUZmVUp97,2018-11-16,4,191935,0.774,0.443,0.45,3.28e-05,0.127,0.648,-6.86,0.0896,90.055,11,4,chill
+Oh Devil - Radio Version,Oh Devil (Radio Version),Electric Guest,6KwSdmAba8BxoxVXPw70LO,2017-06-16,56,217386,0.899,0.186,0.579,0.00668,0.217,0.709,-5.424,0.0719,96.989,7,4,chill
+4EVER,4EVER,Clairo,5mIOsPuQdXchVY0jB5NO9Q,2018-04-27,75,159595,0.75,0.049,0.585,0.00552,0.155,0.584,-7.576,0.0285,102.331,9,4,chill
+I Like It,Invasion of Privacy,Cardi B,58q2HKrzhC3ozto2nDdN4z,2018-04-06,84,253390,0.816,0.099,0.726,0,0.372,0.65,-3.998,0.129,136.048,5,4,chill
+My My My!,Bloom,Troye Sivan,4NiehSBQthimPzRsVeOgCT,2018-08-31,72,204726,0.701,0.00407,0.458,0.000151,0.045,0.482,-7.749,0.0836,102.967,1,4,chill
+Slow Hands,Flicker (Deluxe),Niall Horan,2cOUlop2ZakjOKe4WinesN,2017-10-20,78,188174,0.735,0.011,0.425,0,0.055,0.848,-6.648,0.0464,85.896,0,4,chill
+Girls Like You (feat. Cardi B),Red Pill Blues (Deluxe),Maroon 5,7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,78,235545,0.851,0.568,0.541,0,0.13,0.448,-6.825,0.0505,124.959,0,4,chill
+Talk (feat. Disclosure),Free Spirit,Khalid,6TqXcAFInzjp0bODyvrWEq,2019-04-05,78,197573,0.901,0.051,0.4,0,0.0599,0.346,-8.575,0.126,135.984,0,4,chill
+Are You Bored Yet? (feat. Clairo),Are You Bored Yet? (feat. Clairo),Wallows,1yY9uOKV3A9pPedzTfvbg1,2019-02-01,0,178000,0.681,0.156,0.683,2.55e-05,0.273,0.64,-6.449,0.0287,120.028,8,4,chill
+Sugar,V,Maroon 5,2iuZJX9X9P0GKaE93xcPjk,2014-09-02,82,235493,0.748,0.0591,0.788,0,0.0863,0.884,-7.055,0.0334,120.076,1,4,chill
+Time (feat. Ariana Grande),3.15.20,Childish Gambino,2Aq78kKI9yuloJQkcbhQbU,2020-03-22,58,367293,0.621,0.0117,0.538,0.0189,0.583,0.311,-9.307,0.0401,85.977,10,4,chill
+Light,Light,San Holo,6jq6rcOikCZAmjliAgAmfT,2017-02-10,67,239853,0.57,0.0857,0.763,2.49e-06,0.0932,0.43,-4.137,0.0573,150.088,1,4,chill
+Higher Ground (feat. Naomi Wild),Higher Ground,ODESZA,7D0t8BHJxakSnO6EVBglc4,2017-07-11,47,215130,0.629,0.0865,0.852,0.0215,0.263,0.415,-5.094,0.0521,104.997,1,4,chill
+When I'm With Him,Us,Empress Of,4vBlxgG7iM8WwjLMHKpNkm,2018-10-19,48,193946,0.779,0.301,0.846,8.83e-06,0.0623,0.757,-5.68,0.0345,116.014,1,4,chill
+Swimming Pool,Swimming Pool,Millie Turner,1yO91Oyey81Sjp5kb9O1dw,2019-06-21,42,223853,0.739,0.225,0.719,2.71e-06,0.101,0.51,-7.189,0.0456,119.975,9,4,chill
+Con Altura,Con Altura,ROSALÍA,2qG5sZ7Si6sdK74qLxedYM,2019-03-28,81,161626,0.882,0.39,0.689,0.00325,0.0501,0.746,-4.027,0.124,97.963,6,4,chill
+Dollar,Dollar,Electric Guest,6dXVbkS1t7jQs3maRSM9pW,2019-07-15,0,208746,0.799,0.47,0.58,0.000183,0.154,0.601,-8.152,0.0891,95.039,0,4,chill
+Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),benny blanco,0d2iYfpKoM0QCKvcLCkBao,2018-07-12,81,173799,0.56,0.555,0.68,0,0.116,0.319,-7.648,0.321,89.391,6,4,chill
+Like the Others Do,Awkward,Shahrae,7eWLcBy5NHeMs4sVNBPNkS,2019-08-16,0,192000,0.538,0.268,0.502,0.00162,0.197,0.0684,-9.543,0.049,190.079,9,4,chill
+Everything Goes (Wow),Don't Feed The Pop Monster,Broods,5p4a4kv36kHEIBLMEllAF2,2019-02-01,42,204111,0.566,0.125,0.829,0.00345,0.281,0.213,-4.3,0.0398,92.991,7,4,chill
+CHANCES,NOTHIN LIKE U / CHANCES,KAYTRANADA,439X8jGytErRiPnaoUJHju,2018-11-30,69,218200,0.835,0.204,0.527,0.000423,0.283,0.611,-7.272,0.128,106.003,7,4,chill
+Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,7Feaw9WAEREY0DUOSXJLOM,2019-04-25,79,163804,0.661,0.179,0.723,1.23e-05,0.14,0.316,-6.976,0.0566,113.778,5,4,chill
+Cool,Cool,Jonas Brothers,3QmolSZqjjLksTUvZJ6pPS,2019-04-05,3,167120,0.681,0.0105,0.603,0,0.159,0.643,-5.533,0.0458,79.007,0,4,chill
+Meant to Be (feat. Florida Georgia Line),Expectations,Bebe Rexha,4e4fqjx0Izh4svvTef1z7e,2018-06-22,72,164205,0.642,0.0476,0.772,0,0.0646,0.589,-6.61,0.0848,153.995,10,4,chill
+Show Me,Show Me,Akacia,10myPNOGfqlAmkKRc3L1d9,2017-08-18,0,195921,0.646,0.818,0.35,0.014,0.1,0.281,-9.859,0.343,196.015,5,4,chill
+Dissolve,Thousand Peaces,Absofacto,7pBrj5rt4SSxXwFKOyZfHR,2017-11-03,74,224660,0.688,0.23,0.582,0.000157,0.0663,0.872,-10.668,0.0542,85.486,6,4,chill
+Goodie Bag,Goodie Bag,Still Woozy,297rZsBEjFw9d0Gl3iBLnd,2017-11-05,0,146390,0.701,0.82,0.529,0.00113,0.249,0.577,-12.242,0.147,138.216,7,4,chill
+Truth Hurts,Truth Hurts,Lizzo,5Qel1sTrU4LM8HlJSPT2jd,2017-09-19,0,173325,0.715,0.11,0.624,0,0.123,0.412,-3.046,0.114,158.087,4,4,chill
+Slide (feat. Frank Ocean & Migos),Funk Wav Bounces Vol.1,Calvin Harris,7tr2za8SQg2CI8EDgrdtNl,2017-06-30,69,230813,0.736,0.498,0.795,1.21e-06,0.254,0.511,-3.299,0.0545,104.066,1,4,chill
+Mi Gente,Mi Gente,J Balvin,4ipnJyDU3Lq15qBAYNqlqK,2017-06-30,73,189440,0.774,0.0179,0.687,1.17e-05,0.128,0.308,-4.818,0.0584,104.959,11,4,chill
+In My Feelings,Scorpion,Drake,0bAkKNCQfWkexHFn7fIKns,2018-06-29,2,217933,0.735,0.00623,0.482,0.0144,0.448,0.315,-9.445,0.139,181.995,8,4,chill
+That's What I Like,24K Magic,Bruno Mars,0KKkJNfGyhkQ5aFogxQAPU,2016-11-17,83,206693,0.853,0.013,0.56,0,0.0944,0.86,-4.961,0.0406,134.066,1,4,chill
+Instant Crush (feat. Julian Casablancas),Random Access Memories,Daft Punk,2cGxRwrMyEAp8dEbuZaVv6,2013-05-17,77,337560,0.775,0.0422,0.585,0.619,0.077,0.518,-9.516,0.0271,109.942,10,4,chill
+Thru These Tears,Thru These Tears,LANY,4gB61mP4tNChn4LgfquMhi,2018-07-17,1,204515,0.711,0.154,0.517,0,0.149,0.294,-7.695,0.0391,119.945,11,4,chill
+"fuck, i'm lonely (with Anne-Marie)",~how i'm feeling~,Lauv,09PGubKAMryhOWv1LHpCYz,2020-03-06,80,198973,0.806,0.482,0.558,0,0.0618,0.678,-6.46,0.0683,95.016,9,4,chill
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",TROLLS (Original Motion Picture Soundtrack),Trolls,1WkMMavIMc4JZ8cfMmxHkI,2016-09-23,75,237546,0.669,0.0106,0.832,0,0.0968,0.7,-5.72,0.0682,113.035,0,4,chill
+Natural Blues,Play & Play: The B Sides,Moby,4qUVntQ46fmejnJDlRlJpw,1999-05-17,50,253760,0.681,0.046,0.653,0.0513,0.276,0.656,-7.891,0.0328,107.988,3,4,chill
+On Hold - Jamie xx Remix,On Hold (Jamie xx Remix),The xx,0iALOYqXaVoluUIsSyDAny,2017-09-13,47,371533,0.759,0.302,0.909,0.842,0.0998,0.47,-7.85,0.0373,128.189,0,4,chill
+So Good to Me - Radio Edit,So Good to Me (Radio Edit),Chris Malinchak,3fDrZa4ksxA5lgi0utGu6k,2013-11-19,50,226120,0.72,0.148,0.469,0.0807,0.0765,0.369,-12.633,0.0394,121.028,11,4,chill
+Old Town Road (feat. Billy Ray Cyrus) - Remix,Old Town Road,Lil Nas X,6u7jPi22kF8CTQ3rb9DHE7,2019-04-05,11,157066,0.878,0.0533,0.619,0,0.113,0.639,-5.56,0.102,136.041,6,4,chill
+Cross Me (feat. Chance the Rapper & PnB Rock),Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,543bCW2ruMPmxUBWirQ3MR,2019-05-24,72,206186,0.746,0.214,0.787,0,0.0669,0.607,-6.373,0.12,95.005,4,4,chill
+Shooting Stars,Bag Raiders (Deluxe),Bag Raiders,0UeYCHOETPfai02uskjJ3x,2011-01-01,73,235813,0.636,0.0893,0.72,0.0178,0.0868,0.425,-6.195,0.0432,124.944,11,4,chill
+The Middle,The Middle,Zedd,09IStsImFySgyp0pIQdqAc,2018-01-23,84,184732,0.753,0.171,0.657,0,0.112,0.437,-3.061,0.0449,107.01,7,4,chill
+Mine,COSMIC,Bazzi,7uzmGiiJyRfuViKKK3lVmR,2018-04-12,80,131064,0.71,0.0161,0.789,2.77e-06,0.451,0.717,-3.874,0.0722,142.929,4,4,chill
+Lose Yourself to Dance (feat. Pharrell Williams),Random Access Memories,Daft Punk,5CMjjywI0eZMixPeqNd75R,2013-05-17,72,353893,0.832,0.0839,0.659,0.00114,0.0753,0.674,-7.828,0.057,100.163,10,4,chill
+One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,7ef4DlsgrMEH11cDZd32M6,2018-04-06,84,214846,0.791,0.037,0.862,2.19e-05,0.0814,0.592,-3.24,0.11,123.994,9,4,chill
+passionfruit,EP2,Yaeji,7lW2HbFRh65PMz82J7mPnb,2017-11-03,1,274728,0.605,0.611,0.443,0.0917,0.111,0.196,-13.171,0.0351,111.87,8,4,chill
+Ipanema,Ipanema,Still Woozy,1yoOiFrd7KHnUPun8BSBxl,2019-05-02,0,127044,0.751,0.216,0.473,0.0774,0.267,0.868,-11.458,0.199,147.437,1,4,chill
+Across The Room (feat. Leon Bridges),A Moment Apart,ODESZA,4YaNLEPw3MrIgkGOkBrAh2,2017-09-08,66,283537,0.566,0.0155,0.587,2.05e-05,0.111,0.246,-5.96,0.0308,82.046,6,4,chill
+Vanille fraise,Vanille fraise,L'Impératrice,7nZ9CzhiFRPhOQCn7eDSnn,2015,65,238183,0.767,0.0399,0.547,0.485,0.0949,0.66,-11.458,0.0474,103.03,7,4,chill
+Cheerleader - Felix Jaehn Remix Radio Edit,Me 4 U,OMI,023OVLNzXhX0j7CxswUt6D,2015-10-16,66,180560,0.78,0.141,0.68,1.2e-05,0.138,0.594,-6.081,0.0305,118.026,4,4,chill
+Can't Feel My Face,Beauty Behind The Madness,The Weeknd,22VdIZQfgXJea34mQxlt81,2015-08-28,81,213520,0.705,0.113,0.769,0,0.105,0.583,-5.526,0.0425,107.949,9,4,chill
+Classic (feat. POWERS),Classic (feat. POWERS),The Knocks,42UaTVeWaNaME7ttu61ykG,2014-08-12,52,248516,0.63,0.00474,0.942,0.000744,0.326,0.543,-3.195,0.0485,101.996,2,4,chill
+Paper Cut,Paper Cut,Sophie Simmons,4gSEZ8dkB4GrrIowsib0l9,2018-06-22,48,188857,0.92,0.459,0.647,0.00855,0.0766,0.259,-8.553,0.119,105.011,0,4,chill
+Composure,Composure,Argonaut & Wasp,3Qfj2BgymJSXY4zDrBCo3g,2019-04-17,0,184800,0.671,0.00969,0.611,0.431,0.1,0.378,-8.453,0.0328,116.934,10,4,chill
+DYSFUNCTIONAL,DYSFUNCTIONAL,KAYTRANADA,60y3oBiHHIlOzUFZRWP6Ak,2019-04-10,60,240757,0.808,0.00113,0.805,0.0585,0.193,0.886,-3.392,0.103,107.965,1,4,chill
+Shine A Light - Flight Facilities Remix,Shine A Light,The C90s,68yqiuPVxrT9OySWFDwDDd,2010-11-05,53,349962,0.686,0.0149,0.671,0.457,0.074,0.814,-10.185,0.0475,104.995,0,4,chill
+Ultimatum - Edit,Ultimatum,Disclosure,0slkzFvyBWcwnjEEDtYE5E,2018-05-17,55,213381,0.838,0.303,0.706,0.863,0.0712,0.776,-7.626,0.067,118.017,7,4,chill
+Lie,Lie,Shallou,2kbqbzvtneTypTMVaONXqL,2018-01-25,0,215445,0.655,0.295,0.427,0.00108,0.0788,0.224,-11.684,0.0799,107.992,2,4,chill
+Ruin My Life,Ruin My Life,Zara Larsson,5tAa8Uaqr4VvA3693mbIhU,2018-10-18,79,190931,0.665,0.423,0.699,0,0.0969,0.585,-5.265,0.0578,124.896,11,4,chill
+I Miss Myself (with HRVY),I Miss Myself (with HRVY),NOTD,5YkmS18BehACOhIIeUqe6l,2019-05-03,67,191611,0.72,0.0856,0.864,0,0.16,0.659,-3.249,0.208,96.048,0,4,chill
+NUMB,NUMB,Hayden James,1jJtDLctkzilPae8saJe37,2017-10-06,0,217296,0.589,0.203,0.573,0,0.0926,0.429,-7.126,0.0494,147.909,10,4,chill
+All The Stars (with SZA),Black Panther The Album Music From And Inspired By,Kendrick Lamar,3GCdLUSnKSMJhs4Tj6CV3s,2018-02-09,82,232186,0.698,0.0605,0.633,0.000194,0.0926,0.552,-4.946,0.0597,96.924,8,4,chill
+Il Paradiso,Il Paradiso,AK420,1t0vLpJTu4E6Q3R3rDzxQr,2021-01-08,40,183476,0.754,0.0105,0.385,0.873,0.084,0.527,-10.182,0.0469,176.014,10,4,chill
+Reminisce Over Us,Reminisce Over Us,Phlocalyst,6LuJ3IpHvMANnuzV5NGzrC,2021-01-08,31,156976,0.703,0.28,0.306,0.901,0.116,0.473,-10.919,0.0749,86.022,8,4,chill
+Time Consuming,Time Consuming,Snoozegod,7h3TP14K4trKSjIAX2KdWj,2021-01-08,37,115517,0.757,0.265,0.461,0.123,0.35,0.353,-9.477,0.0313,108.999,1,4,chill
+For What It Was,Special Love,IAMPAUL,0B2ILMaXWitHbHAJm2nSLd,2021-01-08,24,157063,0.829,0.656,0.329,0.894,0.116,0.669,-11.067,0.0535,87.011,1,4,chill
+Natsu,Natsu,lōland,5r9075hPYZN8E7ddE2WoJs,2021-01-08,35,156000,0.808,0.647,0.574,0.552,0.13,0.905,-7.862,0.154,99.986,8,4,chill
+Aspirin,Aspirin,Fed Nance,6MZ4wt0FASXisNMTvh0zmW,2021-01-08,26,100185,0.465,0.927,0.403,0.818,0.105,0.61,-7.312,0.0824,79.787,5,4,chill
+Absence of Gravity - Pablo Nouvelle Remix,Absence of Gravity (Pablo Nouvelle Remix),Audio Dope,6hj4VrcrOW2oFxUlwda95L,2021-01-08,32,217867,0.443,0.77,0.253,0.565,0.287,0.252,-13.694,0.0606,82.977,3,4,chill
+Ricotta,Ricotta,Spaze Windu,5XIXFGuVLXEKnq5dks9slW,2020-12-28,38,146000,0.75,0.24,0.337,0.237,0.292,0.717,-12.862,0.0353,86.115,6,4,chill
+Virudhunagar - Village Live,Virudhunagar (Village Live),Liphe,6IWNGrWVj9gF4tbVgYkdeJ,2020-12-17,46,254264,0.546,0.134,0.372,0.0172,0.27,0.247,-9.149,0.0317,123.952,5,4,chill
+Routine,Routine,Cuebe,33u11l05Mrc1Pm7bgAwokl,2020-12-15,46,169170,0.681,0.429,0.486,0.539,0.136,0.226,-8.481,0.0784,86.917,2,4,chill
+Phoebe,Phoebe,Sátyr,0jVcDTCdWPPPka66nfuyVu,2020-12-11,47,145203,0.494,0.604,0.476,0.926,0.0895,0.271,-13.002,0.0768,88.9,1,4,chill
+Floating,Floating,Smuv,4ORqQyhhdSDMSmGYEFn0XX,2020-12-18,49,124235,0.721,0.127,0.266,0.949,0.117,0.795,-13.768,0.242,85.18,9,4,chill
+Get It Right,Get It Right,DYVN,3oyY1hhLvW5PBXDchk26RB,2020-12-18,47,88960,0.634,0.924,0.326,0.949,0.111,0.231,-8.574,0.064,99.856,6,4,chill
+Mindfulness,Mindfulness,Saï T,2WYiVWTXflf49CyF5Vgn93,2020-12-15,54,155712,0.472,0.435,0.475,0.617,0.103,0.61,-10.148,0.0463,173.699,1,4,chill
+Don't You Know,Don't You Know,Nobodys Face,2rDOj0Reg5tizn7TOkx2oH,2020-12-15,47,120800,0.641,0.203,0.623,0.836,0.111,0.436,-9.401,0.177,168.188,7,4,chill
+Blank,Blank,Phlocalyst,3bY2PA3xBWRZcBgQ6WHE6G,2020-12-17,47,161333,0.828,0.081,0.139,0.665,0.107,0.243,-13.461,0.0598,93.744,6,5,chill
+Snow Rays,Snow Rays,Jules Hiero,32vlnvHcOnsGy1CRUhdLlB,2020-12-18,49,135000,0.618,0.0893,0.389,0.899,0.116,0.3,-10.743,0.0623,80.019,6,4,chill
+Happified,Happified,Smeeagain,1qzo9Nl3xb3Nc28whqnMBK,2020-12-11,47,113000,0.609,0.0891,0.505,0.00419,0.263,0.762,-7.866,0.343,179.214,4,4,chill
+Oozing Charm,Oozing Charm,ilover,5kdgkWrDRqcPiN9muLQyhY,2020-12-18,47,219201,0.829,0.39,0.45,0.128,0.181,0.617,-7.698,0.182,79.969,1,4,chill
+Drive,Drive,Vincent Rayn,5vZ0xTx0A83XISiceirh1o,2020-12-18,47,150367,0.674,0.889,0.159,0.945,0.111,0.477,-13.76,0.0434,79.04,9,4,chill
+Loungy,Loungy,Bobby Dreamz BIG,2MOcQoEZyOXJqmE9AIDP6V,2020-12-18,47,121999,0.706,0.949,0.567,0.914,0.128,0.551,-10.316,0.106,74.971,3,3,chill
+Drifting,Drifting,Dontcry,1mPjpQZdd5H4wvb4ZQ98Fm,2020-12-18,52,147417,0.58,0.591,0.27,0.877,0.0892,0.0675,-14.366,0.0328,79.005,11,4,chill
+Barca-Longa,Barca-Longa,Drips Zacheer,4YVJjWeFBOX1zy8apVuNPt,2020-12-18,46,192877,0.798,0.277,0.376,0.842,0.221,0.374,-9.203,0.0927,87.034,6,4,chill
+California Dial,California Dial,Bawer,3Qlvubr1CzObDSus8RfTvc,2020-12-18,45,101739,0.486,0.123,0.472,0.713,0.106,0.167,-11.276,0.0863,82.024,1,3,chill
+Late Checkout,Late Checkout,Saiko,3J0J198M7pTufTPMPVmVRL,2020-12-18,47,134301,0.534,0.333,0.441,0.0804,0.625,0.383,-5.86,0.241,84.733,2,4,chill
+ticino,DMNS II,DRWN.,31EMvlf4BACIaBu9IYtslE,2020-12-04,46,93750,0.671,0.801,0.403,0.00107,0.125,0.696,-7.123,0.479,81.865,5,4,chill
+felt,felt,Joe Nora,7kOQQ4Sp12kka6rEYHF58M,2020-12-04,47,192400,0.786,0.857,0.352,0.705,0.105,0.247,-10.736,0.0915,85.016,10,4,chill
+Serenity,Serenity,Pabzzz,2po5NOyWbMcctLvkGuyXeZ,2020-11-27,47,211477,0.725,0.0186,0.561,0.681,0.14,0.809,-10.348,0.081,91.628,5,4,chill
+Rain,Rain,Rene Schier,4BK2frpTXhL9GI2wJO929Q,2020-12-04,46,159350,0.652,0.131,0.401,0.0652,0.104,0.489,-9.573,0.0578,76.973,6,4,chill
+La Ofrenda,La Ofrenda,Papi Churro,1NQtj5l1ELsReim18GvbtX,2020-12-11,49,162798,0.705,0.335,0.47,0.863,0.115,0.14,-10.156,0.0382,102.0,4,4,chill
+Sunday Blue,Sunday Blue,Syrup,2cSFuvmLZSYnwNr8JIy1Yu,2020-12-16,50,85186,0.553,0.806,0.224,0.48,0.198,0.374,-13.699,0.37,85.022,6,4,chill
+Friends And Enemies,Unreality,Jazzy James,42XYJNuFpKxPrVBY3o2JjC,2020-12-11,48,172249,0.575,0.657,0.375,0.899,0.166,0.0622,-8.664,0.0246,92.009,5,4,chill
+Slide,Slide,Goson,3o4E6Xq9dUTT4imswVdIXh,2020-12-07,54,142698,0.703,0.484,0.413,0.9,0.113,0.398,-9.694,0.041,150.025,9,4,chill
+Why Don't You,Why Don't You,Platinum Dust,0D2ZTpusZN3VcuGS0sxV0S,2020-12-11,49,123403,0.743,0.562,0.527,0.433,0.193,0.752,-9.9,0.0555,87.979,7,4,chill
+Libration,MENACE ‘5’,Various Artists,2VoDSrBiAJLuz7wtulZut6,2020-12-03,49,184906,0.728,0.306,0.857,0.41,0.15,0.966,-5.948,0.0486,88.216,6,4,chill
+20/20,20/20,Lazlow,5fGoUzBSvwhIi3RiFtGtXM,2020-12-04,52,146346,0.643,0.651,0.464,0.447,0.138,0.372,-13.646,0.173,113.564,4,1,chill
+Ethereal Dub,Ethereal Dub,Worldtraveller,78LfqVYpsCwWW3hw8bwUy0,2020-12-11,48,126000,0.702,0.761,0.25,0.887,0.122,0.654,-16.251,0.0504,90.023,0,4,chill
+San Francisco Nights,San Francisco Nights,Katashi Kaitō,3bWN5Hibd5W2Zcz0hsM5Ga,2020-12-11,54,115125,0.622,0.0598,0.394,0.882,0.0743,0.487,-9.559,0.04,80.013,8,4,chill
+Kompass,Kompass,FloFilz,4Oy0kk2wtLgPqX01wUfzIq,2020-11-11,53,131855,0.698,0.694,0.206,0.91,0.465,0.539,-12.051,0.187,87.959,6,4,chill
+Dreamer,Dreamer,sloh rou,4ctpE4E0Z2XAHKYONmv59W,2020-12-11,48,148732,0.666,0.945,0.289,0.9,0.0721,0.254,-14.61,0.0697,71.017,2,1,chill
+April 26th,April 26th,Saltyyyy V,7iakFo226nldSeEa624s9I,2020-12-11,46,131612,0.703,0.935,0.288,0.873,0.302,0.374,-12.755,0.0294,93.019,9,4,chill
+Leaves,Leaves,Zen Park,69PhCElqRFyxNDcphgiBCo,2020-12-11,48,124575,0.597,0.522,0.384,0.501,0.206,0.559,-9.287,0.1,79.985,0,4,chill
+Everybody,Everybody,DAO,4HcLyqPJCTnKGuOv4P0KAt,2020-12-11,58,125445,0.857,0.0447,0.784,0.788,0.0489,0.582,-9.539,0.154,92.986,8,4,chill
+Geistgeschwür,Lost Ish,Hulk Hodn,2lDJxK0xBLHf2oNDh2DoMY,2020-12-11,46,161977,0.781,0.00375,0.494,0.934,0.0912,0.824,-8.215,0.21,87.564,6,4,chill
+Blueshift,Blueshift / Relaxurmind,FloFilz,2t1FMBG99dDUK5PEMjtMIE,2020-12-11,56,119374,0.78,0.478,0.595,0.898,0.12,0.818,-7.043,0.0378,89.013,8,4,chill
+Jangwar,Jangwar,gishfang,1D7jWklwRFIZP6HVynNvNW,2020-11-17,52,102160,0.761,0.367,0.67,0.705,0.0857,0.417,-6.156,0.0403,109.012,7,4,chill
+Submarine,Submarine,Parental,0S4JImDTniYQlBTmUzajeW,2020-12-11,46,126326,0.718,0.768,0.194,0.82,0.0726,0.582,-9.523,0.0802,186.128,0,4,chill
+City Dreams,City Dreams,Glimlip,2tvPXvthQHFMHclfIGThnl,2020-11-20,58,164817,0.814,0.338,0.447,0.924,0.116,0.251,-10.141,0.215,82.008,0,4,chill
+Innerspace,Innerspace,Dr. Dundiff,7nWqc6CGV8ln1ouTtCtqZ4,2020-12-09,48,163260,0.843,0.362,0.432,0.867,0.0985,0.9,-5.658,0.0791,94.306,11,4,chill
+Multicolored,Multicolored,Noflik,5zrDAu61cHNLRFMPtwJJuW,2020-12-02,49,141386,0.594,0.494,0.332,0.653,0.129,0.16,-11.653,0.0406,84.828,4,4,chill
+Across the valley,Across the valley,l'Outlander,37FTjS7kvGkvw4ftZpO59H,2020-12-11,46,148520,0.62,0.73,0.207,0.914,0.0896,0.09,-17.072,0.0391,168.065,4,4,chill
+Singing to the Moon,Lanterns,Lilac,73C5dnarxZWRMSKvI8W1Su,2020-12-10,63,108710,0.683,0.893,0.16,0.864,0.14,0.181,-15.24,0.0502,79.976,3,4,chill
+Faye - Village Live,Faye (Village Live),Aver,7A2Fpl8gfayOmCJSH0xFhm,2020-12-08,52,250781,0.494,0.251,0.333,0.915,0.11,0.173,-16.546,0.0299,75.017,9,4,chill
+Fall,Fall,Natty Reeves,22TaxtoFfaJz2YUZUbTc4Z,2020-12-03,21,200569,0.535,0.327,0.382,0.885,0.31,0.464,-9.628,0.0431,130.197,2,4,chill
+It's All Gravy,It's All Gravy,Max I Million,5quY9LzNMcCgKiahHsb7dU,2020-12-10,45,160360,0.721,0.34,0.283,0.542,0.122,0.505,-10.67,0.118,77.979,10,4,chill
+Chambre D'Or,Chambre D'Or,ONO1,45K3LHna1Jnz8y9FPj6WAv,2020-12-04,49,147000,0.681,0.454,0.43,0.9,0.111,0.397,-7.523,0.0464,79.985,4,4,chill
+Chairoplane,Chairoplane,Jakspin,10xzu4qkvJCZbam89OSzGv,2020-12-04,48,128571,0.737,0.204,0.478,0.894,0.183,0.824,-9.519,0.0914,84.035,8,4,chill
+Play the Shadows,Play the Shadows,Sweatson Klank,4ottW467kmXEBQ7nxy512h,2020-12-09,52,176982,0.729,0.108,0.725,0.896,0.248,0.685,-6.723,0.0834,80.526,9,4,chill
+Hana,Hana,lōland,3hFg9FkQsijKjEQ8F8YJ2P,2020-11-27,51,143685,0.596,0.413,0.373,0.00121,0.0776,0.599,-8.888,0.114,138.579,0,4,chill
+Water & Sand,Water & Sand / All G,Freddie Joachim,3qdEgLP7w9eXYguFT5SrrP,2020-12-02,52,248000,0.667,0.581,0.551,0.904,0.142,0.318,-8.199,0.11,172.169,0,4,chill
+Love Or The Loot,Love Or The Loot,IAMPAUL,5ycAh7EoYcL7BW7bj5wtlH,2020-12-04,47,158489,0.853,0.126,0.442,0.662,0.0914,0.56,-10.449,0.122,85.047,10,4,chill
+On & On,On & On,L One,0DSSfCJe2XD6NjLbO9tZUD,2020-12-04,49,170775,0.753,0.0801,0.624,0.858,0.22,0.929,-7.054,0.0412,141.043,8,4,chill
+Matagal,Matagal,Chancla,5hUjfGbIJlv89IqEt74kAI,2020-11-20,47,161519,0.816,0.799,0.511,0.509,0.111,0.539,-4.513,0.241,83.118,9,4,chill
+Kishmish,Kishmish,Farhot,130NTCQkHKDbcb9sGGfQKF,2020-12-11,53,146386,0.825,0.438,0.531,0.76,0.129,0.405,-6.933,0.159,82.02,9,4,chill
+Birds of Manhattan,Birds of Manhattan,Moonspatz,5XXWx3FxU2Y2cjElbQuIWE,2020-11-27,49,164350,0.715,0.627,0.476,0.811,0.0872,0.605,-9.891,0.121,82.002,2,4,chill
+Home Office & Coffee,Home Office & Coffee,SP-Mato,3gwz7DL6hiJ0n85mQN52he,2020-11-26,47,117840,0.714,0.255,0.203,0.809,0.13,0.594,-14.959,0.0924,89.989,8,4,chill
+SAMO,Invisible Man,Ayzon,6GuiDpEuU8J3L2gKRObRhq,2020-12-04,45,136588,0.785,0.00412,0.319,0.802,0.194,0.56,-7.462,0.194,85.008,11,4,chill
+Inverno No Brasil,Inverno no Brasil,Shuko,7A0iOjOIYP3nlVE8lyXNfH,2020-11-27,53,151724,0.702,0.0908,0.792,0.896,0.16,0.383,-8.929,0.0506,96.014,4,4,chill
+By the Liter,By the Liter / Seen You,Suff Daddy,57i2oAbbDYCDGLJwG1VHq5,2020-11-26,50,174500,0.653,0.0327,0.391,0.0123,0.133,0.373,-7.328,0.0292,73.012,1,4,chill
+Fresco,Fresco,Banker,3jfPn5VTj3VwMWJCbC4Ym5,2020-11-20,48,151333,0.768,0.41,0.316,0.375,0.102,0.272,-11.267,0.0504,90.051,6,4,chill
+Connection,Waves,Paul Grant,0lITZkGUYnYSBS6z2SMEWp,2020-11-20,51,150666,0.588,0.922,0.31,0.965,0.105,0.497,-11.16,0.0488,179.886,3,4,chill
+Suburb,Suburb,FLKS,0tA5MZUhTSLGL2Bx0qpddF,2020-11-27,48,141497,0.736,0.15,0.54,0.823,0.12,0.856,-7.616,0.0371,138.023,5,4,chill
+Sky,Sky,Hast,5HuUjzTXtWxC7lXoaqcBfK,2020-11-20,49,133416,0.657,0.26,0.285,0.897,0.347,0.253,-12.853,0.0882,86.935,10,4,chill
+Anzu Love,Anzu Love,Rockinpetas,2Qsln5ZaFIqV5seyJqfS0F,2020-11-06,48,109564,0.71,0.828,0.202,0.423,0.131,0.52,-12.265,0.0593,83.298,4,4,chill
+Eternal Sunshine,Eternal Sunshine,Simber,5AJ7rz4GruAuk3I43sAgxa,2020-11-16,54,147656,0.682,0.652,0.376,0.797,0.177,0.132,-11.642,0.0488,119.979,1,4,chill
+Gold Seal,Gold Seal,Berus,1C35MJOshR3kaGBCbnKPMX,2020-11-27,49,198375,0.868,0.101,0.622,0.859,0.0572,0.614,-9.723,0.0898,97.019,4,4,chill
+Sill,Sill,Jakspin,73T435Ue8eCR25TnR4rd9X,2020-11-20,52,160000,0.629,0.294,0.577,0.213,0.125,0.534,-8.676,0.0753,83.91,9,4,chill
+Jellyfish,Jellyfish,Koralle,43S5TrG3ZjOY6H1Rfs8CIr,2020-11-27,51,125173,0.829,0.0776,0.279,0.672,0.268,0.227,-15.924,0.0535,92.033,8,4,chill
+Seaside Stories,Seaside Stories,Jazzy James,1oFzAEO2ZWev2HuiePxZpx,2020-11-27,50,111375,0.701,0.522,0.585,0.866,0.399,0.881,-11.472,0.0543,138.035,0,4,chill
+Flotsam,Flotsam,Bobby Dreamz BIG,1BkB4GUx2WgklzOcn4qj8D,2020-11-20,53,147023,0.688,0.843,0.386,0.795,0.102,0.194,-11.903,0.0635,84.952,2,4,chill
+Leaves,Leaves,Cosmonkey,2hvrjpzkMmICannbkh0dTn,2020-11-30,55,154480,0.814,0.41,0.525,0.887,0.0954,0.523,-11.822,0.11,86.994,7,4,chill
+Coco Cove,Coco Cove,Oaty.,5wmTMe7AefHhus3D2oFHHr,2020-11-27,57,170751,0.785,0.495,0.468,0.93,0.101,0.589,-7.457,0.31,168.029,5,4,chill
+The Source,The Source,7apes,2JwP32RN0DB4dqmZmWqANH,2020-11-20,50,165957,0.769,0.0895,0.433,0.89,0.161,0.426,-8.956,0.0551,94.036,1,4,chill
+time stop.,pool,yeyts.,1hPlKIqmPeIJRLK0OQqW0R,2020-11-03,49,71111,0.494,0.0257,0.684,0.108,0.323,0.781,-8.564,0.0417,81.084,11,4,chill
+Flow,From the Soul,KVMTZ,75RT8larSzbbTtng5z8piG,2020-11-13,48,120000,0.692,0.424,0.386,0.109,0.0854,0.292,-11.278,0.0958,79.998,0,4,chill
+Bellflower Field,Bellflower Field,Marcos Caixa,6Fm57pQOCnIHFUt5yEFiEi,2020-11-03,47,124482,0.68,0.366,0.71,0.901,0.24,0.818,-6.159,0.0714,173.98,6,4,chill
+Psalm,Psalm,Axian,2thLLdEIlLbo1h2RAsThVv,2020-11-09,51,122700,0.643,0.777,0.271,0.244,0.119,0.283,-10.279,0.0884,89.901,6,4,chill
+Good Times,Good Times,Ghostnaut,0RL6hEYE3Hz3l6kne5WrII,2020-11-03,54,144000,0.698,0.82,0.224,0.903,0.0973,0.129,-15.477,0.0599,79.97,5,4,chill
+I Woke Up Late (Again...),I Woke Up Late (Again...),Brous One,5NeYErar7a7hszYND0vdSs,2020-11-13,49,130632,0.751,0.283,0.449,0.921,0.0729,0.184,-9.236,0.062,79.079,5,4,chill
+Autumn,Autumn,Kevoe West,5yETD7Sf4q05SbUIdGVx9E,2020-11-20,60,141882,0.698,0.049,0.72,0.15,0.106,0.393,-7.996,0.0478,170.106,0,4,chill
+Aimar,Aimar,Khutko,44tYbgLuGYmhrUhGuBGXxv,2020-11-13,49,137142,0.687,0.75,0.613,0.815,0.142,0.706,-7.257,0.118,84.012,2,4,chill
+Flower Sermon,Flower Sermon,KaspaHauser,1B68JTG40mc8ZenuWAoPzU,2020-10-30,47,134157,0.558,0.469,0.425,0.764,0.0978,0.313,-13.29,0.0861,89.204,9,4,chill
+Back to the Bap,Back to the Bap,Anthony Drawn,6odZiVTBFDpBrb0aaAs09H,2020-11-13,55,205479,0.606,0.833,0.412,0.944,0.0806,0.513,-10.163,0.0304,85.083,9,4,chill
+Lazy Day,Somethin' Jazzy,Clément Matrat,6Y7qEot1GyDBdg3abzdNmY,2020-11-17,49,83101,0.665,0.852,0.186,0.944,0.0903,0.0813,-20.168,0.138,80.989,1,4,chill
+Snooze,Zero,Aylior,1EsuHeJcVUl8JF0MlU7mjj,2020-11-20,61,172584,0.726,0.711,0.0942,0.713,0.0564,0.265,-19.943,0.0639,89.084,2,4,chill
+Sweet Hangover,Sweet Hangover,Peter Kind,5kGxA8CYmy5aUAcv2zHtwj,2020-11-13,68,112714,0.742,0.418,0.334,0.0193,0.105,0.615,-9.704,0.068,80.008,1,4,chill
+Solar,Solar,Natty Reeves,3rgq0rNscbanTfD24ZshDu,2020-11-12,40,179215,0.658,0.545,0.382,0.906,0.176,0.527,-12.528,0.041,153.012,7,4,chill
+Snowcap,Snowcap,Glimlip,0rKVVQCTgJ5xX3XTl2zGxj,2020-11-08,51,147884,0.731,0.937,0.307,0.903,0.118,0.255,-15.092,0.0507,77.995,5,4,chill
+8th Street,8th Street,Birds Of The West,0JJ3PMCcXtzYeCSMGiAUft,2020-11-13,51,128166,0.747,0.0937,0.688,0.873,0.149,0.493,-5.437,0.133,89.957,7,4,chill
+Gravitate,Gravitate,Lazlow,06niUwKynN4OjKCfYufQbG,2020-11-06,48,111586,0.437,0.834,0.371,0.868,0.0981,0.134,-9.077,0.0615,145.929,9,1,chill
+Oh What A Love,Oh What A Love,Kina Grannis,5Z8O4RFAmjA13jrOYIgyXA,2020-12-25,57,235135,0.457,0.941,0.064,0.108,0.107,0.0647,-19.928,0.0339,147.824,6,3,cheerful
+better with you,a constant state of improvement.,Virginia To Vegas,0OPIBKjAYBFzNpo1HzjqzQ,2020-02-28,63,191826,0.623,0.525,0.572,0,0.185,0.461,-9.257,0.0606,78.02,2,4,cheerful
+Afterglow,Afterglow,Ed Sheeran,0E4Y1XIbs8GrAT1YqVy6dq,2020-12-21,92,185486,0.641,0.698,0.324,0,0.328,0.273,-5.851,0.0299,110.184,11,4,cheerful
+Little Things,Little Things,Charlie Brennan,74mU4zNiHJl990F6gqBG4p,2020-10-09,52,146837,0.593,0.723,0.488,0,0.351,0.423,-9.72,0.154,164.183,4,4,cheerful
+Falling Like The Stars,Falling Like The Stars,James Arthur,15xWRPHQMeqgdkGzInx3PY,2019-05-10,78,212720,0.296,0.823,0.351,1.5e-06,0.11,0.19,-9.538,0.0351,177.596,6,3,cheerful
+Can’t Imagine,Wonder,Shawn Mendes,2GwberkV36NoC5snp51cLC,2020-12-04,70,149768,0.412,0.849,0.162,2.16e-06,0.354,0.375,-14.356,0.146,179.63,0,5,cheerful
+Tell Her You Love Her (feat. Mat Kearney),Tell Her You Love Her (feat. Mat Kearney),Echosmith,7b9oZ5tuGDKRWsL0lgQXqg,2021-01-08,49,263053,0.287,0.66,0.208,0,0.119,0.233,-11.3,0.0368,74.889,2,5,cheerful
+The Way I Love You,The Way I Love You,yaeow,3XV5r1cMB2AlD2ir0v6mfm,2020-07-30,60,162726,0.543,0.94,0.206,0.453,0.385,0.13,-18.037,0.0319,113.107,6,3,cheerful
+invisible string,folklore,Taylor Swift,6VsvKPJ4xjVNKpI8VVZ3SV,2020-07-24,78,252880,0.653,0.838,0.452,7.73e-05,0.108,0.45,-11.143,0.055,83.433,4,4,cheerful
+Heaven,Heaven,Emilee,24FprytnP9KMqH01aPR2N5,2020-04-01,66,154763,0.417,0.921,0.208,0,0.12,0.293,-11.307,0.0545,80.71,0,4,cheerful
+Dancing When I Die,Dancing When I Die,Heather Janssen,6epGSSmdGkjcBmLDKXLbMl,2020-05-15,58,162000,0.448,0.602,0.173,0,0.0987,0.282,-12.406,0.0458,108.107,10,4,cheerful
+Sophia,Chapter 2,Juke Ross,093KMwH96ZwZRZn2lKoX9Z,2020-06-19,58,231693,0.514,0.703,0.32,4.83e-05,0.115,0.14,-11.937,0.0428,115.312,5,4,cheerful
+84,84,Rajiv Dhall,3qePCADpvWQ38YCLxXBrdU,2020-04-18,56,155728,0.448,0.575,0.413,0,0.121,0.406,-7.411,0.0511,169.319,5,4,cheerful
+Who Would Have Thought,Who Would Have Thought,Dylan Dunlap,1ws2DVEGJD2d12aDm4zqic,2020-03-13,0,244477,0.42,0.461,0.43,0,0.26,0.323,-7.454,0.0298,140.962,11,3,cheerful
+If You Love Her,If You Love Her,Forest Blakk,727Z2S2mtNH46CbP9EWPwY,2020-09-30,68,217351,0.286,0.355,0.445,0,0.114,0.278,-8.087,0.0347,50.827,6,4,cheerful
+The Most Beautiful Thing,The Most Beautiful Thing,Bruno Major,7EncNzyGs8uJiQittB38ef,2020-05-01,3,235426,0.806,0.535,0.362,0.045,0.111,0.42,-10.381,0.0345,127.502,7,4,cheerful
+Put A Little Love On Me,Put A Little Love On Me,Niall Horan,1hCTxutVVYvggAQcUUUZAT,2019-12-06,75,224585,0.584,0.678,0.465,0,0.106,0.299,-4.88,0.0262,95.969,10,4,cheerful
+Favorite T-Shirt (Acoustic),Favorite T-Shirt (Acoustic),Jake Scott,0sem2PTbwYJdCHoDn487TE,2019-11-08,0,188442,0.823,0.757,0.399,0,0.123,0.607,-8.608,0.0571,114.999,9,4,cheerful
+Dressed Up In White,Dressed Up In White,CAL,0MoupiG0cMvbfPV1nwZAry,2020-02-14,59,203835,0.735,0.165,0.422,0,0.208,0.399,-8.208,0.0733,146.062,3,4,cheerful
+Home To You,Home To You,Sigrid,0qBug5X3DaJv2zgXtp55wn,2019-11-01,63,221586,0.619,0.808,0.146,0,0.0971,0.288,-14.439,0.0382,139.533,8,4,cheerful
+Cherry,Fine Line,Harry Styles,2IOFZdYYkFxEHVz1w34PoL,2019-12-13,81,259186,0.53,0.615,0.512,0.00453,0.129,0.411,-9.261,0.0259,95.946,7,4,cheerful
+If the World Was Ending - feat. Julia Michaels,If the World Was Ending (feat. Julia Michaels),JP Saxe,2kJwzbxV2ppxnQoYw4GLBZ,2019-10-17,89,208687,0.464,0.866,0.473,0,0.109,0.604,-10.086,0.129,75.801,1,4,cheerful
+Fall On Me,Fall On Me,A Great Big World,1sbNEp1zyMXQCXUHNllTaR,2019-11-22,0,263053,0.459,0.677,0.292,0,0.119,0.226,-6.235,0.0348,110.674,9,4,cheerful
+"10,000 Hours (with Justin Bieber) - Piano","10,000 Hours (with Justin Bieber) [Piano]",Dan + Shay,6HjF1gzVEZMb4GplnGl9B3,2019-11-27,68,172320,0.426,0.765,0.366,0,0.117,0.386,-6.514,0.0312,179.736,10,4,cheerful
+Lover (Remix) [feat. Shawn Mendes],Lover (Remix) [feat. Shawn Mendes],Taylor Swift,3i9UVldZOE0aD0JnyfAZZ0,2019-11-13,75,221306,0.448,0.433,0.603,0,0.0862,0.422,-7.176,0.064,205.272,7,3,cheerful
+One More Time Around,One More Time Around,Tyler Ward,3DyhwZyBFedvnt68fMi6vf,2019-09-20,58,205666,0.429,0.614,0.358,0,0.0875,0.187,-9.076,0.0346,134.279,0,4,cheerful
+Better Half of Me,Better Half of Me,Tom Walker,114xcQz8sZ6fxRBTZmgmNE,2019-10-04,69,195451,0.576,0.814,0.453,0,0.267,0.418,-4.4,0.0294,107.89,3,4,cheerful
+I Ain't Ever Loved No One - Acoustic,The Other Way,Donovan Woods,3i8ZkeKgwu1t4m8SPPzNvv,2019-05-03,3,199594,0.32,0.629,0.223,0,0.106,0.158,-14.728,0.0329,160.626,10,4,cheerful
+Rainbow,Golden Hour,Kacey Musgraves,79qxwHypONUt3AFq0WPpT9,2018-03-30,75,214293,0.581,0.88,0.197,0,0.107,0.349,-7.697,0.0329,130.367,3,4,cheerful
+Friday I’m In Love - Recorded at Spotify Studios NYC,Spotify Singles,Phoebe Bridgers,07vS8obfeZbr8H4MgQfXR7,2018-12-05,70,220812,0.373,0.948,0.123,0,0.0816,0.138,-15.193,0.0407,97.129,7,4,cheerful
+Best Part of Me (feat. YEBBA),Best Part of Me (feat. YEBBA),Ed Sheeran,5ug4vqGZ3eisGhY1IsziNX,2019-07-05,73,243266,0.565,0.762,0.242,9.3e-06,0.285,0.237,-8.367,0.0318,81.657,2,4,cheerful
+To a T - Stripped,To a T (Stripped),Ryan Hurd,6di48z6eF5dBYVpB0tZV5i,2019-05-24,64,198385,0.599,0.823,0.325,3.66e-06,0.133,0.319,-6.793,0.0297,114.053,9,4,cheerful
+ocean eyes - Recorded Live at Jungle City Studios,Spotify Singles,Alicia Keys,7rLokcIMP9p8fl0iROdVfC,2019-12-04,70,184548,0.353,0.934,0.148,0,0.112,0.297,-13.108,0.0421,88.203,7,5,cheerful
+Love Her,Happiness Begins,Jonas Brothers,2hgk8iKN9UdoM4ILlJ9F5N,2019-06-07,64,193133,0.74,0.178,0.337,0,0.0944,0.56,-6.039,0.0282,103.002,8,4,cheerful
+Break My Heart Right,Oh My Messy Mind,James Bay,6BP8sg44smNB3pbD4QAOzi,2019-05-10,64,204013,0.63,0.962,0.103,1.14e-06,0.0915,0.298,-11.6,0.0499,113.61,2,4,cheerful
+Best Part (feat. H.E.R.),Freudian,Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,2017-08-25,80,209831,0.524,0.808,0.364,0,0.1,0.436,-10.209,0.0367,75.24,7,4,cheerful
+"For Me, It's You","For Me, It's You",Lo Moon,2odYUJ9LhwDVVPxXL3NxuB,2018-11-16,58,240026,0.452,0.332,0.46,0.0199,0.177,0.199,-12.986,0.0327,81.957,0,4,cheerful
+Speechless,Dan + Shay,Dan + Shay,3GJ4hzg4lrGwU51Y3VARbF,2018-06-22,77,213386,0.616,0.356,0.438,0,0.24,0.386,-5.968,0.0298,135.929,1,4,cheerful
+I Will Spend My Whole Life Loving You,I Will Spend My Whole Life Loving You,Imaginary Future,77enz5hl8RicxrbPB56VXQ,2017-06-16,70,227619,0.637,0.887,0.129,0,0.0719,0.298,-17.082,0.0346,125.802,11,4,cheerful
+Cherry Wine - Live,Hozier,Hozier,0bZ52QzCCKfrfOqs7za6lI,2014-10-07,64,240146,0.415,0.951,0.11,0.00234,0.0962,0.234,-14.901,0.0388,81.876,1,4,cheerful
+Can't Help Falling in Love,Can't Help Falling in Love,Haley Reinhart,0Rm2G83ELwkuEgpHlJcBPn,2015-10-09,0,173500,0.406,0.951,0.0307,0,0.0984,0.245,-17.636,0.04,136.716,0,4,cheerful
+Location - Recorded at Spotify Studios NYC,Spotify Singles,AJR,7jwZYPS8reDirsT4Mvqpui,2017-08-02,0,178794,0.566,0.863,0.261,0,0.106,0.477,-8.801,0.0375,97.595,10,4,cheerful
+"If I Ain’t Got You - James Bay Spotify Session 2015 ""Alicia Keys Cover""",James Bay Spotify Session 2015,James Bay,1zJpJ3HPRtAYYNLWm5BJEf,2015-08-07,69,261120,0.652,0.743,0.18,4.04e-06,0.71,0.328,-9.735,0.111,115.218,5,3,cheerful
+Little Things,Take Me Home: Yearbook Edition,One Direction,7kSLdGdXLey7pzLsWpdg1h,2012-11-09,25,219640,0.707,0.788,0.222,0,0.205,0.556,-11.716,0.0329,110.095,7,4,cheerful
+This Town,Flicker (Deluxe),Niall Horan,0qvzXomUDJVaUboy2wMfiS,2017-10-20,80,232852,0.677,0.712,0.401,0,0.116,0.195,-8.467,0.0308,111.825,9,4,cheerful
+All I Want,In A Perfect World,Kodaline,5JuA3wlm0kn7IHfbeHV0i6,2012,0,306386,0.226,0.161,0.408,0.131,0.187,0.142,-9.74,0.0432,91.341,0,3,cheerful
+Love Me Now - Recorded at Spotify Studios NYC,Spotify Singles,John Legend,2pPRgFEENF3LtuxYUPuT24,2016-11-30,64,228506,0.508,0.975,0.233,0,0.111,0.421,-8.311,0.0535,85.543,8,3,cheerful
+Gravity,Little Voice,Sara Bareilles,4oa14QBfWRDfJy2agySy0L,2007-07-03,72,232760,0.27,0.834,0.275,0,0.146,0.231,-10.357,0.0356,168.964,0,4,cheerful
+Say You Love Me,Say You Love Me,Jessie Ware,2hcPE11xSLCNHt5PYidj5U,2014-01-01,0,257483,0.387,0.162,0.413,1.56e-05,0.262,0.249,-8.95,0.0559,173.73,7,3,cheerful
+XO,XO,John Mayer,7cpCU3Denug5NGZsSpQl8v,2014-05-27,74,213626,0.431,0.749,0.377,0,0.211,0.353,-9.753,0.0288,173.67,2,4,cheerful
+Stay With Me - Live From Spotify Berlin,Spotify Sessions,Angus & Julia Stone,2GiYPEgOA7hb7sqsEWX8df,2015-01-13,70,174360,0.614,0.825,0.101,0.0217,0.707,0.155,-22.159,0.0395,75.902,0,4,cheerful
+Kiss Me,+,Ed Sheeran,0Tel1fmuCxEFV6wBLXsEdk,2011-09-09,75,280853,0.589,0.64,0.227,0.00469,0.0248,0.182,-16.67,0.0498,74.993,2,4,cheerful
+First Day Of My Life,"I'm Wide Awake, It's Morning",Bright Eyes,5OiaAaIMYlCZONyDBxqk4G,2005-01-25,72,188800,0.468,0.915,0.201,8.28e-05,0.0952,0.383,-17.024,0.0388,94.422,4,4,cheerful
+Make You Feel My Love,19,Adele,7rPLZ8Krm6CZIbraFUlnWZ,2008-01-28,0,212040,0.325,0.91,0.18,0.000633,0.113,0.0997,-10.647,0.0311,72.416,10,1,cheerful
+Better Together,In Between Dreams,Jack Johnson,4VywXu6umkIQ2OS0m1I79y,2005-01-01,72,207680,0.868,0.308,0.347,2e-05,0.11,0.659,-9.529,0.0536,110.059,5,4,cheerful
+How Long Will I Love You - Bonus Track,Halcyon Days,Ellie Goulding,0ZPfDxZn5O0L84wvPSN2iG,2013-01-01,64,154435,0.512,0.295,0.304,0.000622,0.118,0.172,-9.19,0.0318,126.078,0,5,cheerful
+If I Ain't Got You,The Diary Of Alicia Keys,Alicia Keys,3XVBdLihbNbxUwZosxcGuJ,2003-12-02,81,228706,0.609,0.603,0.445,6.77e-06,0.104,0.166,-9.129,0.106,118.393,7,3,cheerful
+Tenerife Sea,x (Deluxe Edition),Ed Sheeran,1HbcclMpw0q2WDWpdGCKdS,2014-06-21,72,241346,0.53,0.697,0.346,1.07e-05,0.105,0.359,-10.497,0.0376,121.876,8,4,cheerful
+Marry Me,"Save Me, San Francisco (Golden Gate Edition)",Train,0VZ9xPNa6ROafP6GYYuv2S,2009,1,205453,0.366,0.829,0.269,1.67e-05,0.108,0.492,-8.456,0.0287,86.577,0,4,cheerful
+Lucky,We Sing. We Dance. We Steal Things.,Jason Mraz,0IktbUcnAGrvD03AWnz3Q8,2008-05-12,77,191360,0.623,0.296,0.417,0,0.135,0.721,-8.699,0.0354,130.032,0,4,cheerful
+"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,John Mayer,4LloVtxNZpeh7q7xdi1DQc,2008,75,263573,0.315,0.771,0.296,0,0.702,0.436,-13.262,0.0317,172.638,5,4,cheerful
+Somewhere Only We Know,Somewhere Only We Know,Lily Allen,3DDGhkxq3FeUorZppSgeLE,2013-11-10,64,208154,0.314,0.935,0.286,0.0258,0.0999,0.278,-10.191,0.035,172.021,10,4,cheerful
+Yellow,Parachutes,Coldplay,3AJwUDP919kvQ9QcozQPxg,2000-07-10,87,266773,0.429,0.00239,0.661,0.000121,0.234,0.285,-7.227,0.0281,173.372,11,4,cheerful
+Turning Tables,21,Adele,5O6yk6U8L3rTbFsIwuqe8H,2011-01-19,61,250133,0.305,0.952,0.452,1.68e-05,0.129,0.21,-6.077,0.0293,79.83,0,4,cheerful
+Night Changes,FOUR (Deluxe),One Direction,5O2P9iiztwhomNh8xkR9lJ,2014-11-17,84,226600,0.672,0.859,0.52,0,0.115,0.37,-7.747,0.0353,120.001,8,4,cheerful
+Bubbly,Coco,Colbie Caillat,0rFOs9paloAvEtzwDX1Kmc,2007-01-01,70,196280,0.697,0.603,0.474,0,0.11,0.249,-6.663,0.0351,127.904,9,4,cheerful
+I Won't Give Up,Love Is a Four Letter Word (Deluxe Edition),Jason Mraz,53QF56cjZA9RTuuMZDrSA6,2012-04-13,75,240165,0.585,0.694,0.303,0,0.115,0.142,-10.058,0.0398,136.703,4,3,cheerful
+The One That Got Away - Acoustic,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,5jx8tCxiO0uIbo2uNia23K,2012-03-12,71,259040,0.714,0.697,0.434,0,0.0919,0.352,-11.542,0.0396,123.942,4,4,cheerful
+Chasing Cars,Eyes Open,Snow Patrol,11bD1JtSjlIgKgZG2134DZ,2006-01-01,80,267933,0.563,0.209,0.592,5.08e-05,0.132,0.136,-4.571,0.0276,104.016,9,4,cheerful
+Fix You,X&Y,Coldplay,7LVHVU3tWfcxj5aiPFEW4Q,2005-06-07,84,295533,0.209,0.164,0.417,0.00196,0.113,0.124,-8.74,0.0338,138.178,3,4,cheerful
+Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2YlZnw2ikdb837oKMKjBkW,2015-01-09,81,225053,0.63,0.4,0.53,0,0.177,0.417,-7.259,0.0434,108.038,0,3,cheerful
+A Thousand Years,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,2011-10-18,83,285120,0.421,0.309,0.407,0.000961,0.11,0.161,-7.445,0.0267,139.028,10,3,cheerful
+Stay With Me,In The Lonely Hour (Deluxe Edition),Sam Smith,7IHOIqZUUInxjVkko181PB,2014-01-01,0,172723,0.5,0.566,0.418,0.000193,0.11,0.176,-6.535,0.0377,84.899,0,4,cheerful
+I'm Yours,We Sing. We Dance. We Steal Things.,Jason Mraz,1EzrEOXmMH3G43AXT1y7pA,2008-05-12,84,242186,0.686,0.595,0.457,0,0.105,0.718,-8.322,0.0468,150.953,11,4,cheerful
+Photograph,x (Deluxe Edition),Ed Sheeran,1HNkqx9Ahdgi1Ixy2xkKkL,2014-06-21,86,258986,0.614,0.607,0.379,0.000464,0.0986,0.201,-10.48,0.0476,107.989,4,4,cheerful
+The Scientist,A Rush of Blood to the Head,Coldplay,75JFxkI2RXiU7L9VXzMkle,2002-08-08,86,309600,0.557,0.731,0.442,1.46e-05,0.11,0.213,-7.224,0.0243,146.277,5,4,cheerful
+All of Me,Love In The Future (South Africa Tour Edition),John Legend,3uhBIQ7tv8j1FME8cFGEfG,2012,0,269560,0.422,0.922,0.264,0,0.132,0.331,-7.064,0.0322,119.93,8,4,cheerful
+Yours - Wedding Edition,Yours,Russell Dickerson,0vBMmF78QgtWY6dDNDPhbv,2017-10-13,2,216333,0.607,0.722,0.425,0,0.0883,0.536,-7.975,0.0269,134.003,11,4,cheerful
+Real Estate,Real Estate,Adam Melchor,2VvTMIXG760UiG9OSiFt9j,2018-12-04,65,216000,0.493,0.953,0.284,0.00739,0.151,0.199,-12.815,0.0309,79.959,2,4,cheerful
+Grow As We Go,Sing To Me Instead,Ben Platt,6hYvw3LLTViP2mT4MpDNmT,2019-03-29,73,249426,0.458,0.882,0.137,0,0.15,0.437,-14.083,0.0355,80.824,8,4,cheerful
+Walking On A Dream,Walking On A Dream,Empire of the Sun,0mBkoM8r7KAQzZij5swTUL,2009-02-23,63,198440,0.87,0.245,0.699,6.76e-06,0.0588,0.726,-5.541,0.0459,126.967,5,4,cheerful
+Summertime Magic,Summer Pack,Childish Gambino,4j3GWI86JvSaF0BLdmgcfF,2018-07-11,69,213600,0.76,0.0129,0.579,0.00351,0.106,0.125,-7.374,0.0569,100.01,0,4,cheerful
+"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,Calvin Harris,5bcTCxgc7xVfSaMV3RuVke,2017-06-30,76,223413,0.893,0.0642,0.745,0,0.0943,0.872,-3.105,0.0571,101.018,11,4,cheerful
+Sunflower - Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,3KkXRkHbMCARz0aVfEt68P,2018-12-14,87,158040,0.76,0.556,0.479,0,0.0703,0.913,-5.574,0.0466,89.911,2,4,cheerful
+Borderline,The Slow Rush,Tame Impala,5hM5arv9KDbCHS0k9uqwjr,2020-02-14,82,237800,0.621,0.0406,0.873,9.1e-06,0.0824,0.873,-3.067,0.0369,97.96,5,4,cheerful
+Baby I'm Yours - feat. Irfrane,By Your Side,Breakbot,7oGwQOTkMB9Sk3DIKJLd5F,2012-12-11,59,215786,0.831,0.705,0.794,3.4e-05,0.0978,0.735,-3.701,0.0752,118.075,2,4,cheerful
+Harvest Moon,Pacific Standard Time,Poolside,35U4PXL3W3XIkAjEUdhr36,2012-07-09,68,368783,0.782,0.288,0.622,0.53,0.58,0.921,-5.832,0.0411,106.022,2,4,cheerful
+Supalonely,STELLA & STEVE,BENEE,4nK5YrxbMGZstTLbvj6Gxw,2019-11-15,85,223480,0.863,0.305,0.631,3.04e-05,0.123,0.817,-4.689,0.0534,128.977,7,4,cheerful
+New Light,New Light,John Mayer,3bH4HzoZZFq8UpZmI2AMgV,2018-05-10,79,216014,0.828,0.325,0.689,0.0384,0.0808,0.853,-7.878,0.0326,123.931,7,4,cheerful
+Bossa Nova Baby,Bossa Nova Baby,Teddi Gold,7Fj3WLawd3Nms8utkoC3sb,2020-07-21,44,153373,0.735,0.153,0.731,0.000136,0.149,0.94,-5.526,0.0448,150.074,11,4,cheerful
+Honeypie,Honeypie,JAWNY,6JqYhSdTE4WbQrMXxPH5cD,2019-04-25,1,135521,0.742,0.0698,0.678,0,0.151,0.927,-4.605,0.192,115.05,5,4,cheerful
+Chemicals,Chemicals,SG Lewis,4xnaRQjBsHrJY5hmxBlMel,2020-04-24,72,254871,0.616,0.12,0.854,0,0.322,0.801,-4.749,0.368,113.982,11,4,cheerful
+Heat Waves,Heat Waves,Glass Animals,6CDzDgIUqeDY5g8ujExx2f,2020-06-29,83,238805,0.761,0.44,0.525,6.7e-06,0.0921,0.531,-6.9,0.0944,80.87,11,4,cheerful
+SUPERBLOOM,SUPERBLOOM,MisterWives,2HvtedoEeymVWrBPyAMNwZ,2020-07-24,77,213546,0.558,0.191,0.889,0.000387,0.328,0.716,-3.945,0.102,170.102,8,4,cheerful
+Juice,Cuz I Love You,Lizzo,0k664IuFwVP557Gnx7RhIl,2019-04-19,79,195144,0.767,0.00611,0.889,0,0.402,0.843,-2.988,0.0963,119.93,7,4,cheerful
+Doin' Time,Doin' Time,Lana Del Rey,0cLS7FslBJgsuWwJNRnPWB,2019-05-17,4,201996,0.621,0.336,0.692,0.000458,0.0877,0.446,-5.837,0.0435,144.968,7,4,cheerful
+Li Lo,Li Lo,DCS Lefty,1BNDOOshnJoEBT7e8nkvIK,2020-06-19,35,167790,0.738,0.554,0.536,0.00114,0.239,0.374,-8.506,0.0955,86.001,6,4,cheerful
+Pink Lemonade,Pink Lemonade,Johnny Stimson,3BYUbrFKwIPYGmFwQkx8qU,2020-08-07,53,166147,0.753,0.765,0.431,0,0.521,0.276,-9.024,0.223,85.021,7,4,cheerful
+Hold Up,Lemonade,Beyoncé,0rzNMzZsubFcXSEh7dnem7,2016-04-23,74,221093,0.524,0.745,0.397,0,0.521,0.552,-11.936,0.405,80.744,0,4,cheerful
+Feel It Still - Medasin Remix,Feel It Still (Medasin Remix),Portugal. The Man,4m6ObZmZ7wnyrKtmLvlyVE,2017-05-19,54,194434,0.568,0.553,0.463,0.00114,0.0858,0.148,-10.622,0.262,157.686,4,4,cheerful
+Electric Love,Dopamine,BØRNS,2GiJYvgVaD2HtM8GqD9EgQ,2015-10-16,88,218106,0.611,0.00543,0.797,0.00137,0.26,0.518,-7.627,0.0533,120.041,6,4,cheerful
+Tennis Court,Pure Heroine (Extended),Lorde,4ivBdCI1s9f6yDWFUvBtZo,2013-01-01,68,198907,0.758,0.0156,0.546,0.000194,0.237,0.404,-8.597,0.0635,90.019,0,4,cheerful
+Sunset Lover,Presence,Petit Biscuit,3WRQUvzRvBDr4AxMWhXc5E,2017-11-10,74,238906,0.785,0.669,0.525,0.439,0.114,0.251,-7.556,0.042,90.853,6,4,cheerful
+Put Your Records On,Put Your Records On,Ritt Momney,1fah1uAs7HeTYDlNftKr3K,2020-04-24,47,210463,0.399,0.058,0.492,0.00101,0.11,0.159,-10.777,0.0538,91.066,6,4,cheerful
+Moon (And It Went Like),Play Me Again,Kid Francescoli,24upABZ8A0sAepfu91sEYr,2017-03-03,72,390638,0.662,0.288,0.657,0.856,0.102,0.0584,-10.002,0.0345,117.986,7,4,cheerful
+You Make Me Feel Good - Original Mix,Panorama Pacifico,Satin Jackets,1wW0yMVo6dVxWZkmduKEWC,2016-04-08,57,427819,0.794,0.0915,0.595,0.406,0.0586,0.624,-6.035,0.0525,114.011,11,4,cheerful
+September,September,Campsite Dream,3jseE4aPONGUAQAe62AXX2,2018-09-28,51,185606,0.754,0.0078,0.442,1.9e-05,0.106,0.33,-8.801,0.0481,110.028,6,4,cheerful
+Paradise,Paradise,Bazzi,7njKgVl3AnLflRad38o7AG,2019-04-04,3,169038,0.844,0.0828,0.644,0,0.113,0.591,-6.273,0.0479,122.061,11,4,cheerful
+Milkshake - Remix,Milkshake (Remix),St Francis Hotel,7vHAxpb7WokhkMZVH0wDNR,2020-05-13,46,171063,0.705,0.126,0.713,0.00214,0.0742,0.53,-7.716,0.0636,99.953,11,4,cheerful
+Imagination,Imagination,Foster The People,2flxduIqEbsicdmPyj1WVW,2019-06-21,76,256266,0.744,0.115,0.642,3.95e-05,0.279,0.63,-4.6,0.031,94.988,2,4,cheerful
+Magic In The Hamptons (feat. Lil Yachty),Magic In The Hamptons (feat. Lil Yachty),Social House,2Yer0p7uB2lVBUAtANuuQp,2018-06-08,81,164640,0.769,0.66,0.479,0,0.0914,0.803,-5.339,0.0385,96.051,1,4,cheerful
+bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,2019-03-29,90,194087,0.701,0.328,0.425,0.13,0.1,0.562,-10.965,0.375,135.128,7,4,cheerful
+Nevermind,Nevermind,Dennis Lloyd,63SevszngYpZOwf63o61K4,2017-06-30,79,156600,0.6,0.159,0.688,1.29e-05,0.409,0.0793,-8.339,0.201,99.977,5,4,cheerful
+Never Be Like You (feat. Kai),Skin,Flume,5WI2ltQIdwgzf1SNE76JyR,2016-05-27,69,234909,0.444,0.453,0.557,0,0.152,0.296,-5.476,0.0602,115.058,0,4,cheerful
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),Lana Del Rey,6PUIzlqotEmPuBfjbwYWOB,2013-02-01,75,214912,0.572,0.0157,0.81,6.53e-06,0.13,0.11,-5.791,0.0558,126.052,1,4,cheerful
+Body,Body,Loud Luxury,21RzyxY3EFaxVy6K4RqaU9,2017-10-27,77,163216,0.752,0.0476,0.764,9.44e-05,0.0543,0.582,-4.399,0.038,121.958,1,4,cheerful
+Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,Summer Feelings (feat. Charlie Puth),Lennon Stella,49dFIRQCQxPWgoH0m38XQ5,2020-04-23,77,160289,0.696,0.262,0.686,0,0.174,0.7,-6.113,0.0309,115.982,5,4,cheerful
+Cool Again,Lenses,Shoffy,0xM6mdl0XX2qOqUZmVUp97,2018-11-16,4,191935,0.774,0.443,0.45,3.28e-05,0.127,0.648,-6.86,0.0896,90.055,11,4,cheerful
+Oh Devil - Radio Version,Oh Devil (Radio Version),Electric Guest,6KwSdmAba8BxoxVXPw70LO,2017-06-16,56,217386,0.899,0.186,0.579,0.00668,0.217,0.709,-5.424,0.0719,96.989,7,4,cheerful
+4EVER,4EVER,Clairo,5mIOsPuQdXchVY0jB5NO9Q,2018-04-27,75,159595,0.75,0.049,0.585,0.00552,0.155,0.584,-7.576,0.0285,102.331,9,4,cheerful
+I Like It,Invasion of Privacy,Cardi B,58q2HKrzhC3ozto2nDdN4z,2018-04-06,84,253390,0.816,0.099,0.726,0,0.372,0.65,-3.998,0.129,136.048,5,4,cheerful
+My My My!,Bloom,Troye Sivan,4NiehSBQthimPzRsVeOgCT,2018-08-31,72,204726,0.701,0.00407,0.458,0.000151,0.045,0.482,-7.749,0.0836,102.967,1,4,cheerful
+Slow Hands,Flicker (Deluxe),Niall Horan,2cOUlop2ZakjOKe4WinesN,2017-10-20,78,188174,0.735,0.011,0.425,0,0.055,0.848,-6.648,0.0464,85.896,0,4,cheerful
+Girls Like You (feat. Cardi B),Red Pill Blues (Deluxe),Maroon 5,7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,78,235545,0.851,0.568,0.541,0,0.13,0.448,-6.825,0.0505,124.959,0,4,cheerful
+Talk (feat. Disclosure),Free Spirit,Khalid,6TqXcAFInzjp0bODyvrWEq,2019-04-05,78,197573,0.901,0.051,0.4,0,0.0599,0.346,-8.575,0.126,135.984,0,4,cheerful
+Are You Bored Yet? (feat. Clairo),Are You Bored Yet? (feat. Clairo),Wallows,1yY9uOKV3A9pPedzTfvbg1,2019-02-01,0,178000,0.681,0.156,0.683,2.55e-05,0.273,0.64,-6.449,0.0287,120.028,8,4,cheerful
+Sugar,V,Maroon 5,2iuZJX9X9P0GKaE93xcPjk,2014-09-02,82,235493,0.748,0.0591,0.788,0,0.0863,0.884,-7.055,0.0334,120.076,1,4,cheerful
+Time (feat. Ariana Grande),3.15.20,Childish Gambino,2Aq78kKI9yuloJQkcbhQbU,2020-03-22,58,367293,0.621,0.0117,0.538,0.0189,0.583,0.311,-9.307,0.0401,85.977,10,4,cheerful
+Light,Light,San Holo,6jq6rcOikCZAmjliAgAmfT,2017-02-10,67,239853,0.57,0.0857,0.763,2.49e-06,0.0932,0.43,-4.137,0.0573,150.088,1,4,cheerful
+Higher Ground (feat. Naomi Wild),Higher Ground,ODESZA,7D0t8BHJxakSnO6EVBglc4,2017-07-11,47,215130,0.629,0.0865,0.852,0.0215,0.263,0.415,-5.094,0.0521,104.997,1,4,cheerful
+When I'm With Him,Us,Empress Of,4vBlxgG7iM8WwjLMHKpNkm,2018-10-19,48,193946,0.779,0.301,0.846,8.83e-06,0.0623,0.757,-5.68,0.0345,116.014,1,4,cheerful
+Swimming Pool,Swimming Pool,Millie Turner,1yO91Oyey81Sjp5kb9O1dw,2019-06-21,42,223853,0.739,0.225,0.719,2.71e-06,0.101,0.51,-7.189,0.0456,119.975,9,4,cheerful
+Con Altura,Con Altura,ROSALÍA,2qG5sZ7Si6sdK74qLxedYM,2019-03-28,81,161626,0.882,0.39,0.689,0.00325,0.0501,0.746,-4.027,0.124,97.963,6,4,cheerful
+Dollar,Dollar,Electric Guest,6dXVbkS1t7jQs3maRSM9pW,2019-07-15,0,208746,0.799,0.47,0.58,0.000183,0.154,0.601,-8.152,0.0891,95.039,0,4,cheerful
+Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),benny blanco,0d2iYfpKoM0QCKvcLCkBao,2018-07-12,81,173799,0.56,0.555,0.68,0,0.116,0.319,-7.648,0.321,89.391,6,4,cheerful
+Like the Others Do,Awkward,Shahrae,7eWLcBy5NHeMs4sVNBPNkS,2019-08-16,0,192000,0.538,0.268,0.502,0.00162,0.197,0.0684,-9.543,0.049,190.079,9,4,cheerful
+Everything Goes (Wow),Don't Feed The Pop Monster,Broods,5p4a4kv36kHEIBLMEllAF2,2019-02-01,42,204111,0.566,0.125,0.829,0.00345,0.281,0.213,-4.3,0.0398,92.991,7,4,cheerful
+CHANCES,NOTHIN LIKE U / CHANCES,KAYTRANADA,439X8jGytErRiPnaoUJHju,2018-11-30,69,218200,0.835,0.204,0.527,0.000423,0.283,0.611,-7.272,0.128,106.003,7,4,cheerful
+Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,7Feaw9WAEREY0DUOSXJLOM,2019-04-25,79,163804,0.661,0.179,0.723,1.23e-05,0.14,0.316,-6.976,0.0566,113.778,5,4,cheerful
+Cool,Cool,Jonas Brothers,3QmolSZqjjLksTUvZJ6pPS,2019-04-05,3,167120,0.681,0.0105,0.603,0,0.159,0.643,-5.533,0.0458,79.007,0,4,cheerful
+Meant to Be (feat. Florida Georgia Line),Expectations,Bebe Rexha,4e4fqjx0Izh4svvTef1z7e,2018-06-22,72,164205,0.642,0.0476,0.772,0,0.0646,0.589,-6.61,0.0848,153.995,10,4,cheerful
+Show Me,Show Me,Akacia,10myPNOGfqlAmkKRc3L1d9,2017-08-18,0,195921,0.646,0.818,0.35,0.014,0.1,0.281,-9.859,0.343,196.015,5,4,cheerful
+Dissolve,Thousand Peaces,Absofacto,7pBrj5rt4SSxXwFKOyZfHR,2017-11-03,74,224660,0.688,0.23,0.582,0.000157,0.0663,0.872,-10.668,0.0542,85.486,6,4,cheerful
+Goodie Bag,Goodie Bag,Still Woozy,297rZsBEjFw9d0Gl3iBLnd,2017-11-05,0,146390,0.701,0.82,0.529,0.00113,0.249,0.577,-12.242,0.147,138.216,7,4,cheerful
+Truth Hurts,Truth Hurts,Lizzo,5Qel1sTrU4LM8HlJSPT2jd,2017-09-19,0,173325,0.715,0.11,0.624,0,0.123,0.412,-3.046,0.114,158.087,4,4,cheerful
+Slide (feat. Frank Ocean & Migos),Funk Wav Bounces Vol.1,Calvin Harris,7tr2za8SQg2CI8EDgrdtNl,2017-06-30,69,230813,0.736,0.498,0.795,1.21e-06,0.254,0.511,-3.299,0.0545,104.066,1,4,cheerful
+Mi Gente,Mi Gente,J Balvin,4ipnJyDU3Lq15qBAYNqlqK,2017-06-30,73,189440,0.774,0.0179,0.687,1.17e-05,0.128,0.308,-4.818,0.0584,104.959,11,4,cheerful
+In My Feelings,Scorpion,Drake,0bAkKNCQfWkexHFn7fIKns,2018-06-29,2,217933,0.735,0.00623,0.482,0.0144,0.448,0.315,-9.445,0.139,181.995,8,4,cheerful
+That's What I Like,24K Magic,Bruno Mars,0KKkJNfGyhkQ5aFogxQAPU,2016-11-17,83,206693,0.853,0.013,0.56,0,0.0944,0.86,-4.961,0.0406,134.066,1,4,cheerful
+Instant Crush (feat. Julian Casablancas),Random Access Memories,Daft Punk,2cGxRwrMyEAp8dEbuZaVv6,2013-05-17,77,337560,0.775,0.0422,0.585,0.619,0.077,0.518,-9.516,0.0271,109.942,10,4,cheerful
+Thru These Tears,Thru These Tears,LANY,4gB61mP4tNChn4LgfquMhi,2018-07-17,1,204515,0.711,0.154,0.517,0,0.149,0.294,-7.695,0.0391,119.945,11,4,cheerful
+"fuck, i'm lonely (with Anne-Marie)",~how i'm feeling~,Lauv,09PGubKAMryhOWv1LHpCYz,2020-03-06,80,198973,0.806,0.482,0.558,0,0.0618,0.678,-6.46,0.0683,95.016,9,4,cheerful
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",TROLLS (Original Motion Picture Soundtrack),Trolls,1WkMMavIMc4JZ8cfMmxHkI,2016-09-23,75,237546,0.669,0.0106,0.832,0,0.0968,0.7,-5.72,0.0682,113.035,0,4,cheerful
+Natural Blues,Play & Play: The B Sides,Moby,4qUVntQ46fmejnJDlRlJpw,1999-05-17,50,253760,0.681,0.046,0.653,0.0513,0.276,0.656,-7.891,0.0328,107.988,3,4,cheerful
+On Hold - Jamie xx Remix,On Hold (Jamie xx Remix),The xx,0iALOYqXaVoluUIsSyDAny,2017-09-13,47,371533,0.759,0.302,0.909,0.842,0.0998,0.47,-7.85,0.0373,128.189,0,4,cheerful
+So Good to Me - Radio Edit,So Good to Me (Radio Edit),Chris Malinchak,3fDrZa4ksxA5lgi0utGu6k,2013-11-19,50,226120,0.72,0.148,0.469,0.0807,0.0765,0.369,-12.633,0.0394,121.028,11,4,cheerful
+Old Town Road (feat. Billy Ray Cyrus) - Remix,Old Town Road,Lil Nas X,6u7jPi22kF8CTQ3rb9DHE7,2019-04-05,11,157066,0.878,0.0533,0.619,0,0.113,0.639,-5.56,0.102,136.041,6,4,cheerful
+Cross Me (feat. Chance the Rapper & PnB Rock),Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,543bCW2ruMPmxUBWirQ3MR,2019-05-24,72,206186,0.746,0.214,0.787,0,0.0669,0.607,-6.373,0.12,95.005,4,4,cheerful
+Shooting Stars,Bag Raiders (Deluxe),Bag Raiders,0UeYCHOETPfai02uskjJ3x,2011-01-01,73,235813,0.636,0.0893,0.72,0.0178,0.0868,0.425,-6.195,0.0432,124.944,11,4,cheerful
+The Middle,The Middle,Zedd,09IStsImFySgyp0pIQdqAc,2018-01-23,84,184732,0.753,0.171,0.657,0,0.112,0.437,-3.061,0.0449,107.01,7,4,cheerful
+Mine,COSMIC,Bazzi,7uzmGiiJyRfuViKKK3lVmR,2018-04-12,80,131064,0.71,0.0161,0.789,2.77e-06,0.451,0.717,-3.874,0.0722,142.929,4,4,cheerful
+Lose Yourself to Dance (feat. Pharrell Williams),Random Access Memories,Daft Punk,5CMjjywI0eZMixPeqNd75R,2013-05-17,72,353893,0.832,0.0839,0.659,0.00114,0.0753,0.674,-7.828,0.057,100.163,10,4,cheerful
+One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,7ef4DlsgrMEH11cDZd32M6,2018-04-06,84,214846,0.791,0.037,0.862,2.19e-05,0.0814,0.592,-3.24,0.11,123.994,9,4,cheerful
+passionfruit,EP2,Yaeji,7lW2HbFRh65PMz82J7mPnb,2017-11-03,1,274728,0.605,0.611,0.443,0.0917,0.111,0.196,-13.171,0.0351,111.87,8,4,cheerful
+Ipanema,Ipanema,Still Woozy,1yoOiFrd7KHnUPun8BSBxl,2019-05-02,0,127044,0.751,0.216,0.473,0.0774,0.267,0.868,-11.458,0.199,147.437,1,4,cheerful
+Across The Room (feat. Leon Bridges),A Moment Apart,ODESZA,4YaNLEPw3MrIgkGOkBrAh2,2017-09-08,66,283537,0.566,0.0155,0.587,2.05e-05,0.111,0.246,-5.96,0.0308,82.046,6,4,cheerful
+Vanille fraise,Vanille fraise,L'Impératrice,7nZ9CzhiFRPhOQCn7eDSnn,2015,65,238183,0.767,0.0399,0.547,0.485,0.0949,0.66,-11.458,0.0474,103.03,7,4,cheerful
+Cheerleader - Felix Jaehn Remix Radio Edit,Me 4 U,OMI,023OVLNzXhX0j7CxswUt6D,2015-10-16,66,180560,0.78,0.141,0.68,1.2e-05,0.138,0.594,-6.081,0.0305,118.026,4,4,cheerful
+Can't Feel My Face,Beauty Behind The Madness,The Weeknd,22VdIZQfgXJea34mQxlt81,2015-08-28,81,213520,0.705,0.113,0.769,0,0.105,0.583,-5.526,0.0425,107.949,9,4,cheerful
+Classic (feat. POWERS),Classic (feat. POWERS),The Knocks,42UaTVeWaNaME7ttu61ykG,2014-08-12,52,248516,0.63,0.00474,0.942,0.000744,0.326,0.543,-3.195,0.0485,101.996,2,4,cheerful
+Paper Cut,Paper Cut,Sophie Simmons,4gSEZ8dkB4GrrIowsib0l9,2018-06-22,48,188857,0.92,0.459,0.647,0.00855,0.0766,0.259,-8.553,0.119,105.011,0,4,cheerful
+Composure,Composure,Argonaut & Wasp,3Qfj2BgymJSXY4zDrBCo3g,2019-04-17,0,184800,0.671,0.00969,0.611,0.431,0.1,0.378,-8.453,0.0328,116.934,10,4,cheerful
+DYSFUNCTIONAL,DYSFUNCTIONAL,KAYTRANADA,60y3oBiHHIlOzUFZRWP6Ak,2019-04-10,60,240757,0.808,0.00113,0.805,0.0585,0.193,0.886,-3.392,0.103,107.965,1,4,cheerful
+Shine A Light - Flight Facilities Remix,Shine A Light,The C90s,68yqiuPVxrT9OySWFDwDDd,2010-11-05,53,349962,0.686,0.0149,0.671,0.457,0.074,0.814,-10.185,0.0475,104.995,0,4,cheerful
+Ultimatum - Edit,Ultimatum,Disclosure,0slkzFvyBWcwnjEEDtYE5E,2018-05-17,55,213381,0.838,0.303,0.706,0.863,0.0712,0.776,-7.626,0.067,118.017,7,4,cheerful
+Lie,Lie,Shallou,2kbqbzvtneTypTMVaONXqL,2018-01-25,0,215445,0.655,0.295,0.427,0.00108,0.0788,0.224,-11.684,0.0799,107.992,2,4,cheerful
+Ruin My Life,Ruin My Life,Zara Larsson,5tAa8Uaqr4VvA3693mbIhU,2018-10-18,79,190931,0.665,0.423,0.699,0,0.0969,0.585,-5.265,0.0578,124.896,11,4,cheerful
+I Miss Myself (with HRVY),I Miss Myself (with HRVY),NOTD,5YkmS18BehACOhIIeUqe6l,2019-05-03,67,191611,0.72,0.0856,0.864,0,0.16,0.659,-3.249,0.208,96.048,0,4,cheerful
+NUMB,NUMB,Hayden James,1jJtDLctkzilPae8saJe37,2017-10-06,0,217296,0.589,0.203,0.573,0,0.0926,0.429,-7.126,0.0494,147.909,10,4,cheerful
+All The Stars (with SZA),Black Panther The Album Music From And Inspired By,Kendrick Lamar,3GCdLUSnKSMJhs4Tj6CV3s,2018-02-09,82,232186,0.698,0.0605,0.633,0.000194,0.0926,0.552,-4.946,0.0597,96.924,8,4,cheerful
+Il Paradiso,Il Paradiso,AK420,1t0vLpJTu4E6Q3R3rDzxQr,2021-01-08,40,183476,0.754,0.0105,0.385,0.873,0.084,0.527,-10.182,0.0469,176.014,10,4,cheerful
+Reminisce Over Us,Reminisce Over Us,Phlocalyst,6LuJ3IpHvMANnuzV5NGzrC,2021-01-08,31,156976,0.703,0.28,0.306,0.901,0.116,0.473,-10.919,0.0749,86.022,8,4,cheerful
+Time Consuming,Time Consuming,Snoozegod,7h3TP14K4trKSjIAX2KdWj,2021-01-08,37,115517,0.757,0.265,0.461,0.123,0.35,0.353,-9.477,0.0313,108.999,1,4,cheerful
+For What It Was,Special Love,IAMPAUL,0B2ILMaXWitHbHAJm2nSLd,2021-01-08,24,157063,0.829,0.656,0.329,0.894,0.116,0.669,-11.067,0.0535,87.011,1,4,cheerful
+Natsu,Natsu,lōland,5r9075hPYZN8E7ddE2WoJs,2021-01-08,35,156000,0.808,0.647,0.574,0.552,0.13,0.905,-7.862,0.154,99.986,8,4,cheerful
+Aspirin,Aspirin,Fed Nance,6MZ4wt0FASXisNMTvh0zmW,2021-01-08,26,100185,0.465,0.927,0.403,0.818,0.105,0.61,-7.312,0.0824,79.787,5,4,cheerful
+Absence of Gravity - Pablo Nouvelle Remix,Absence of Gravity (Pablo Nouvelle Remix),Audio Dope,6hj4VrcrOW2oFxUlwda95L,2021-01-08,32,217867,0.443,0.77,0.253,0.565,0.287,0.252,-13.694,0.0606,82.977,3,4,cheerful
+Ricotta,Ricotta,Spaze Windu,5XIXFGuVLXEKnq5dks9slW,2020-12-28,38,146000,0.75,0.24,0.337,0.237,0.292,0.717,-12.862,0.0353,86.115,6,4,cheerful
+Virudhunagar - Village Live,Virudhunagar (Village Live),Liphe,6IWNGrWVj9gF4tbVgYkdeJ,2020-12-17,46,254264,0.546,0.134,0.372,0.0172,0.27,0.247,-9.149,0.0317,123.952,5,4,cheerful
+Routine,Routine,Cuebe,33u11l05Mrc1Pm7bgAwokl,2020-12-15,46,169170,0.681,0.429,0.486,0.539,0.136,0.226,-8.481,0.0784,86.917,2,4,cheerful
+Phoebe,Phoebe,Sátyr,0jVcDTCdWPPPka66nfuyVu,2020-12-11,47,145203,0.494,0.604,0.476,0.926,0.0895,0.271,-13.002,0.0768,88.9,1,4,cheerful
+Floating,Floating,Smuv,4ORqQyhhdSDMSmGYEFn0XX,2020-12-18,49,124235,0.721,0.127,0.266,0.949,0.117,0.795,-13.768,0.242,85.18,9,4,cheerful
+Get It Right,Get It Right,DYVN,3oyY1hhLvW5PBXDchk26RB,2020-12-18,47,88960,0.634,0.924,0.326,0.949,0.111,0.231,-8.574,0.064,99.856,6,4,cheerful
+Mindfulness,Mindfulness,Saï T,2WYiVWTXflf49CyF5Vgn93,2020-12-15,54,155712,0.472,0.435,0.475,0.617,0.103,0.61,-10.148,0.0463,173.699,1,4,cheerful
+Don't You Know,Don't You Know,Nobodys Face,2rDOj0Reg5tizn7TOkx2oH,2020-12-15,47,120800,0.641,0.203,0.623,0.836,0.111,0.436,-9.401,0.177,168.188,7,4,cheerful
+Blank,Blank,Phlocalyst,3bY2PA3xBWRZcBgQ6WHE6G,2020-12-17,47,161333,0.828,0.081,0.139,0.665,0.107,0.243,-13.461,0.0598,93.744,6,5,cheerful
+Snow Rays,Snow Rays,Jules Hiero,32vlnvHcOnsGy1CRUhdLlB,2020-12-18,49,135000,0.618,0.0893,0.389,0.899,0.116,0.3,-10.743,0.0623,80.019,6,4,cheerful
+Happified,Happified,Smeeagain,1qzo9Nl3xb3Nc28whqnMBK,2020-12-11,47,113000,0.609,0.0891,0.505,0.00419,0.263,0.762,-7.866,0.343,179.214,4,4,cheerful
+Oozing Charm,Oozing Charm,ilover,5kdgkWrDRqcPiN9muLQyhY,2020-12-18,47,219201,0.829,0.39,0.45,0.128,0.181,0.617,-7.698,0.182,79.969,1,4,cheerful
+Drive,Drive,Vincent Rayn,5vZ0xTx0A83XISiceirh1o,2020-12-18,47,150367,0.674,0.889,0.159,0.945,0.111,0.477,-13.76,0.0434,79.04,9,4,cheerful
+Loungy,Loungy,Bobby Dreamz BIG,2MOcQoEZyOXJqmE9AIDP6V,2020-12-18,47,121999,0.706,0.949,0.567,0.914,0.128,0.551,-10.316,0.106,74.971,3,3,cheerful
+Drifting,Drifting,Dontcry,1mPjpQZdd5H4wvb4ZQ98Fm,2020-12-18,52,147417,0.58,0.591,0.27,0.877,0.0892,0.0675,-14.366,0.0328,79.005,11,4,cheerful
+Barca-Longa,Barca-Longa,Drips Zacheer,4YVJjWeFBOX1zy8apVuNPt,2020-12-18,46,192877,0.798,0.277,0.376,0.842,0.221,0.374,-9.203,0.0927,87.034,6,4,cheerful
+California Dial,California Dial,Bawer,3Qlvubr1CzObDSus8RfTvc,2020-12-18,45,101739,0.486,0.123,0.472,0.713,0.106,0.167,-11.276,0.0863,82.024,1,3,cheerful
+Late Checkout,Late Checkout,Saiko,3J0J198M7pTufTPMPVmVRL,2020-12-18,47,134301,0.534,0.333,0.441,0.0804,0.625,0.383,-5.86,0.241,84.733,2,4,cheerful
+ticino,DMNS II,DRWN.,31EMvlf4BACIaBu9IYtslE,2020-12-04,46,93750,0.671,0.801,0.403,0.00107,0.125,0.696,-7.123,0.479,81.865,5,4,cheerful
+felt,felt,Joe Nora,7kOQQ4Sp12kka6rEYHF58M,2020-12-04,47,192400,0.786,0.857,0.352,0.705,0.105,0.247,-10.736,0.0915,85.016,10,4,cheerful
+Serenity,Serenity,Pabzzz,2po5NOyWbMcctLvkGuyXeZ,2020-11-27,47,211477,0.725,0.0186,0.561,0.681,0.14,0.809,-10.348,0.081,91.628,5,4,cheerful
+Rain,Rain,Rene Schier,4BK2frpTXhL9GI2wJO929Q,2020-12-04,46,159350,0.652,0.131,0.401,0.0652,0.104,0.489,-9.573,0.0578,76.973,6,4,cheerful
+La Ofrenda,La Ofrenda,Papi Churro,1NQtj5l1ELsReim18GvbtX,2020-12-11,49,162798,0.705,0.335,0.47,0.863,0.115,0.14,-10.156,0.0382,102.0,4,4,cheerful
+Sunday Blue,Sunday Blue,Syrup,2cSFuvmLZSYnwNr8JIy1Yu,2020-12-16,50,85186,0.553,0.806,0.224,0.48,0.198,0.374,-13.699,0.37,85.022,6,4,cheerful
+Friends And Enemies,Unreality,Jazzy James,42XYJNuFpKxPrVBY3o2JjC,2020-12-11,48,172249,0.575,0.657,0.375,0.899,0.166,0.0622,-8.664,0.0246,92.009,5,4,cheerful
+Slide,Slide,Goson,3o4E6Xq9dUTT4imswVdIXh,2020-12-07,54,142698,0.703,0.484,0.413,0.9,0.113,0.398,-9.694,0.041,150.025,9,4,cheerful
+Why Don't You,Why Don't You,Platinum Dust,0D2ZTpusZN3VcuGS0sxV0S,2020-12-11,49,123403,0.743,0.562,0.527,0.433,0.193,0.752,-9.9,0.0555,87.979,7,4,cheerful
+Libration,MENACE ‘5’,Various Artists,2VoDSrBiAJLuz7wtulZut6,2020-12-03,49,184906,0.728,0.306,0.857,0.41,0.15,0.966,-5.948,0.0486,88.216,6,4,cheerful
+20/20,20/20,Lazlow,5fGoUzBSvwhIi3RiFtGtXM,2020-12-04,52,146346,0.643,0.651,0.464,0.447,0.138,0.372,-13.646,0.173,113.564,4,1,cheerful
+Ethereal Dub,Ethereal Dub,Worldtraveller,78LfqVYpsCwWW3hw8bwUy0,2020-12-11,48,126000,0.702,0.761,0.25,0.887,0.122,0.654,-16.251,0.0504,90.023,0,4,cheerful
+San Francisco Nights,San Francisco Nights,Katashi Kaitō,3bWN5Hibd5W2Zcz0hsM5Ga,2020-12-11,54,115125,0.622,0.0598,0.394,0.882,0.0743,0.487,-9.559,0.04,80.013,8,4,cheerful
+Kompass,Kompass,FloFilz,4Oy0kk2wtLgPqX01wUfzIq,2020-11-11,53,131855,0.698,0.694,0.206,0.91,0.465,0.539,-12.051,0.187,87.959,6,4,cheerful
+Dreamer,Dreamer,sloh rou,4ctpE4E0Z2XAHKYONmv59W,2020-12-11,48,148732,0.666,0.945,0.289,0.9,0.0721,0.254,-14.61,0.0697,71.017,2,1,cheerful
+April 26th,April 26th,Saltyyyy V,7iakFo226nldSeEa624s9I,2020-12-11,46,131612,0.703,0.935,0.288,0.873,0.302,0.374,-12.755,0.0294,93.019,9,4,cheerful
+Leaves,Leaves,Zen Park,69PhCElqRFyxNDcphgiBCo,2020-12-11,48,124575,0.597,0.522,0.384,0.501,0.206,0.559,-9.287,0.1,79.985,0,4,cheerful
+Everybody,Everybody,DAO,4HcLyqPJCTnKGuOv4P0KAt,2020-12-11,58,125445,0.857,0.0447,0.784,0.788,0.0489,0.582,-9.539,0.154,92.986,8,4,cheerful
+Geistgeschwür,Lost Ish,Hulk Hodn,2lDJxK0xBLHf2oNDh2DoMY,2020-12-11,46,161977,0.781,0.00375,0.494,0.934,0.0912,0.824,-8.215,0.21,87.564,6,4,cheerful
+Blueshift,Blueshift / Relaxurmind,FloFilz,2t1FMBG99dDUK5PEMjtMIE,2020-12-11,56,119374,0.78,0.478,0.595,0.898,0.12,0.818,-7.043,0.0378,89.013,8,4,cheerful
+Jangwar,Jangwar,gishfang,1D7jWklwRFIZP6HVynNvNW,2020-11-17,52,102160,0.761,0.367,0.67,0.705,0.0857,0.417,-6.156,0.0403,109.012,7,4,cheerful
+Submarine,Submarine,Parental,0S4JImDTniYQlBTmUzajeW,2020-12-11,46,126326,0.718,0.768,0.194,0.82,0.0726,0.582,-9.523,0.0802,186.128,0,4,cheerful
+City Dreams,City Dreams,Glimlip,2tvPXvthQHFMHclfIGThnl,2020-11-20,58,164817,0.814,0.338,0.447,0.924,0.116,0.251,-10.141,0.215,82.008,0,4,cheerful
+Innerspace,Innerspace,Dr. Dundiff,7nWqc6CGV8ln1ouTtCtqZ4,2020-12-09,48,163260,0.843,0.362,0.432,0.867,0.0985,0.9,-5.658,0.0791,94.306,11,4,cheerful
+Multicolored,Multicolored,Noflik,5zrDAu61cHNLRFMPtwJJuW,2020-12-02,49,141386,0.594,0.494,0.332,0.653,0.129,0.16,-11.653,0.0406,84.828,4,4,cheerful
+Across the valley,Across the valley,l'Outlander,37FTjS7kvGkvw4ftZpO59H,2020-12-11,46,148520,0.62,0.73,0.207,0.914,0.0896,0.09,-17.072,0.0391,168.065,4,4,cheerful
+Singing to the Moon,Lanterns,Lilac,73C5dnarxZWRMSKvI8W1Su,2020-12-10,63,108710,0.683,0.893,0.16,0.864,0.14,0.181,-15.24,0.0502,79.976,3,4,cheerful
+Faye - Village Live,Faye (Village Live),Aver,7A2Fpl8gfayOmCJSH0xFhm,2020-12-08,52,250781,0.494,0.251,0.333,0.915,0.11,0.173,-16.546,0.0299,75.017,9,4,cheerful
+Fall,Fall,Natty Reeves,22TaxtoFfaJz2YUZUbTc4Z,2020-12-03,21,200569,0.535,0.327,0.382,0.885,0.31,0.464,-9.628,0.0431,130.197,2,4,cheerful
+It's All Gravy,It's All Gravy,Max I Million,5quY9LzNMcCgKiahHsb7dU,2020-12-10,45,160360,0.721,0.34,0.283,0.542,0.122,0.505,-10.67,0.118,77.979,10,4,cheerful
+Chambre D'Or,Chambre D'Or,ONO1,45K3LHna1Jnz8y9FPj6WAv,2020-12-04,49,147000,0.681,0.454,0.43,0.9,0.111,0.397,-7.523,0.0464,79.985,4,4,cheerful
+Chairoplane,Chairoplane,Jakspin,10xzu4qkvJCZbam89OSzGv,2020-12-04,48,128571,0.737,0.204,0.478,0.894,0.183,0.824,-9.519,0.0914,84.035,8,4,cheerful
+Play the Shadows,Play the Shadows,Sweatson Klank,4ottW467kmXEBQ7nxy512h,2020-12-09,52,176982,0.729,0.108,0.725,0.896,0.248,0.685,-6.723,0.0834,80.526,9,4,cheerful
+Hana,Hana,lōland,3hFg9FkQsijKjEQ8F8YJ2P,2020-11-27,51,143685,0.596,0.413,0.373,0.00121,0.0776,0.599,-8.888,0.114,138.579,0,4,cheerful
+Water & Sand,Water & Sand / All G,Freddie Joachim,3qdEgLP7w9eXYguFT5SrrP,2020-12-02,52,248000,0.667,0.581,0.551,0.904,0.142,0.318,-8.199,0.11,172.169,0,4,cheerful
+Love Or The Loot,Love Or The Loot,IAMPAUL,5ycAh7EoYcL7BW7bj5wtlH,2020-12-04,47,158489,0.853,0.126,0.442,0.662,0.0914,0.56,-10.449,0.122,85.047,10,4,cheerful
+On & On,On & On,L One,0DSSfCJe2XD6NjLbO9tZUD,2020-12-04,49,170775,0.753,0.0801,0.624,0.858,0.22,0.929,-7.054,0.0412,141.043,8,4,cheerful
+Matagal,Matagal,Chancla,5hUjfGbIJlv89IqEt74kAI,2020-11-20,47,161519,0.816,0.799,0.511,0.509,0.111,0.539,-4.513,0.241,83.118,9,4,cheerful
+Kishmish,Kishmish,Farhot,130NTCQkHKDbcb9sGGfQKF,2020-12-11,53,146386,0.825,0.438,0.531,0.76,0.129,0.405,-6.933,0.159,82.02,9,4,cheerful
+Birds of Manhattan,Birds of Manhattan,Moonspatz,5XXWx3FxU2Y2cjElbQuIWE,2020-11-27,49,164350,0.715,0.627,0.476,0.811,0.0872,0.605,-9.891,0.121,82.002,2,4,cheerful
+Home Office & Coffee,Home Office & Coffee,SP-Mato,3gwz7DL6hiJ0n85mQN52he,2020-11-26,47,117840,0.714,0.255,0.203,0.809,0.13,0.594,-14.959,0.0924,89.989,8,4,cheerful
+SAMO,Invisible Man,Ayzon,6GuiDpEuU8J3L2gKRObRhq,2020-12-04,45,136588,0.785,0.00412,0.319,0.802,0.194,0.56,-7.462,0.194,85.008,11,4,cheerful
+Inverno No Brasil,Inverno no Brasil,Shuko,7A0iOjOIYP3nlVE8lyXNfH,2020-11-27,53,151724,0.702,0.0908,0.792,0.896,0.16,0.383,-8.929,0.0506,96.014,4,4,cheerful
+By the Liter,By the Liter / Seen You,Suff Daddy,57i2oAbbDYCDGLJwG1VHq5,2020-11-26,50,174500,0.653,0.0327,0.391,0.0123,0.133,0.373,-7.328,0.0292,73.012,1,4,cheerful
+Fresco,Fresco,Banker,3jfPn5VTj3VwMWJCbC4Ym5,2020-11-20,48,151333,0.768,0.41,0.316,0.375,0.102,0.272,-11.267,0.0504,90.051,6,4,cheerful
+Connection,Waves,Paul Grant,0lITZkGUYnYSBS6z2SMEWp,2020-11-20,51,150666,0.588,0.922,0.31,0.965,0.105,0.497,-11.16,0.0488,179.886,3,4,cheerful
+Suburb,Suburb,FLKS,0tA5MZUhTSLGL2Bx0qpddF,2020-11-27,48,141497,0.736,0.15,0.54,0.823,0.12,0.856,-7.616,0.0371,138.023,5,4,cheerful
+Sky,Sky,Hast,5HuUjzTXtWxC7lXoaqcBfK,2020-11-20,49,133416,0.657,0.26,0.285,0.897,0.347,0.253,-12.853,0.0882,86.935,10,4,cheerful
+Anzu Love,Anzu Love,Rockinpetas,2Qsln5ZaFIqV5seyJqfS0F,2020-11-06,48,109564,0.71,0.828,0.202,0.423,0.131,0.52,-12.265,0.0593,83.298,4,4,cheerful
+Eternal Sunshine,Eternal Sunshine,Simber,5AJ7rz4GruAuk3I43sAgxa,2020-11-16,54,147656,0.682,0.652,0.376,0.797,0.177,0.132,-11.642,0.0488,119.979,1,4,cheerful
+Gold Seal,Gold Seal,Berus,1C35MJOshR3kaGBCbnKPMX,2020-11-27,49,198375,0.868,0.101,0.622,0.859,0.0572,0.614,-9.723,0.0898,97.019,4,4,cheerful
+Sill,Sill,Jakspin,73T435Ue8eCR25TnR4rd9X,2020-11-20,52,160000,0.629,0.294,0.577,0.213,0.125,0.534,-8.676,0.0753,83.91,9,4,cheerful
+Jellyfish,Jellyfish,Koralle,43S5TrG3ZjOY6H1Rfs8CIr,2020-11-27,51,125173,0.829,0.0776,0.279,0.672,0.268,0.227,-15.924,0.0535,92.033,8,4,cheerful
+Seaside Stories,Seaside Stories,Jazzy James,1oFzAEO2ZWev2HuiePxZpx,2020-11-27,50,111375,0.701,0.522,0.585,0.866,0.399,0.881,-11.472,0.0543,138.035,0,4,cheerful
+Flotsam,Flotsam,Bobby Dreamz BIG,1BkB4GUx2WgklzOcn4qj8D,2020-11-20,53,147023,0.688,0.843,0.386,0.795,0.102,0.194,-11.903,0.0635,84.952,2,4,cheerful
+Leaves,Leaves,Cosmonkey,2hvrjpzkMmICannbkh0dTn,2020-11-30,55,154480,0.814,0.41,0.525,0.887,0.0954,0.523,-11.822,0.11,86.994,7,4,cheerful
+Coco Cove,Coco Cove,Oaty.,5wmTMe7AefHhus3D2oFHHr,2020-11-27,57,170751,0.785,0.495,0.468,0.93,0.101,0.589,-7.457,0.31,168.029,5,4,cheerful
+The Source,The Source,7apes,2JwP32RN0DB4dqmZmWqANH,2020-11-20,50,165957,0.769,0.0895,0.433,0.89,0.161,0.426,-8.956,0.0551,94.036,1,4,cheerful
+time stop.,pool,yeyts.,1hPlKIqmPeIJRLK0OQqW0R,2020-11-03,49,71111,0.494,0.0257,0.684,0.108,0.323,0.781,-8.564,0.0417,81.084,11,4,cheerful
+Flow,From the Soul,KVMTZ,75RT8larSzbbTtng5z8piG,2020-11-13,48,120000,0.692,0.424,0.386,0.109,0.0854,0.292,-11.278,0.0958,79.998,0,4,cheerful
+Bellflower Field,Bellflower Field,Marcos Caixa,6Fm57pQOCnIHFUt5yEFiEi,2020-11-03,47,124482,0.68,0.366,0.71,0.901,0.24,0.818,-6.159,0.0714,173.98,6,4,cheerful
+Psalm,Psalm,Axian,2thLLdEIlLbo1h2RAsThVv,2020-11-09,51,122700,0.643,0.777,0.271,0.244,0.119,0.283,-10.279,0.0884,89.901,6,4,cheerful
+Good Times,Good Times,Ghostnaut,0RL6hEYE3Hz3l6kne5WrII,2020-11-03,54,144000,0.698,0.82,0.224,0.903,0.0973,0.129,-15.477,0.0599,79.97,5,4,cheerful
+I Woke Up Late (Again...),I Woke Up Late (Again...),Brous One,5NeYErar7a7hszYND0vdSs,2020-11-13,49,130632,0.751,0.283,0.449,0.921,0.0729,0.184,-9.236,0.062,79.079,5,4,cheerful
+Autumn,Autumn,Kevoe West,5yETD7Sf4q05SbUIdGVx9E,2020-11-20,60,141882,0.698,0.049,0.72,0.15,0.106,0.393,-7.996,0.0478,170.106,0,4,cheerful
+Aimar,Aimar,Khutko,44tYbgLuGYmhrUhGuBGXxv,2020-11-13,49,137142,0.687,0.75,0.613,0.815,0.142,0.706,-7.257,0.118,84.012,2,4,cheerful
+Flower Sermon,Flower Sermon,KaspaHauser,1B68JTG40mc8ZenuWAoPzU,2020-10-30,47,134157,0.558,0.469,0.425,0.764,0.0978,0.313,-13.29,0.0861,89.204,9,4,cheerful
+Back to the Bap,Back to the Bap,Anthony Drawn,6odZiVTBFDpBrb0aaAs09H,2020-11-13,55,205479,0.606,0.833,0.412,0.944,0.0806,0.513,-10.163,0.0304,85.083,9,4,cheerful
+Lazy Day,Somethin' Jazzy,Clément Matrat,6Y7qEot1GyDBdg3abzdNmY,2020-11-17,49,83101,0.665,0.852,0.186,0.944,0.0903,0.0813,-20.168,0.138,80.989,1,4,cheerful
+Snooze,Zero,Aylior,1EsuHeJcVUl8JF0MlU7mjj,2020-11-20,61,172584,0.726,0.711,0.0942,0.713,0.0564,0.265,-19.943,0.0639,89.084,2,4,cheerful
+Sweet Hangover,Sweet Hangover,Peter Kind,5kGxA8CYmy5aUAcv2zHtwj,2020-11-13,68,112714,0.742,0.418,0.334,0.0193,0.105,0.615,-9.704,0.068,80.008,1,4,cheerful
+Solar,Solar,Natty Reeves,3rgq0rNscbanTfD24ZshDu,2020-11-12,40,179215,0.658,0.545,0.382,0.906,0.176,0.527,-12.528,0.041,153.012,7,4,cheerful
+Snowcap,Snowcap,Glimlip,0rKVVQCTgJ5xX3XTl2zGxj,2020-11-08,51,147884,0.731,0.937,0.307,0.903,0.118,0.255,-15.092,0.0507,77.995,5,4,cheerful
+8th Street,8th Street,Birds Of The West,0JJ3PMCcXtzYeCSMGiAUft,2020-11-13,51,128166,0.747,0.0937,0.688,0.873,0.149,0.493,-5.437,0.133,89.957,7,4,cheerful
+Gravitate,Gravitate,Lazlow,06niUwKynN4OjKCfYufQbG,2020-11-06,48,111586,0.437,0.834,0.371,0.868,0.0981,0.134,-9.077,0.0615,145.929,9,1,cheerful
+Rewind,Rewind,Wake the Wild,2BQNTGlTRAyTcS0w9f78ox,2020-12-09,38,248931,0.626,0.361,0.542,0.00122,0.104,0.693,-8.305,0.328,98.076,1,4,cheerful
+Less,Less,Elise Eriksen,44Ghsk1TVBTKEB4ksQYhSV,2020-11-30,56,211498,0.859,0.177,0.476,0,0.0889,0.521,-6.839,0.0603,107.0,0,4,cheerful
+last few months,last few months,Edgar Sandoval Jr,6qD7p6bu17jLdxgJpS9t6o,2020-12-10,39,202101,0.695,0.298,0.551,1.85e-06,0.104,0.476,-9.156,0.0393,116.043,8,4,cheerful
+favorite color,favorite color,contradash,10ppCCOjLF6K1XnxTkktwN,2020-11-06,46,128342,0.664,0.38,0.665,1.44e-06,0.185,0.299,-7.168,0.198,110.067,2,4,cheerful
+Arizona Summer,Arizona Summer,Peter Fenn,3bxlVq7OILLAU55cV9r9vv,2020-11-06,42,174678,0.719,0.0143,0.632,0,0.0708,0.846,-4.892,0.0414,103.988,4,4,cheerful
+History (feat. Lostboycrow),History (feat. Lostboycrow),Beren Olivia,1bojkU1Mrm3cxSQXyR0jag,2020-11-12,50,202562,0.676,0.424,0.543,0,0.103,0.318,-7.177,0.0414,131.93,5,4,cheerful
+options,options,again&again,25OHd4BcTuhkeDCxKuCFAm,2020-11-13,56,149538,0.764,0.0875,0.783,0,0.359,0.873,-4.692,0.07,130.028,6,4,cheerful
+Tell Me,Tell Me / Blue,Devault,4UOL2cBsYNUWhD2dGxHcs4,2020-11-13,49,228000,0.574,0.0453,0.699,0.000346,0.177,0.142,-6.615,0.038,120.024,9,4,cheerful
+Fumari,Fumari,Peach Tree Rascals,2OQMSCUE6ClEZFJFFNqNrQ,2020-11-19,60,120000,0.908,0.066,0.636,0,0.161,0.925,-7.987,0.0364,126.027,4,4,cheerful
+Someone New,Someone New,Tayo Sound,6YlDVG1IV2DsIkxHNgsLPu,2020-10-16,53,217179,0.786,0.186,0.556,0,0.0946,0.469,-6.714,0.04,119.965,1,4,cheerful
+Tangerine,Tangerine,Glass Animals,0WRPGrwIiWYa2lCE6OVdtl,2020-10-16,27,207118,0.849,0.093,0.581,0.00133,0.177,0.801,-6.61,0.0561,150.004,9,4,cheerful
+Producer Man,Producer Man,Lyn Lapid,5BArc3UpONi77FMkNT4LYU,2020-10-14,72,141672,0.66,0.129,0.639,0,0.256,0.75,-5.364,0.223,173.994,10,4,cheerful
+Help (feat. Rence),Help (feat. Rence),Sarah Barrios,0v6egqGKVDyc1fnXo1GRs8,2020-10-16,43,191304,0.592,0.198,0.545,0,0.172,0.188,-9.914,0.0852,137.764,5,4,cheerful
+For You,For You,ChrisLee,3G5EvS1AZxp2Ry5EKD9BDL,2020-10-09,36,147200,0.602,0.782,0.625,0.0271,0.102,0.161,-5.415,0.0301,150.153,2,4,cheerful
+Sweet Tooth Baby,Sweet Tooth Baby,Torrentiiial,7h9GhjA4crhzz4z0Qk9h2Q,2020-06-03,43,200584,0.38,0.824,0.509,0,0.106,0.251,-7.249,0.231,75.06,0,4,cheerful
+Weirdo,Weirdo,More Fatter,2bXZrZbhRU6IQha9s5I2X2,2020-07-31,54,181177,0.753,0.00674,0.656,0.0146,0.103,0.752,-5.073,0.0402,111.0,11,4,cheerful
+"I NEED U, IN THE SUMMERTIME","I NEED U, IN THE SUMMERTIME",warrenisyellow,5NqIHUcwfBDpc1rgTxKvyG,2020-08-08,48,158075,0.723,0.663,0.851,0,0.0736,0.984,-3.666,0.0559,150.026,0,4,cheerful
+Citrus,Citrus,Sylo Nozra,73Ovlp2BOScOxS9mbGqTX1,2020-08-18,46,159388,0.814,0.133,0.584,2.64e-05,0.162,0.872,-5.428,0.0341,100.001,9,4,cheerful
+Indecision,Indecision,MONEYPHONE,0lWGZP8adQnEeLFdvYlL2P,2020-09-22,34,151779,0.724,0.0639,0.849,0,0.809,0.796,-5.491,0.324,90.06,11,4,cheerful
+Puppy,Puppy,Grady,3R5YAmx1HzkobNpMDNbFT4,2020-09-25,34,146004,0.571,0.263,0.741,5.88e-05,0.339,0.787,-7.385,0.0397,76.524,5,4,cheerful
+"he said, she said","he said, she said",wordsbyjuni,1BqtEfEiep87O11qZSk9Vy,2020-09-25,27,197520,0.767,0.0648,0.605,0.0071,0.319,0.583,-8.723,0.0571,145.978,6,4,cheerful
+Seeing Red,Seeing Red,Imad Royal,0dh3bnC57lRmhdF4xILZuK,2020-09-25,29,146250,0.672,0.0251,0.708,0,0.0559,0.804,-6.694,0.23,172.055,1,4,cheerful
+Daylight,Daylight,Joji,6Ed1q0X8oSKSm4IIhiQbYg,2020-08-06,79,163905,0.528,0.00488,0.749,9.6e-05,0.0949,0.729,-7.571,0.0479,163.944,7,4,cheerful
+WONDER (reimagined by Smallpools),WONDER (reimagined by Smallpools),morgxn,3E70eL43g6tQlck8eU2qVc,2020-10-01,44,237145,0.531,0.217,0.685,0.00057,0.0926,0.469,-5.99,0.0425,99.996,6,4,cheerful
+Hell,Hell,Two Friends,1Is5izEXFW6gVFvvq2XdEw,2020-09-30,55,207085,0.501,0.0192,0.761,0,0.0711,0.35,-3.414,0.0945,146.052,0,4,cheerful
+Heartbreaker,Heartbreaker,Tayo Sound,1Sku9ZUiYYzwCdUwSNqfbX,2020-08-21,47,155801,0.801,0.333,0.387,1.59e-05,0.252,0.869,-6.5,0.26,89.948,1,4,cheerful
+Fall Auf,Fall Auf,Cro,012iHyRvQQquWQGUTYvDxy,2020-08-13,62,191826,0.5,0.307,0.743,2.68e-05,0.133,0.332,-6.648,0.0373,166.256,2,4,cheerful
+Heat Waves,Dreamland,Glass Animals,3USxtqRwSYz57Ewm6wWRMp,2020-08-07,81,238805,0.761,0.44,0.525,6.7e-06,0.0921,0.531,-6.9,0.0944,80.87,11,4,cheerful
+Walk With Me,Walk With Me,unheard,7syKJEOkOWR4YE85TTZdBv,2020-08-07,39,169148,0.66,0.186,0.63,0,0.113,0.394,-7.885,0.0785,93.976,8,4,cheerful
+Nectarines (feat. Royal & the Serpent),Nectarines (feat. Royal & the Serpent),MELVV,5M3B1uoRcVUEQi8FnKxZ0V,2020-07-17,52,202964,0.632,0.126,0.803,0.0117,0.411,0.586,-2.839,0.0432,113.049,1,4,cheerful
+Disco Man,Disco Man,Remi Wolf,7GDjBYc8Q3li08dXaZcMB9,2020-05-27,17,192000,0.686,0.044,0.682,0.0142,0.43,0.856,-7.654,0.0453,84.992,6,4,cheerful
+time flies,time flies,dempsey hope,3xokVOOKnvZLdUFJHmtYqk,2020-07-03,52,138413,0.548,0.16,0.454,0,0.2,0.574,-9.384,0.101,71.758,8,4,cheerful
+JUNE,JUNE,NASAYA,7J6ksWrraIusOZztXNyFdw,2020-07-29,44,212631,0.602,0.0223,0.526,0.000136,0.0614,0.634,-7.4,0.228,114.043,0,4,cheerful
+Space Ghost Coast To Coast,Dreamland,Glass Animals,0RZLmpEzGR2NHite6rvS5H,2020-08-07,65,187383,0.903,0.105,0.529,0.00255,0.138,0.353,-9.901,0.0623,100.977,8,4,cheerful
+hours,hours,again&again,50fOAzCbELUmkFWgbrdW7C,2020-07-31,51,181827,0.723,0.0927,0.699,0,0.0737,0.513,-5.857,0.0469,132.149,0,4,cheerful
+Summer Is Over,Summer Is Over,Alec Wigdahl,3YceHgB0Uubgn5xVlfdkuC,2020-08-07,49,160000,0.847,0.0423,0.582,0.00101,0.109,0.965,-6.164,0.102,150.0,2,4,cheerful
+SOS,SOS,INNR CIRCLE,4DizoOSuzZebR7NfH5ZHAG,2020-08-07,38,175299,0.682,0.0827,0.545,5.79e-06,0.115,0.187,-5.686,0.0352,107.965,11,4,cheerful
+Get Happy (NVDES Edit) [feat. Blu DeTiger],Get Happy (NVDES Edit) [feat. Blu DeTiger],The Knocks,2BwmVotuzB5dBokJzgeqLf,2020-07-15,49,175680,0.639,0.00016,0.894,0.128,0.197,0.961,-3.26,0.0398,126.989,9,4,cheerful
+I Should've Told You,I Should've Told You,Fiji Blue,7FNfzTdPSOA7jzlQQ7gZK2,2020-07-09,61,197522,0.725,0.465,0.66,0.000292,0.0848,0.456,-7.206,0.0663,117.009,8,4,cheerful
+Acid Dreams,Acid Dreams,MAX,3XEdqQtGHAM5huMrs3RaKN,2019-07-19,65,183930,0.817,0.146,0.509,2.53e-05,0.111,0.77,-4.17,0.0839,99.988,0,4,cheerful
+Stuck In A Bubble,Stuck In A Bubble,George Alice,1bSJ2FDSYUQHbg4hpnF4Li,2020-06-10,57,158213,0.929,0.0941,0.555,0,0.0615,0.877,-6.697,0.0394,99.983,5,4,cheerful
+Cologne - Single Version,Cologne,Alec Wigdahl,1kx9guD59iMWgLeWh0sfHn,2020-03-20,53,168510,0.726,0.089,0.511,0.0234,0.113,0.598,-8.75,0.0826,140.973,6,4,cheerful
+Magic In The Hamptons (feat. Lil Yachty),Magic In The Hamptons (feat. Lil Yachty),Social House,2Yer0p7uB2lVBUAtANuuQp,2018-06-08,81,164640,0.769,0.66,0.479,0,0.0914,0.803,-5.339,0.0385,96.051,1,4,cheerful
+Like Summer,Like Summer / Nothing Beyond,Kyan,3innRzfJF3RMcZbXv6It28,2018-05-25,56,336840,0.605,0.887,0.425,0.46,0.0938,0.376,-11.586,0.0373,139.981,9,4,cheerful
+Alive,Alive,Paco Versailles,30qNmUq78SO0W8z4midTdF,2020-06-25,36,207804,0.385,0.0125,0.929,0.0112,0.268,0.651,-7.795,0.0417,122.959,7,4,cheerful
+Deer,Deer,Peach Tree Rascals,7FXh2KJzU0WUv6TPoaN9EA,2020-06-23,48,174099,0.951,0.0704,0.464,0.0332,0.135,0.947,-5.252,0.0477,137.039,2,4,cheerful
+Nostalgia Cycle,Nostalgia Cycle,G-Eazy,5M4hNToXjVHiAIZHRd14SC,2020-06-22,46,164159,0.482,0.295,0.528,0.000601,0.121,0.23,-8.947,0.161,160.044,9,4,cheerful
+Oh Please - APRE Remix,Oh Please (APRE Remix),Tom Grennan,0KAMo9j8CwDz4sLSkFeFF3,2020-06-26,34,216040,0.604,0.336,0.733,2.95e-06,0.14,0.755,-9.431,0.085,80.88,11,4,cheerful
+Stray Nights,Stray Nights,Stephen,0oE1bkIrcep7JnLLdxSsMw,2020-06-26,47,166987,0.502,0.485,0.461,1.63e-05,0.108,0.351,-8.024,0.283,83.037,4,4,cheerful
+Sometimes Things Just Fall Apart,Sometimes Things Just Fall Apart,Rence,3xijzRdlKYMuEQDVZTYlg9,2020-06-26,49,159078,0.697,0.253,0.53,0,0.598,0.408,-7.474,0.0413,117.971,0,4,cheerful
+It's Alright,It's Alright,Feiertag,0WolkJsFsGMiQ3O30T1Dh6,2020-06-05,43,196326,0.71,0.117,0.707,0.149,0.315,0.629,-9.331,0.0376,115.006,3,4,cheerful
+Sign,Sign,Roosevelt,5gIVJOeYMpLcZER5IbHAyM,2020-06-10,45,258651,0.617,0.0865,0.866,0.559,0.105,0.278,-6.036,0.0499,119.032,11,4,cheerful
+Learn To Fly,Learn To Fly (with Elton John),Surfaces,518miTxc3a15X7HB8FgJUW,2020-06-12,68,209832,0.569,0.554,0.536,0,0.0655,0.656,-6.137,0.0819,173.695,1,4,cheerful
+MISCOMMUNICATIONS - Goldroom Remix,MISCOMMUNICATIONS (Goldroom Remix),Ant Saunders,0Kmz04ftdYiQzrsojnpNq5,2020-06-12,45,197739,0.671,0.158,0.86,0.0151,0.137,0.344,-4.378,0.0666,114.873,5,4,cheerful
+scorton's creek - re-imagined by filous,scorton's creek (re-imagined by filous),Isaac Dunbar,5uSwYU4V1hFDZYEHF87RmK,2020-06-12,56,179826,0.803,0.22,0.549,9.03e-06,0.112,0.695,-7.565,0.124,100.007,4,4,cheerful
+happy for you,happy for you,Alex Porat,0kOfcxz6WTw4dzChcdkYDZ,2020-06-12,47,207135,0.646,0.152,0.649,0,0.111,0.596,-6.79,0.0482,144.967,6,4,cheerful
+nirvana,nirvana,dwilly,7zVHK25cjjMljOfuzNtdK9,2020-06-12,24,170450,0.783,0.237,0.629,2.3e-06,0.114,0.902,-7.393,0.206,150.063,5,4,cheerful
+Pretty Girls,I'm Gone,iann dior,3fKdTr6Uv8HTb92Ih3QWxa,2020-06-12,76,133608,0.732,0.276,0.511,0,0.0916,0.62,-6.779,0.0541,96.946,6,4,cheerful
+Freaks,Freaks,Kidhimself,7wARwtk1nFu4f8nKC1i6Sr,2020-05-01,31,184000,0.607,0.0708,0.815,0,0.335,0.235,-7.051,0.12,165.966,2,4,cheerful
+Bitter,Bitter,FLETCHER,2wT9ZttmUbrxjNdhU9WvG1,2020-05-13,2,194749,0.724,0.393,0.594,0.00116,0.0889,0.413,-7.126,0.102,136.002,6,4,cheerful
+good guys,good guys,LANY,3c7peg169veVaJRzlbCaKw,2020-05-13,42,224994,0.455,0.593,0.677,0,0.0899,0.248,-7.719,0.0751,169.919,0,4,cheerful
+We Only Live Once,We Only Live Once,Òlah Bliss,21QmsVIhWPCg3lLRouLT5V,2020-05-20,37,172500,0.616,0.224,0.563,0,0.121,0.163,-6.069,0.0479,91.959,5,4,cheerful
+Coast - Spotify Studio Oyster Recording,Coast - Spotify Studio Oyster Recording,Augustine,23KRFSsLa3UQ8FMY6KQ63i,2020-05-22,55,172717,0.819,0.00934,0.655,0.00016,0.292,0.681,-7.171,0.0487,120.01,9,4,cheerful
+Lighthouse,Lighthouse,Georgia Ku,7kzzbfqXtLZdClU1bigcdg,2020-06-11,0,140334,0.562,0.0211,0.673,1.8e-06,0.264,0.232,-6.581,0.0934,100.201,8,4,cheerful
+Welcome To My Mind,Welcome To My Mind,Spencer Barnett,7nzql8a3IiReUSRBl6Wp0f,2020-05-22,38,136702,0.674,0.031,0.595,3.97e-05,0.107,0.16,-8.319,0.0368,86.977,1,4,cheerful
+Touch,Touch,Big Wild,57v4cMu70Wx4oG9rFp2lMq,2020-05-13,60,212865,0.702,0.0373,0.55,0.00234,0.147,0.535,-7.524,0.0247,106.003,4,4,cheerful
+Nevermind,Nevermind,NAWAS,2fvaXt09FG8tjf28nXIPvy,2020-04-30,39,189965,0.455,0.668,0.454,5.78e-06,0.11,0.193,-9.127,0.0347,156.039,0,4,cheerful
+Body Pump,Body Pump,Aluna,1ynXn99GCWrXx7FPwzDmec,2020-04-30,53,258869,0.762,0.2,0.862,0.0269,0.118,0.671,-4.458,0.0513,120.009,6,4,cheerful
+Type 2,Type 2 (feat. Chloe Lilac),Rence,4a8ekPA0H2unvsELDoqcLc,2020-04-30,38,168761,0.637,0.245,0.632,0,0.23,0.274,-6.181,0.477,174.012,11,4,cheerful
+Kickin' Pushin',Kickin' Pushin',Destiny Rogers,4MWfwCswUIFo3x8s0fnK3x,2020-04-30,48,195097,0.745,0.00802,0.591,3.64e-05,0.25,0.321,-4.894,0.0305,134.985,0,4,cheerful
+phoenix,phoenix,again&again,0jcSQEXvXQba514O6oMeS2,2020-04-30,40,163636,0.645,0.595,0.591,5.14e-06,0.14,0.4,-7.56,0.0623,131.988,7,4,cheerful
+She Said,She Said,RIZ LA VIE,5CohHnumS8s7VEWOsIrfvq,2020-04-29,52,213449,0.643,0.897,0.315,4.5e-06,0.113,0.126,-10.77,0.306,76.264,0,4,cheerful
+Don't Let Me Down,Don't Let Me Down,Milky Chance,36fHADliwp4ColP0Gypg5W,2020-05-01,49,200391,0.854,0.345,0.674,9.82e-05,0.12,0.729,-7.32,0.0597,109.958,0,4,cheerful
+Just Wanna Be Your Friend,Just Wanna Be Your Friend,Ben Kessler,1pvEF9QEuLwjXlcnYYml54,2020-04-30,44,147741,0.425,0.153,0.426,0.000721,0.628,0.46,-9.258,0.0728,70.627,8,5,cheerful
+It Gets Better,It Gets Better,salem ilese,4o6noN1jZoACW3rlpKaDla,2020-04-28,50,118946,0.711,0.575,0.375,0,0.119,0.669,-9.56,0.05,86.059,11,4,cheerful
 Oh What A Love,Oh What A Love,Kina Grannis,5Z8O4RFAmjA13jrOYIgyXA,2020-12-25,57,235135,0.457,0.941,0.064,0.108,0.107,0.0647,-19.928,0.0339,147.824,6,3,sad
 better with you,a constant state of improvement.,Virginia To Vegas,0OPIBKjAYBFzNpo1HzjqzQ,2020-02-28,63,191826,0.623,0.525,0.572,0,0.185,0.461,-9.257,0.0606,78.02,2,4,sad
 Afterglow,Afterglow,Ed Sheeran,0E4Y1XIbs8GrAT1YqVy6dq,2020-12-21,92,185486,0.641,0.698,0.324,0,0.328,0.273,-5.851,0.0299,110.184,11,4,sad
