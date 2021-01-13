@@ -9,6 +9,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 from dotenv import load_dotenv
 from datetime import datetime
+import pymongo
 
 # loading client credentials
 load_dotenv()

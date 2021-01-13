@@ -2,6 +2,8 @@
 # coding: utf-8
 
 
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
 import tensorflow as tf
 from keras.utils import np_utils
 from keras.wrappers.scikit_learn import KerasClassifier
@@ -15,6 +17,7 @@ from sklearn.model_selection import cross_val_score, KFold, train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import confusion_matrix, accuracy_score
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
+from sklearn.ensemble import RandomForestClassifier
 import os
 import json
 from spotipy import SpotifyClientCredentials, util
@@ -35,7 +38,7 @@ tf.compat.v1.disable_v2_behavior()
 
 client_credentials_manager = SpotifyClientCredentials()
 
-df = pd.read_csv("moods_dataset.csv")
+df = pd.read_csv("moods1.csv")
 
 col_features = df.columns[6:-3]
 X = MinMaxScaler().fit_transform(df[col_features])
@@ -52,16 +55,19 @@ encoded_y = encoder.transform(Y)
 dummy_y = np_utils.to_categorical(encoded_y)
 
 X_train, X_test, Y_train, Y_test = train_test_split(
-    X, encoded_y, test_size=0.2, random_state=15)
+    X, encoded_y, test_size=0.2, random_state=0)
 
 target = pd.DataFrame({'mood': df['mood'].tolist(
 ), 'encode': encoded_y}).drop_duplicates().sort_values(['encode'], ascending=True)
-target
+print(target)
+print('X_train: {}, Y_train: {}'.format(len(X_train), len(Y_train)))
+print('X_test: {}, Y_test: {}'.format(
+    len(X_test), len(Y_test)))
 
 
 def base_model():
     # Create the model
-    model = Sequential()
+    model = model = Sequential()
     # Add 1 layer with 8 nodes,input of 4 dim with relu function
     model.add(Dense(8, input_dim=10, activation='relu'))
     # Add 1 layer with output 3 and softmax function
@@ -74,7 +80,7 @@ def base_model():
 
 # Configure the model
 estimator = KerasClassifier(
-    build_fn=base_model, epochs=300, batch_size=200, verbose=0)
+    build_fn=base_model, epochs=300, batch_size=300, verbose=0)
 
 
 # Evaluate the model using KFold cross validation
@@ -86,7 +92,7 @@ results = cross_val_score(estimator, X, encoded_y, cv=kfold)
 estimator.fit(X_train, Y_train)
 y_preds = estimator.predict(X_test)
 
-""" cm = confusion_matrix(Y_test, y_preds)
+cm = confusion_matrix(Y_test, y_preds)
 ax = plt.subplot()
 sns.heatmap(cm, annot=True, ax=ax)
 
@@ -96,9 +102,9 @@ ax.set_ylabel('True labels')
 ax.set_title('Confusion Matrix')
 ax.xaxis.set_ticklabels(labels)
 ax.yaxis.set_ticklabels(labels)
-#plt.show()
+plt.show()
 
-print("Accuracy Score", accuracy_score(Y_test, y_preds)) """
+print("Accuracy Score", accuracy_score(Y_test, y_preds))
 
 
 def predict_mood(id_song):
@@ -117,10 +123,11 @@ def predict_mood(id_song):
     results = pip.predict(preds_features)
 
     mood = np.array(target['mood'][target['encode'] == int(results)])
-    #name_song = preds[0][0]
-    #artist = preds[0][2]
+    name_song = preds[0][0]
+    artist = preds[0][2]
 
-    return mood[0].upper()
+    return print(f"{name_song} by {artist} is a {mood[0].upper()} song")
+    # mood[0].upper()
     #print("{0} by {1} is a {2} song".format(name_song, artist, mood[0].upper()))
     #print(f"{name_song} by {artist} is a {mood[0].upper()} song")
 
@@ -161,5 +168,4 @@ def get_songs_features(id_songs):
     return track, columns
 
 
-predict_mood('7yq4Qj7cqayVTp3FF9CWbm')
-# %%
+predict_mood('2AkcjsKlRbIBYGAgpQVFii')

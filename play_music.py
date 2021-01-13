@@ -15,9 +15,9 @@ tag_mapping = {
     '136, 4, 162, 26, 52': 'energetic',     # mp king blue running leggings
     '136, 4, 161, 26, 55': 'energetic',     # Nike long-sleeve running fleece
     '136, 4, 156, 26, 10': 'energetic',     # mp dark blue running leggings
-    '136, 4, 123, 26, 237': 'calm',         # Nike white sweatpant
+    '136, 4, 123, 26, 237': 'study',         # Nike white sweatpant
     '136, 4, 252, 26, 106': 'happy',        # cream sweater
-    '136, 4, 2, 26, 148': 'happy',          # ando blue sweater
+    '136, 4, 2, 26, 148': 'study',          # ando blue sweater
     '136, 4, 219, 26, 77': 'happy',         # b&w xmas sweater
     '136, 4, 251, 26, 109': 'happy',        # black gold sweater
     '136, 4, 1, 26, 151': 'happy',          # Grey cardigan
@@ -25,8 +25,8 @@ tag_mapping = {
     '136, 4, 36, 25, 177': 'happy',         # black trouser
     '136, 4, 27, 26, 141': 'happy',         # wide-leg jeans
     '136, 4, 35, 26, 181': 'energetic',     # red black legging (party ones)
-    '136, 4, 34, 26, 180': 'calm',          # camel wide-leg trouser
-    '136, 4, 37, 25, 176': 'happy',         # lightining white t-shirt
+    '136, 4, 34, 26, 180': 'chill',          # camel wide-leg trouser
+    '136, 4, 37, 25, 176': 'study',         # lightining white t-shirt
     '136, 4, 9, 25, 156': 'happy',          # moon dark blue long sleeve tshirt
     '136, 4, 43, 25, 190': 'happy',         # black no sleeve turtleneck
     '136, 4, 44, 25, 185': 'happy',         # blue crop top long sleeve
