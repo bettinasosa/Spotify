@@ -10,8 +10,9 @@ import sys
 import pymongo
 import os
 from pymongo import MongoClient
+from ml import predict_mood
 
-# this script periodically adds the new songs I am listening to and assign it to the activity I am performing at the moment.
+# this script periodically adds the new songs I am listening.
 # In this way when the ml algorithm will become more and more informed as time goes by.
 
 while True:
@@ -49,30 +50,27 @@ while True:
                 client_credentials_manager=client_credentials_manager)
             meta = sp.track(track_id)
             features = sp.audio_features(track_id)
-            # this will add my last recorded activity as the mood
-            mood = db.activity.find_one(
-                sort=[('time', pymongo.DESCENDING)]
             )
-            tracks_with_features.append(dict(
-                name=meta['name'],
-                album=meta['album']['name'],
-                artist=meta['album']['artists'][0]['name'],
-                release_date=meta['album']['release_date'],
-                length=meta['duration_ms'],
-                popularity=meta['popularity'],
-                id=meta['id'],
-                acousticness=features[0]['acousticness'],
-                danceability=features[0]['danceability'],
-                energy=features[0]['energy'],
-                instrumentalness=features[0]['instrumentalness'],
-                liveness=features[0]['liveness'],
-                valence=features[0]['valence'],
-                loudness=features[0]['loudness'],
-                speechiness=features[0]['speechiness'],
-                tempo=features[0]['tempo'],
-                key=features[0]['key'],
-                time_signature=features[0]['time_signature'],
-                mood=mood['activity']))
+                tracks_with_features.append(dict(
+                    name=meta['name'],
+                    album=meta['album']['name'],
+                    artist=meta['album']['artists'][0]['name'],
+                    release_date=meta['album']['release_date'],
+                    length=meta['duration_ms'],
+                    popularity=meta['popularity'],
+                    id=meta['id'],
+                    acousticness=features[0]['acousticness'],
+                    danceability=features[0]['danceability'],
+                    energy=features[0]['energy'],
+                    instrumentalness=features[0]['instrumentalness'],
+                    liveness=features[0]['liveness'],
+                    valence=features[0]['valence'],
+                    loudness=features[0]['loudness'],
+                    speechiness=features[0]['speechiness'],
+                    tempo=features[0]['tempo'],
+                    key=features[0]['key'],
+                    time_signature=features[0]['time_signature'],
+                    mood=predict_mood(track_id))
 
         csv_columns = ['name', 'album', 'artist', 'id', 'release_date', 'popularity', 'length', 'danceability', 'acousticness', 'energy', 'instrumentalness',
                        'liveness', 'valence', 'loudness', 'speechiness', 'tempo', 'key', 'time_signature', 'mood']

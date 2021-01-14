@@ -1,6 +1,7 @@
 #!/usr/bin/env python 3.7.4
 # coding: utf-8
 
+# This script was not used further in the end but has remained on the repository in case useful
 import time
 from pymongo import MongoClient
 from pprint import pprint
@@ -32,7 +33,7 @@ for i, item in enumerate(results['items']):
     trackList.append(item['id'])
 # print(i, item['name'], '//', item['artists'][0]['name'], '//', item['id'])
 
-# getting my top played tracked in the past few days
+# getting my top played tracks in the past few days
 tracks_with_features = []
 data = []
 for i in trackList:
