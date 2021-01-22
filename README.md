@@ -2,6 +2,8 @@
 
 This project intends to collect user data based on their Spotify listening trends and their clothing style. The of this project is a 'personalised jukebox', in other words a smart device that will create a 20 song playlist according to your clothing and mood.
 
+The prjects' dashboard at: https://bettinasosa.github.io/siot/
+
 File structure: 
 
 - upload_uid.py   This script is intended for collecting the users clothing trends
